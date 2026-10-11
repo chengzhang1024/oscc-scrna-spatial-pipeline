@@ -1,0 +1,17 @@
+{
+  "target_selection": "cluster with highest cell-level mean SR in Figure 3H",
+  "target_cluster": "C1",
+  "marker_source": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3D_epithelial_cluster_markers.csv.gz",
+  "marker_rule": "Figure 3D top-50 positive markers with pct_in >= 0.10",
+  "query_genes_before_universe_intersection": 50,
+  "GO_database": "D:\\生信\\results\\paper9\\gene_sets\\Enrichr.GO_Biological_Process_2023.gmt",
+  "universe": "integrated-object genes intersect GO Biological Process 2023 GMT",
+  "universe_size": 11807,
+  "test": "one-sided Fisher exact overrepresentation analysis",
+  "multiple_testing": "Benjamini-Hochberg over all tested terms with overlap >= 2",
+  "n_tested_terms": 155,
+  "n_fdr_lt_0.05": 99,
+  "display": "top 10 terms by BH FDR; purple horizontal bars",
+  "visual_reference": "s41746-025-02297-4 Figure 3J",
+  "interpretation_boundary": "The target is C1 because C1, not the reference paper's C4, has the highest mean SR here. Enrichment uses a selected marker list and is descriptive; terms with FDR >= 0.05 must not be called statistically significant."
+}

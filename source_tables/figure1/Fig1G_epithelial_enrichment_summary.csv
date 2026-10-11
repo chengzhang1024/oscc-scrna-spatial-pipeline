@@ -1,0 +1,9 @@
+﻿comparison,direction,database,n_fdr_significant_pathways
+OLK vs Normal,Down,GO_BP_2023,23
+OLK vs Normal,Down,KEGG_2021_Human,3
+OLK vs Normal,Up,GO_BP_2023,18
+OLK vs Normal,Up,KEGG_2021_Human,13
+OSCC vs Normal,Down,GO_BP_2023,102
+OSCC vs Normal,Down,KEGG_2021_Human,6
+OSCC vs Normal,Up,GO_BP_2023,19
+OSCC vs Normal,Up,KEGG_2021_Human,20

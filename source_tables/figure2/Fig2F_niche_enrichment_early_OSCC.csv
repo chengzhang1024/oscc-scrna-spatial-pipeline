@@ -1,0 +1,28 @@
+cluster,cell_type,median_log2_roe,n_patients_present,n_patients_same_direction,display_dot,niche_id,niche_name,niche_color
+0,B/Plasma cells,-0.2320922503662079,4,4,True,N1,Fibrovascular,#65BBA0
+0,Dendritic cells,-0.13944563422622425,4,3,False,N1,Fibrovascular,#65BBA0
+0,Endothelial cells,0.19741470262468702,4,4,True,N1,Fibrovascular,#65BBA0
+0,Epithelial cells,-0.5606639127874573,4,4,True,N1,Fibrovascular,#65BBA0
+0,Fibroblasts,0.6124087011343232,4,4,True,N1,Fibrovascular,#65BBA0
+0,Macrophages,0.11950508448776,4,4,False,N1,Fibrovascular,#65BBA0
+0,Mast cells,-0.15773675170041707,4,3,True,N1,Fibrovascular,#65BBA0
+0,Myocytes,0.08196238325308258,4,2,False,N1,Fibrovascular,#65BBA0
+0,NK/T cells,-0.13568899021612357,4,3,False,N1,Fibrovascular,#65BBA0
+2,B/Plasma cells,0.23721399425123485,4,4,True,N2,Immune-mixed,#F7B52B
+2,Dendritic cells,0.04211517245334489,4,3,False,N2,Immune-mixed,#F7B52B
+2,Endothelial cells,0.03747074306240418,4,3,False,N2,Immune-mixed,#F7B52B
+2,Epithelial cells,-0.3825331915704112,4,4,True,N2,Immune-mixed,#F7B52B
+2,Fibroblasts,0.09114984821375793,4,3,False,N2,Immune-mixed,#F7B52B
+2,Macrophages,0.11344314636200736,4,4,False,N2,Immune-mixed,#F7B52B
+2,Mast cells,-0.05808527440863774,4,4,False,N2,Immune-mixed,#F7B52B
+2,Myocytes,-0.20761064156055764,4,4,True,N2,Immune-mixed,#F7B52B
+2,NK/T cells,0.07175361038759874,4,3,False,N2,Immune-mixed,#F7B52B
+1,B/Plasma cells,-0.04640546234922033,4,4,False,N3,Epithelial-rich,#CF535E
+1,Dendritic cells,0.0036091034313188546,4,2,False,N3,Epithelial-rich,#CF535E
+1,Endothelial cells,-0.052743194030160395,4,3,False,N3,Epithelial-rich,#CF535E
+1,Epithelial cells,0.21865571024974265,4,4,True,N3,Epithelial-rich,#CF535E
+1,Fibroblasts,-0.2199204941233664,4,4,True,N3,Epithelial-rich,#CF535E
+1,Macrophages,-0.06902811015034911,4,4,False,N3,Epithelial-rich,#CF535E
+1,Mast cells,0.05154247635644629,4,4,False,N3,Epithelial-rich,#CF535E
+1,Myocytes,0.07634431512234087,4,3,False,N3,Epithelial-rich,#CF535E
+1,NK/T cells,-0.007355064329908508,4,2,False,N3,Epithelial-rich,#CF535E

@@ -1,0 +1,7 @@
+﻿check,value,detail
+primary_root_all_C0-C8,GGTGAAGTCCCTAACC-3,cluster=C1; SR=0.94537335
+root_excluding_C5_C8,GGTGAAGTCCCTAACC-3,cluster=C1; SR=0.94537335
+root_stable_after_excluding_C5_C8,True,C5 mixed and C8 immune-like are retained in the primary panel
+SR_vs_detected_genes_spearman,0.9279755396811625,p=0
+SR_vs_total_counts_spearman,0.8211306185394789,p=0
+cell_level_cluster_Kruskal_Wallis,2807.207783936352,"p=0; descriptive only, cells are not independent patients"

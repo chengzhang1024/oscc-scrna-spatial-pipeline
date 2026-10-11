@@ -1,0 +1,47 @@
+{
+  "unchanged_source_hashes": true,
+  "pdf_bounds": [
+    {
+      "file": "Fig5A.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Fig5B.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Fig5C.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Fig5D.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Fig5E.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Fig5F.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    },
+    {
+      "file": "Figure5_redesigned.pdf",
+      "outside_page": [],
+      "min_font": 8.0
+    }
+  ],
+  "output_dpi": 300,
+  "all_24k_cells": true,
+  "all_16_patients": true,
+  "all_29_checking_genes": true,
+  "all_12_sections": true,
+  "vector_scatter": true,
+  "script_sha256": "28bc0cb0f6ca1fec9402c26318aef84d843dd7f655d2ab1f2e6f2121355441e2"
+}

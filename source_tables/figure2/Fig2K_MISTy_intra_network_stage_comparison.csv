@@ -1,0 +1,13 @@
+predictor,target,early_median_importance_z,early_stability_fraction,early_evidence_tier,advanced_median_importance_z,advanced_stability_fraction,advanced_evidence_tier,stage_pattern
+Dendritic cells,NK/T cells,1.021866828362545,0.5,candidate_2of4,,,,early_only
+Epithelial cells,B/Plasma cells,1.1558201551130147,0.5,candidate_2of4,1.3149895050490443,0.6666666666666666,candidate_3or4of6,displayed_both
+Epithelial cells,Endothelial cells,,,,1.3277851948145851,0.6666666666666666,candidate_3or4of6,advanced_only
+Epithelial cells,Fibroblasts,2.1752269064355456,0.75,stable_3of4_or_more,2.3693627353886786,0.8333333333333334,stable_5of6,conserved_stable
+Epithelial cells,Macrophages,1.002043368383768,0.5,candidate_2of4,,,,early_only
+Epithelial cells,Mast cells,,,,1.5015484416303777,0.6666666666666666,candidate_3or4of6,advanced_only
+Epithelial cells,Myocytes,1.0378371922627123,0.5,candidate_2of4,,,,early_only
+Epithelial cells,NK/T cells,1.45722938682364,0.75,stable_3of4_or_more,1.279749810634506,0.6666666666666666,candidate_3or4of6,stable_to_candidate
+Fibroblasts,Endothelial cells,1.4604487155825694,0.75,stable_3of4_or_more,,,,early_only
+Fibroblasts,Epithelial cells,1.7691932007468183,0.75,stable_3of4_or_more,1.840978781166621,1.0,stable_5of6,conserved_stable
+Myocytes,Macrophages,1.128008245189294,0.5,candidate_2of4,1.2836789406991629,0.6666666666666666,candidate_3or4of6,displayed_both
+NK/T cells,Dendritic cells,2.1473451323529344,1.0,stable_3of4_or_more,2.0473850951080506,0.8333333333333334,stable_5of6,conserved_stable

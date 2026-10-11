@@ -1,0 +1,109 @@
+patient_id,cluster,cell_type,log2_roe,n_spots,niche_id,niche_name
+P3,0,B/Plasma cells,-0.21677424065208992,162,N1,Fibrovascular
+P3,0,Dendritic cells,-0.2003032257159157,162,N1,Fibrovascular
+P3,0,Endothelial cells,0.12237362931422703,162,N1,Fibrovascular
+P3,0,Epithelial cells,-0.7222521098465464,162,N1,Fibrovascular
+P3,0,Fibroblasts,0.5837857411095352,162,N1,Fibrovascular
+P3,0,Macrophages,0.1591208604949365,162,N1,Fibrovascular
+P3,0,Mast cells,-0.2596783094138993,162,N1,Fibrovascular
+P3,0,Myocytes,0.311114481895466,162,N1,Fibrovascular
+P3,0,NK/T cells,-0.2587447198982718,162,N1,Fibrovascular
+P3,2,B/Plasma cells,0.1752679993533625,268,N2,Immune-mixed
+P3,2,Dendritic cells,0.21112391196807223,268,N2,Immune-mixed
+P3,2,Endothelial cells,-0.08704362943505785,268,N2,Immune-mixed
+P3,2,Epithelial cells,-0.7716012002560311,268,N2,Immune-mixed
+P3,2,Fibroblasts,-0.05255184136939967,268,N2,Immune-mixed
+P3,2,Macrophages,0.16769210715226565,268,N2,Immune-mixed
+P3,2,Mast cells,-0.16026133004948895,268,N2,Immune-mixed
+P3,2,Myocytes,-0.5146606640370114,268,N2,Immune-mixed
+P3,2,NK/T cells,0.44993485437298286,268,N2,Immune-mixed
+P3,1,B/Plasma cells,-0.036503138971378794,481,N3,Epithelial-rich
+P3,1,Dendritic cells,-0.06513578058168411,481,N3,Epithelial-rich
+P3,1,Endothelial cells,0.004044858459983705,481,N3,Epithelial-rich
+P3,1,Epithelial cells,0.44725875846942503,481,N3,Epithelial-rich
+P3,1,Fibroblasts,-0.23117085547502042,481,N3,Epithelial-rich
+P3,1,Macrophages,-0.16480360302661684,481,N3,Epithelial-rich
+P3,1,Mast cells,0.15582546602060296,481,N3,Epithelial-rich
+P3,1,Myocytes,0.11918297234725707,481,N3,Epithelial-rich
+P3,1,NK/T cells,-0.2321179970875403,481,N3,Epithelial-rich
+P5,0,B/Plasma cells,-0.2474102600803259,317,N1,Fibrovascular
+P5,0,Dendritic cells,-0.2558294970329802,317,N1,Fibrovascular
+P5,0,Endothelial cells,0.3406935155652079,317,N1,Fibrovascular
+P5,0,Epithelial cells,-0.8267702201617725,317,N1,Fibrovascular
+P5,0,Fibroblasts,0.47846537202018646,317,N1,Fibrovascular
+P5,0,Macrophages,0.11440545172339389,317,N1,Fibrovascular
+P5,0,Mast cells,-0.2230064066383847,317,N1,Fibrovascular
+P5,0,Myocytes,0.4088888554199939,317,N1,Fibrovascular
+P5,0,NK/T cells,-0.3763886650250074,317,N1,Fibrovascular
+P5,2,B/Plasma cells,0.2991599891491072,276,N2,Immune-mixed
+P5,2,Dendritic cells,0.010100821209830444,276,N2,Immune-mixed
+P5,2,Endothelial cells,0.02139387430594869,276,N2,Immune-mixed
+P5,2,Epithelial cells,-0.23325366088666386,276,N2,Immune-mixed
+P5,2,Fibroblasts,0.0857201085857932,276,N2,Immune-mixed
+P5,2,Macrophages,0.06176071104984683,276,N2,Immune-mixed
+P5,2,Mast cells,-0.0690853895288487,276,N2,Immune-mixed
+P5,2,Myocytes,-0.19672566281197046,276,N2,Immune-mixed
+P5,2,NK/T cells,0.025144406751716326,276,N2,Immune-mixed
+P5,1,B/Plasma cells,-0.018847641833678357,1051,N3,Epithelial-rich
+P5,1,Dendritic cells,0.06649035516695183,1051,N3,Epithelial-rich
+P5,1,Endothelial cells,-0.1269958065744264,1051,N3,Epithelial-rich
+P5,1,Epithelial cells,0.2274602618322265,1051,N3,Epithelial-rich
+P5,1,Fibroblasts,-0.20871176675798972,1051,N3,Epithelial-rich
+P5,1,Macrophages,-0.05346114780326191,1051,N3,Epithelial-rich
+P5,1,Mast cells,0.07789536654496412,1051,N3,Epithelial-rich
+P5,1,Myocytes,-0.09750801013859503,1051,N3,Epithelial-rich
+P5,1,NK/T cells,0.09037291136382726,1051,N3,Epithelial-rich
+P6,0,B/Plasma cells,-0.13435767254931857,297,N1,Fibrovascular
+P6,0,Dendritic cells,-0.0785880427365328,297,N1,Fibrovascular
+P6,0,Endothelial cells,0.15759006857814079,297,N1,Fibrovascular
+P6,0,Epithelial cells,-0.3990757157283683,297,N1,Fibrovascular
+P6,0,Fibroblasts,0.7031136762394143,297,N1,Fibrovascular
+P6,0,Macrophages,0.04609030995631967,297,N1,Fibrovascular
+P6,0,Mast cells,-0.09246709676244942,297,N1,Fibrovascular
+P6,0,Myocytes,-0.1471897153893008,297,N1,Fibrovascular
+P6,0,NK/T cells,-0.012633260533975343,297,N1,Fibrovascular
+P6,2,B/Plasma cells,0.14689708859489564,836,N2,Immune-mixed
+P6,2,Dendritic cells,0.07412952369685934,836,N2,Immune-mixed
+P6,2,Endothelial cells,0.053547611818859676,836,N2,Immune-mixed
+P6,2,Epithelial cells,-0.36466959484554945,836,N2,Immune-mixed
+P6,2,Fibroblasts,0.09657958784172269,836,N2,Immune-mixed
+P6,2,Macrophages,0.13873332238610633,836,N2,Immune-mixed
+P6,2,Mast cells,-0.013452644582951796,836,N2,Immune-mixed
+P6,2,Myocytes,-0.03853497257589653,836,N2,Immune-mixed
+P6,2,NK/T cells,0.11836281402348114,836,N2,Immune-mixed
+P6,1,B/Plasma cells,-0.056307785727061854,1651,N3,Epithelial-rich
+P6,1,Dendritic cells,-0.02497307003361092,1651,N3,Epithelial-rich
+P6,1,Endothelial cells,-0.05875967448119584,1651,N3,Epithelial-rich
+P6,1,Epithelial cells,0.20985115866725879,1651,N3,Epithelial-rich
+P6,1,Fibroblasts,-0.23112922148874307,1651,N3,Epithelial-rich
+P6,1,Macrophages,-0.08459507249743632,1651,N3,Epithelial-rich
+P6,1,Mast cells,0.02271263153236648,1651,N3,Epithelial-rich
+P6,1,Myocytes,0.04375614677529114,1651,N3,Epithelial-rich
+P6,1,NK/T cells,-0.06149071502685739,1651,N3,Epithelial-rich
+P9,0,B/Plasma cells,-0.3155672636926208,7,N1,Fibrovascular
+P9,0,Dendritic cells,0.0038446336151984166,7,N1,Fibrovascular
+P9,0,Endothelial cells,0.23723933667123326,7,N1,Fibrovascular
+P9,0,Epithelial cells,-0.2731983115245382,7,N1,Fibrovascular
+P9,0,Fibroblasts,0.6410316611591113,7,N1,Fibrovascular
+P9,0,Macrophages,0.1246047172521261,7,N1,Fibrovascular
+P9,0,Mast cells,0.03910644045949599,7,N1,Fibrovascular
+P9,0,Myocytes,-0.16258420104361102,7,N1,Fibrovascular
+P9,0,NK/T cells,0.013441807810243777,7,N1,Fibrovascular
+P9,2,B/Plasma cells,0.3922749413869339,656,N2,Immune-mixed
+P9,2,Dendritic cells,-0.06007885810418393,656,N2,Immune-mixed
+P9,2,Endothelial cells,0.07814811225993162,656,N2,Immune-mixed
+P9,2,Epithelial cells,-0.400396788295273,656,N2,Immune-mixed
+P9,2,Fibroblasts,0.17628631459311778,656,N2,Immune-mixed
+P9,2,Macrophages,0.0881529703379084,656,N2,Immune-mixed
+P9,2,Mast cells,-0.047085159288426784,656,N2,Immune-mixed
+P9,2,Myocytes,-0.21849562030914485,656,N2,Immune-mixed
+P9,2,NK/T cells,-0.08870570465733423,656,N2,Immune-mixed
+P9,1,B/Plasma cells,-0.27197298934638575,1185,N3,Epithelial-rich
+P9,1,Dendritic cells,0.03219127689624863,1185,N3,Epithelial-rich
+P9,1,Endothelial cells,-0.046726713579124945,1185,N3,Epithelial-rich
+P9,1,Epithelial cells,0.18292214912567883,1185,N3,Epithelial-rich
+P9,1,Fibroblasts,-0.1128727631435292,1185,N3,Epithelial-rich
+P9,1,Macrophages,-0.05201742912981623,1185,N3,Epithelial-rich
+P9,1,Mast cells,0.025189586167928456,1185,N3,Epithelial-rich
+P9,1,Myocytes,0.10893248346939059,1185,N3,Epithelial-rich
+P9,1,NK/T cells,0.046780586367040376,1185,N3,Epithelial-rich

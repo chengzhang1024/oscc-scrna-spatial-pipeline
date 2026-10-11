@@ -1,0 +1,35 @@
+{
+  "figure3e_values": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3E_epithelial_pathway_dotplot_values.csv",
+  "clusters": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "programs": [
+    "Keratinization",
+    "EMT",
+    "IFN / inflammation",
+    "Hypoxia / glycolysis",
+    "DNA repair",
+    "Cell cycle"
+  ],
+  "matrix_shape": [
+    9,
+    6
+  ],
+  "method": "For each gene, z-score cluster mean log-normalized expression across C0-C8; pathway activity is the arithmetic mean of member-gene z-scores.",
+  "genes_per_program": 7,
+  "display_color_limits": [
+    -2.0,
+    2.0
+  ],
+  "visual_reference": "s41746-025-02297-4 Figure 3F",
+  "user_decision": "C5 and C8 retained without exclusion",
+  "interpretation_boundary": "Activities are cluster-level descriptive expression scores, not patient-balanced differential pathway tests. C8 is immune-like and C5 is mixed, so their activity profiles require the existing QC caveat."
+}

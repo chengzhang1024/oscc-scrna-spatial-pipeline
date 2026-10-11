@@ -1,0 +1,3 @@
+﻿epithelial_cluster,qc_status,evidence,recommended_use
+C5,review_non_epithelial_mixed,DLK1/APOC1/SPARCL1/NNMT mesenchymal-muscle-like program,display transparently; do not assign a definitive epithelial state
+C8,qc_excluded_immune_like,CD52/CD3D/TRAC/PTPRC/CD3E immune program,exclude before biological epithelial subtype interpretation

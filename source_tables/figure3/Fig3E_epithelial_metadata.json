@@ -1,0 +1,83 @@
+{
+  "source_object": "D:\\生信\\results\\integrated_3ds_annotated_paper9.h5ad",
+  "figure3a_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3A_epithelial_cells_and_umap.csv.gz",
+  "n_cells": 5609,
+  "clusters": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "programs": {
+    "Keratinization": [
+      "KRT5",
+      "KRT14",
+      "KRT15",
+      "KRT19",
+      "KRT13",
+      "IVL",
+      "SFN"
+    ],
+    "EMT": [
+      "VIM",
+      "LAMC2",
+      "ITGA6",
+      "COL17A1",
+      "MMP7",
+      "SNAI2",
+      "ZEB1"
+    ],
+    "IFN / inflammation": [
+      "STAT1",
+      "ISG15",
+      "IFITM1",
+      "IFIT1",
+      "CXCL10",
+      "HLA-DRA",
+      "PSMB9"
+    ],
+    "Hypoxia / glycolysis": [
+      "HIF1A",
+      "CA9",
+      "SLC2A1",
+      "ENO1",
+      "LDHA",
+      "PDK1",
+      "PGK1"
+    ],
+    "DNA repair": [
+      "PCNA",
+      "PARP1",
+      "RAD51",
+      "BRCA1",
+      "BRCA2",
+      "MSH2",
+      "MSH6"
+    ],
+    "Cell cycle": [
+      "CCNA2",
+      "CCNB1",
+      "CCND1",
+      "CDK1",
+      "CDK4",
+      "MKI67",
+      "TOP2A"
+    ]
+  },
+  "n_programs": 6,
+  "n_genes": 42,
+  "dot_size": "fraction of cells with log-normalized expression > 0; display capped at 50%",
+  "dot_color": "per-gene min-max scaled mean log-normalized expression across C0-C8",
+  "color_range": [
+    0.0,
+    1.0
+  ],
+  "visual_reference": "s41746-025-02297-4 Figure 3E",
+  "user_decision": "C5 and C8 retained without exclusion",
+  "interpretation_boundary": "C8 retains a strong immune-like program and C5 retains a mixed mesenchymal-muscle-like program. Their dot-plot signals are displayed transparently but must not be interpreted as validated epithelial states."
+}

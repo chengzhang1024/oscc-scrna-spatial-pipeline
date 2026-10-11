@@ -1,0 +1,68 @@
+{
+  "figure3g_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3G_epithelial_cells_SR_diffusion.csv.gz",
+  "figure3g_cluster_summary": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3G_epithelial_SR_by_cluster.csv",
+  "n_cells": 5609,
+  "clusters": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "primary_statistic": "arithmetic mean single-cell LandSCENT SR within each C0-C8 cluster",
+  "primary_highest_cluster": "C1",
+  "primary_highest_mean_SR": 0.9199002531525761,
+  "primary_lowest_cluster": "C8",
+  "primary_lowest_mean_SR": 0.8547441594233466,
+  "exact_reuse_check_max_abs_difference_vs_Fig3G": 1.1102230246251565e-16,
+  "patient_balanced_sensitivity": {
+    "definition": "equal weight to each patient-specific cluster mean",
+    "bootstrap_resamples": 10000,
+    "highest_cluster": "C1",
+    "spearman_rho_vs_primary_cluster_means": 0.9,
+    "spearman_p_value": 0.0009430623223403293
+  },
+  "complexity_adjusted_sensitivity": {
+    "definition": "cluster mean of residuals from SR ~ z(log1p detected genes) + z(log1p total counts)",
+    "model": {
+      "intercept": 0.9049883486591243,
+      "z_log1p_n_genes_coefficient": 0.030621894865337958,
+      "z_log1p_total_counts_coefficient": -0.010788042476888275,
+      "r_squared": 0.9370858631848961
+    },
+    "highest_cluster": "C3",
+    "spearman_rho_vs_primary_cluster_means": 0.33333333333333337,
+    "spearman_p_value": 0.38071318167686347
+  },
+  "qc_cluster_sensitivity": {
+    "excluded_clusters": [
+      "C5",
+      "C8"
+    ],
+    "highest_remaining_cluster": "C1"
+  },
+  "display": {
+    "cluster_order": [
+      "C0",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "C8"
+    ],
+    "highest_point_color": "#E63323",
+    "line_color": "#3B6FA5",
+    "uncertainty_not_drawn": "reference Figure 3H does not show error bars"
+  },
+  "visual_reference": "s41746-025-02297-4 Figure 3H",
+  "user_decision": "C5 and C8 retained without exclusion",
+  "random_seed": 20260902,
+  "interpretation_boundary": "The line displays cell-level descriptive means and must not be treated as a patient-level inferential test. Cluster patient coverage is uneven, and Figure 3G documented strong SR correlation with sequencing complexity. C5 is mixed and C8 is immune-like."
+}

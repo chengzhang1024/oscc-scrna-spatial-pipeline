@@ -1,0 +1,153 @@
+{
+  "analysis_status": "exploratory_sensitivity_and_reproduction_of_existing_outputs",
+  "seed": 20260911,
+  "bootstrap_replicates": 10000,
+  "n_cells": 5609,
+  "n_patients": 23,
+  "n_samples": 33,
+  "patient_balancing_identifier": "patient_id",
+  "patient_balancing_samples_rule": "Pool cells across samples within a patient and cluster before equal weighting patients",
+  "sr_spearman_detected_genes": 0.9279755396811625,
+  "sr_spearman_total_counts": 0.8211306185394789,
+  "complexity_model": {
+    "formula": "SR ~ intercept + z(log1p(n_genes_by_counts)) + z(log1p(total_counts))",
+    "coefficients": [
+      0.9049883486591243,
+      0.030621894865337958,
+      -0.010788042476888275
+    ],
+    "r_squared": 0.9370858631848961
+  },
+  "source_reproduction_checks": {
+    "cell_weighted_mean_SR_max_abs_difference": 1.1102230246251565e-16,
+    "patient_balanced_mean_SR_max_abs_difference": 2.220446049250313e-16,
+    "complexity_adjusted_mean_SR_residual_max_abs_difference": 9.454242944073599e-17
+  },
+  "literal_cell_replication_bootstrap_checks": {
+    "replicates_checked": 5,
+    "max_abs_difference": 1.0928757898653885e-15
+  },
+  "sample_module_means_independently_reproduced_from_cells": {
+    "max_abs_difference": 4.440892098500626e-16
+  },
+  "c1_ranks": {
+    "cell_weighted_rank": 1,
+    "patient_balanced_rank": 1,
+    "complexity_adjusted_rank": 4
+  },
+  "complexity_adjusted_top_cluster": "C3",
+  "bootstrap_all_nine_clusters_observed": 9050,
+  "bootstrap_missing_at_least_one_cluster": 950,
+  "c1_bootstrap_rank1_fraction_conditional_complete": {
+    "cell_weighted": 0.8869613259668508,
+    "patient_balanced": 0.8934806629834254,
+    "complexity_adjusted": 0.0338121546961326
+  },
+  "c1_leave_one_patient_out": {
+    "cell_weighted": {
+      "rank1_deletions": 23,
+      "evaluable_deletions": 23,
+      "rank_min": 1.0,
+      "rank_max": 1.0
+    },
+    "patient_balanced": {
+      "rank1_deletions": 23,
+      "evaluable_deletions": 23,
+      "rank_min": 1.0,
+      "rank_max": 1.0
+    },
+    "complexity_adjusted": {
+      "rank1_deletions": 0,
+      "evaluable_deletions": 23,
+      "rank_min": 2.0,
+      "rank_max": 4.0
+    }
+  },
+  "module_overlap_reproduced": true,
+  "m1_overlap": {
+    "sensitivity_module": "brown",
+    "primary_size": 295,
+    "sensitivity_size": 380,
+    "overlap": 248,
+    "jaccard": 0.5807962529274004,
+    "fraction_primary_retained": 0.8406779661016949
+  },
+  "paired_module_tests_reproduced": true,
+  "paired_module_fdr_family_size": 16,
+  "paired_module_min_fdr": 0.125,
+  "paired_module_fdr_below_0_05_count": 0,
+  "paired_module_n_patients_by_cluster": {
+    "C0": 0,
+    "C1": 4,
+    "C2": 1,
+    "C3": 2,
+    "C4": 6,
+    "C5": 5,
+    "C6": 2,
+    "C7": 1,
+    "C8": 0
+  },
+  "interpretation": "C1 is highest for raw and patient-balanced SR but not after complexity adjustment; uneven coverage and patient-level module underpower require descriptive claims. Overlap is not a formal module-preservation test. Rank frequencies are empirical resampling stability, not posterior probabilities or P values.",
+  "versions": {
+    "python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.1.3",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.0"
+  },
+  "input_manifest": {
+    "sr_cells": {
+      "path_relative_to_root": "results/paper9/figure3_epithelial/Fig3G_epithelial_cells_SR_diffusion.csv.gz",
+      "sha256": "a82017a207108cbc07c3974264064fb5f36942139cc5ac7b7ca2fc914f8fb8d6"
+    },
+    "prior_sr_summary": {
+      "path_relative_to_root": "results/paper9/figure3_epithelial/Fig3H_epithelial_mean_SR_and_sensitivity.csv",
+      "sha256": "99d29b50a4df0b2746ddbb8583c9d6a1a0909453434655101f18745dc0c196c1"
+    },
+    "prior_patient_sr": {
+      "path_relative_to_root": "results/paper9/figure3_epithelial/Fig3H_epithelial_patient_cluster_SR.csv",
+      "sha256": "84c982da3abe71dd181f8adb1cd342c873ccc06da716205f517564d7f6c02341"
+    },
+    "primary_gene_modules": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/gene_modules.csv",
+      "sha256": "1d8b6f304672e4a3b1f2f29e8f9f3d5b6390847d2dd21b02d99a3b111910d5e9"
+    },
+    "sensitivity_gene_modules": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/sensitivity_without_C5_C8_gene_modules.csv",
+      "sha256": "df25acbe883fb415e6a7c1a73cbcf520e5d761ad0058d7fdb5240b3ce2f49999"
+    },
+    "prior_module_matches": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/QC_sensitivity_best_module_matches.csv",
+      "sha256": "0ecb543a345c454827d50bf1635895f49292f74e8d8326e920f141a8a626aceb"
+    },
+    "sample_module_scores": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/sample_cluster_module_eigengenes.csv",
+      "sha256": "e6c7b3f7aacad99e549e9790a9c40a3b555027a73c1da382ef2a5ef09e5530d9"
+    },
+    "module_cell_metadata": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/input/cells.csv",
+      "sha256": "06d50ce9df205add9bb8d139a6f9539b1387c0417ef29586eaa9fbbe680932ba"
+    },
+    "cell_module_scores": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/cell_module_eigengenes.csv",
+      "sha256": "e9110b62de4b23e3a3722ef90e2eabec9376cc3115ebab6f7981132c8cd41b7f"
+    },
+    "prior_paired_associations": {
+      "path_relative_to_root": "results/paper9/figure4_epithelial_hdwgcna/patient_paired_module_associations.csv",
+      "sha256": "087ba61b5dab9ddd3436fa740fc871514c0e9eeed2f4895b42df16b86e1a6a43"
+    },
+    "sr_analysis_script": {
+      "path_relative_to_root": "36_plot_figure3h_epithelial_mean_sr_reference_style.py",
+      "sha256": "a0cc7961aead798b455bc0a8cc509f958dd69bd3cc9808d46c635cdbaf1c7a70"
+    },
+    "module_analysis_script": {
+      "path_relative_to_root": "scripts/42_plot_figure4_hdwgcna.py",
+      "sha256": "e571c8e4fb2ea6509815b3842494e0ff5087d3ac4a578c39fe698257352d62d2"
+    },
+    "module_sensitivity_script": {
+      "path_relative_to_root": "scripts/43_check_figure4_qc_sensitivity.R",
+      "sha256": "6e16695ba787d14fcf2211daa8271ce8ebee2dd08496c6e60a53042f3fb1e78a"
+    }
+  }
+}

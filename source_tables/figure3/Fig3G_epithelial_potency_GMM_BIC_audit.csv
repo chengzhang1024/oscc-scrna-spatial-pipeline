@@ -1,0 +1,8 @@
+﻿analysis,n_states,bic,aic,converged,selected,selected_component_mean_sr
+primary_reference_binary_maxPS2,1,3665.3966534043743,3652.1323979453578,True,False,
+primary_reference_binary_maxPS2,2,3160.195537242914,3127.034898595372,True,True,PS1:0.91671978;PS2:0.88649063
+LandSCENT_default_maxPS5_sensitivity,1,3665.3966534043743,3652.1323979453578,True,False,
+LandSCENT_default_maxPS5_sensitivity,2,3160.195537242914,3127.034898595372,True,False,
+LandSCENT_default_maxPS5_sensitivity,3,3094.971357424289,3041.9143355882225,True,True,PS1:0.92089986;PS2:0.90060519;PS3:0.86843943
+LandSCENT_default_maxPS5_sensitivity,4,3102.826513363735,3029.8731083391435,True,False,
+LandSCENT_default_maxPS5_sensitivity,5,3109.5475737954084,3016.6977855822915,True,False,

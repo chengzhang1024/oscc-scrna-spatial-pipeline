@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "n_cells": 5609,
+  "n_metacells": 553,
+  "n_unique_cells_in_network": 3898,
+  "mixed_identity_metacells": 0,
+  "max_shared_cells": 7,
+  "n_network_genes": 2345,
+  "n_grey_genes": 211,
+  "n_GO_display_terms": 18,
+  "all_display_GO_FDR_lt_005": true,
+  "figures": [
+    {
+      "file": "Fig4A_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 2070,
+      "png_height": 1980,
+      "nonwhite_fraction": 0.12454081881618113,
+      "sha256": "ed13c7030e3bcf8b386a88ef29e5dcf9eae7e98dea5fe7f58159f3f7f9508d3a"
+    },
+    {
+      "file": "Fig4B_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 1935,
+      "png_height": 2025,
+      "nonwhite_fraction": 0.07368819982773471,
+      "sha256": "0f10dfdf8de2eb01c113d627a7406d40f38e49fba966f1a04d15b8d538e560dd"
+    },
+    {
+      "file": "Fig4C_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 3150,
+      "png_height": 3375,
+      "nonwhite_fraction": 0.047708689006466784,
+      "sha256": "d297ac6f326407692232b7943d582d974524a0929bf8579c8cc5ee05c8a02418"
+    },
+    {
+      "file": "Fig4D_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 2160,
+      "png_height": 1485,
+      "nonwhite_fraction": 0.05939019827908717,
+      "sha256": "4920f3ac3354466d3d5f0142de2c8c4ee3d00f327842ff79d7e1bd102e76fbce"
+    },
+    {
+      "file": "Fig4E_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 3375,
+      "png_height": 3150,
+      "nonwhite_fraction": 0.14768338624338626,
+      "sha256": "6ca190d191ee11974a449165538a8c26e204a91b19ea19a058f22571424135fe"
+    },
+    {
+      "file": "Fig4F_hdWGCNA_reference_style.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 2790,
+      "png_height": 3600,
+      "nonwhite_fraction": 0.01859080047789725,
+      "sha256": "ffe63fa57bf4ec5c70cb5dfdddea74a3a0c63b23c790f43c3843d2e5c3501d33"
+    },
+    {
+      "file": "Figure4_hdwgcna_reference_layout.pdf",
+      "pages": 1,
+      "type3_fonts": 0,
+      "text_outside_page": 0,
+      "png_width": 5400,
+      "png_height": 5940,
+      "nonwhite_fraction": 0.0839635553061479,
+      "sha256": "9c0a29850b88f23dc6438e05dda5a3645b51024e30a0e185d397e72531fa39f6"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+module,peak_cluster,role,claim
+M1,C1,C1-positive descriptive ME,"Representative network, no claim of significant C1 enrichment"
+M5,C3,C1-positive descriptive ME,"Representative network, no claim of significant C1 enrichment"
+M2,C4,complementary epithelial module by module size,"Representative network, no claim of significant C1 enrichment"
+M4,C6,complementary epithelial module by module size,"Representative network, no claim of significant C1 enrichment"

@@ -1,0 +1,320 @@
+[
+  {
+    "file": "07_literature_annotation.py",
+    "original_sha256": "00832ea2b369991af641cc259a8ff40ce971d2d06f430d03b9e59a52d4af3ff5",
+    "release_sha256": "134a179c587bddb84948c0f1290fd328d571771f284ef3105c91131c0ca15b4d",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "08_fig2_literature_v3.py",
+    "original_sha256": "6178b3a03d0cc4858310abb6090d3f5b98cfdffa7f8f26979805082a041a3bf9",
+    "release_sha256": "30c3628aa11158f4cd4f4c508be4745944211b01cce22f594dfa36b6b1581b9d",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "09_fig2h_literature_v3.py",
+    "original_sha256": "e3386b060f53ecf6f578f841525945fd10c4bc17dd903c084f5c57af573fb49b",
+    "release_sha256": "ef6626b8e87bb5fe5c52eced5886b0beaf8b773b83f056b38600005b48ea2041",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "10_tam_caf_subclustering.py",
+    "original_sha256": "7dd8a6128c1c30f0fb78f848943f78104d820cdc72bc77e678c75b6af91509a7",
+    "release_sha256": "031927792a4cf76f03f1f637ef20f35254af48d38026980618a48c314b78079b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "11_paper9_annotation.py",
+    "original_sha256": "538c37568c17df9d19687eea933b85bb970acb0fb9e7cfe6977a7920a7f412e9",
+    "release_sha256": "05fb4721d0934c2ed34e417fd9b1ebe6cabf94205f3c8d1b67bb0e5a36820ace",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "12_fig2_paper9.py",
+    "original_sha256": "bff40f1f2636fe253ef0ebe01e5310c08e1357763bdf2a421c31d949aec22547",
+    "release_sha256": "2e1f3278b0739a19233edce37af7eeb3217bccd6b21f2c69ee153e4cd8eb3fe8",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "13_fig2h_paper9.py",
+    "original_sha256": "239dbde46dcb923b68c46e065f504d4e66c020e946ea57d8f0293b038276281d",
+    "release_sha256": "cd91b163392fcd2029819518e23b0dc927ad8c9c975403f907effe2f9a304bdb",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "14_tam_caf_subclustering_paper9.py",
+    "original_sha256": "e20d3c9ce7b6e2fd2847557a698fb0c9ea68fa9dbb5334698740663547fbce51",
+    "release_sha256": "89f6d3b59ef5e2d388de362f897fa95a972860d0dddf662e856e399e2f362d87",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "15_plot_fig2h_paper9.py",
+    "original_sha256": "cd675dc8955bed2150cb49c6533c3ac7cebb9860543aa2c743c8e3affbd393a8",
+    "release_sha256": "348b496293d3fbd988d79c0cf0c14cdb2c9f1a5d587ab3f670af650414adc039",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "16_plot_stage_celltypes_reference_style.py",
+    "original_sha256": "09033551f67091ac5513144c764119a6f58db41755e497e52d77a02579ce18c9",
+    "release_sha256": "2a40fb5d6bf7f41bdd029b50e2d8250b57d835447f3af2048d74616ab167e573",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "17_plot_fig1b_marker_tme_maps.py",
+    "original_sha256": "69611a1c7bca89d3bbb64a4af751abe24d3beb10422b475674336d9efdf1c9af",
+    "release_sha256": "32838452708c38251fa2ac0b4b515ff093ade0624d6a70f8ed288d1aa9cb3d68",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "18_plot_fig1c_lineage_marker_heatmap.py",
+    "original_sha256": "36d702c1b01d01eff9921c2cc28e19ccadf6d3cf5f9e5d37c1bce4e084d90a7d",
+    "release_sha256": "260b0c37decc264c84cbaa816a41c3a496a350fddc73c859e067cb53139f4dd4",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "19_plot_fig1def_tme_dynamics.py",
+    "original_sha256": "0e3e857746911512a647e098e7e30a51f21b6e55de9acb2d030f05dcf17cbb84",
+    "release_sha256": "4fe40f5da3bd9ffe16190222037fb60e0431aa3c092c0d68f5348059d2791ad0",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "20_plot_fig1g_mirrored_epithelial_de.py",
+    "original_sha256": "3866f113d41aea9e7378147b603c30922c0ec73c79c32288134e1413ec6f209d",
+    "release_sha256": "f32f08d44124e6856cd3743c2411e4885076add3311affa7061b7a0c6e3f9258",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "21_enrich_fig1g_epithelial_de.py",
+    "original_sha256": "bd760a5e063ff4bd09e0fdc9a5a1440af2cf71cb7fc00879ed186bfc138478d3",
+    "release_sha256": "4475bd1aff9f4e4bb982e6b32ec96a52429c66e632646956d7114647bdcee74c",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "22_plot_fig1h_go_radar.py",
+    "original_sha256": "97ff2a473e27045ac39f95d97cc0ee8e2659243ab7d35da313a07748650df54a",
+    "release_sha256": "c3e85f9db3d6ebc34216721f24c1d0647eceacfb4da7b66cf7d91979bf029749",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "29_plot_figure3a_epithelial_reference_style.py",
+    "original_sha256": "9f755ea1a5fa7da81aba534232ef15cb3939fc6b5c15fddb0906a3fb39861a4a",
+    "release_sha256": "df0dad98cc888acbb8e3d9bd6b0c893d10f5d796ce903c3db796292839b6e715",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "30_plot_figure3b_epithelial_infercnv_reference_style.py",
+    "original_sha256": "85006235eb1e4c5b478a4e0d44aa432e3165d975da21de46d4fe71d36330d674",
+    "release_sha256": "25cb4de2305d897410639fe7dfb8c042684e40cb318ff81f43d8f9968731380b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "31_plot_figure3c_epithelial_cnv_umap_reference_style.py",
+    "original_sha256": "1a98f5eb0112c6526f0a0e96d44938db25d6cfbf606139451b018c3cb3b260df",
+    "release_sha256": "7debea2ac533406299d4f36c9b8ad79394e197a364aaca1b484c65826ab34e80",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "32_plot_figure3d_epithelial_composition_markers_reference_style.py",
+    "original_sha256": "857522f47f6c6ed98b9f4554e76f229d3557058a77e971309012978c979252f8",
+    "release_sha256": "b2e0289f89604de086668a65a4c7583c505d0ada3bf1dd51bbcae34182151144",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "33_plot_figure3e_epithelial_pathway_dotplot_reference_style.py",
+    "original_sha256": "a0c60fa8f6f858458244d9d5ff0c6e2bf53d00ceda5bf587fef5042c61773675",
+    "release_sha256": "c8a8c5676419c034dab4c32c29f14eaf476325f2e872fb48f0b4d15d5b231ed8",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "34_plot_figure3f_epithelial_pathway_activity_reference_style.py",
+    "original_sha256": "7825c322877c0e2114043ac017e2feb3f4fbddf70fdc1ab796e0f76771e94189",
+    "release_sha256": "7d5f414f8e5a0f3d7bf38e59aa84d6ebc5e4e61cd975135552bd997447fa3931",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "35_plot_figure3g_epithelial_landscent_trajectory_reference_style.py",
+    "original_sha256": "f307c7f4d95020e83ba79dbbd43161eafa73b70a825daa8b844074002a1d0669",
+    "release_sha256": "ab26b3f0ff9c73bfe4a45ae61c4f7308e0be4a23c017f84807a74fef8617df4d",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "36_plot_figure3h_epithelial_mean_sr_reference_style.py",
+    "original_sha256": "a0cc7961aead798b455bc0a8cc509f958dd69bd3cc9808d46c635cdbaf1c7a70",
+    "release_sha256": "28a297f51d71518aceab7850ff397edeee1d3b91522b444aae32a39f208451dc",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "37_plot_figure3i_epithelial_SR_distribution_reference_style.py",
+    "original_sha256": "82714aafb2400157eef7260a3a2318d6c36b00d939ad7e2e80ccc15e61df7ca4",
+    "release_sha256": "1f564357ca772e598d161f9c4f5c219efecb14867841694feef404ccde8e4a7c",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "38_plot_figure3j_epithelial_high_SR_cluster_GO_reference_style.py",
+    "original_sha256": "16e6e260601db6c7142c85af960d1c2f37f521fe7e515028dd30942ceaa50cc1",
+    "release_sha256": "025e3bccf88a181afce2c62174d3a17752bf89151b54d73699421db3c4dcdbe9",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/40_prepare_figure4_hdwgcna.py",
+    "original_sha256": "5049fa50354e2e92bceeee1cfceac8dd087f5b7818a47f4e37e0accec853c375",
+    "release_sha256": "5796641b8e89b3ba55f1b01dd4aa27795797216154168b55cfcea1282432354b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/41_run_figure4_hdwgcna.R",
+    "original_sha256": "15eaf7a36e9d55c5e03160fb2748f397c063a1177c15012bd7845c596a569e1b",
+    "release_sha256": "569a08bf49d5d63a228ab2554c048d1fbd2e5f9e68b855fa0fa1bc39c08f2d26",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/42_plot_figure4_hdwgcna.py",
+    "original_sha256": "e571c8e4fb2ea6509815b3842494e0ff5087d3ac4a578c39fe698257352d62d2",
+    "release_sha256": "317efb1e987abd1befb710a295c3d508c5c0ddd2accd4395629a40470e623c8b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/43_check_figure4_qc_sensitivity.R",
+    "original_sha256": "6e16695ba787d14fcf2211daa8271ce8ebee2dd08496c6e60a53042f3fb1e78a",
+    "release_sha256": "8c7b598ae4ef1fc9166ca9abde53026b6285519afe02a5524e5a421c64857bbd",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/44_validate_figure4_hdwgcna.py",
+    "original_sha256": "6ba94a8d23510dbdb2c47503466bc98f0fe071397eea655453dd0f840e5e3ae2",
+    "release_sha256": "73345115a5950248084cb74aa560bcefb10a2329fdfce74387156dde3dac84c6",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/51_refine_publication_figures.py",
+    "original_sha256": "3368c099ccd5f627d63dd2455bcbc8728c3fe56143db52b88cb718e0f000d13d",
+    "release_sha256": "9de548fa805f00940d94c813b81ddcdc22390e25a6760967c3044ec68ccf71fc",
+    "changes": "Font lookup made portable; removed unused historical survival import. Current Figure1\u20134 numerical computation unchanged.; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/56_figure5_program_replication.py",
+    "original_sha256": "3ef30dfb162216ae7a88a258425949802854c074dfb0f0c0e79094180571bcc7",
+    "release_sha256": "5c69ff85e5e4eb0fb5c661e42b9ed8f19059b5c20bdd55812904e974d101a664",
+    "changes": "Default project layout preserved; archived Windows-style manifest paths normalized for portability. Numerical computation unchanged.; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/57_plot_figure5_program_replication.py",
+    "original_sha256": "51092e543a2159f2a9b833cbd0598672637417acab2f2e48ba7a609c40b85f4e",
+    "release_sha256": "c892bbaede66394b68c6c4d1fd0251fb3d5ec831e2761549c835be18f8fef824",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/58_prepare_figure5_visual_redesign.py",
+    "original_sha256": "d08b715bf93b2e77fb35a22e8fca976f7b1c5778625126ecc8f8f21364e57811",
+    "release_sha256": "4193b8beccf9329324ccf196c14ce2339fd8a9363822c7241b52e0995bb05f2b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/59_plot_figure5_visual_redesign.py",
+    "original_sha256": "28bc0cb0f6ca1fec9402c26318aef84d843dd7f655d2ab1f2e6f2121355441e2",
+    "release_sha256": "eb7ff47025c31a4e9250e85eb4f346f6fb08d749b7a3a3c5611a82f68ce4dda7",
+    "changes": "Validation now verifies archived table values as well as byte hashes, accounting for gzip timestamps and measured spatial BLAS differences; plotting/analysis values not changed.; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/prepare_gse208253.py",
+    "original_sha256": "3b4bde13dabe24a3b12287eeca971618b3b14b10535a13c27db61714c22b884d",
+    "release_sha256": "fc512240b17fb317309e2b1bb5ae2c3912ceda729c859a6efac71e32dfeacb72",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/train_deconvolution.py",
+    "original_sha256": "659ba17ed846a3c68450a28cb51929ab93daffec98d075c9481ecea2db66055b",
+    "release_sha256": "fc8819976c5a0af23e740dfd01fffc697c6044fe43da88abb4f5e9cec4f19b87",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/validate_spatial_output.py",
+    "original_sha256": "d71655f36fac3bd4153d336c5ac84029e4e7c95c926aa36ad20ac112001d4f37",
+    "release_sha256": "b6dfc08e2d7ac915c644875f8f77e3016508325e677ec7f9ca1a611f2caf6528",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/run_figure2c_misty.py",
+    "original_sha256": "fe3f4ddc12bf33e5a832ae64323291d52cc3551cd932187df952a06c80e2f564",
+    "release_sha256": "e8d476f515dde0df434c4b06c5558821bca78ea66877a9fb8e965b4fde3b9321",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/run_figure2i_misty.py",
+    "original_sha256": "a4a08c02fae1249e4ebcb3f8fed826089cf63f324e195069067f88af9dd9f5a5",
+    "release_sha256": "c2b1a96f04eedc982376f389dac968d114057bbe396fff279cc50c4f10027419",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2a_reference_style.py",
+    "original_sha256": "cbbdde0d716fbf291afabfb2458658400ef29d4fea3b4e7d1f7789d603611328",
+    "release_sha256": "34c17efe8c0a6a850ce87e950dd52cf85ee9e433bd16c090857163af50d72d3f",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2b_reference_style.py",
+    "original_sha256": "f49cc4b4dc40d7e7a992094275a2854b8f8344ffcfea80f3f213f982bfb1c174",
+    "release_sha256": "8a2d4aa04df091fcbd60a0d5f47134143c87e125e9f4154bdae008ef123a7b51",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2c_reference_style.py",
+    "original_sha256": "2c50328f68f2825414236ff8fa9e17d53dd5bb68ea777add7c8401a9e08a11b1",
+    "release_sha256": "5acc57e21a021b568774bc1b31ee33629af01e7c9faf835d5fc98a6333ff6958",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2d_reference_style.py",
+    "original_sha256": "6e5552cceb4f56ebe8486355805869a4044b4631fb87ea0815ac03d863da7753",
+    "release_sha256": "9f703c3be779fd0dfdf441b1ded3ac5736ec01970124cbdce5a1a36358f3a9ab",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2e_reference_style.py",
+    "original_sha256": "e917f5aa649faa3d73d68a827778063e273ba6aec341705161494fc319821a23",
+    "release_sha256": "761b55cd2caaf89f2977c98e5f7bb301ea0a4e24a66027bca40c7085dab0b370",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2f_reference_style.py",
+    "original_sha256": "4842bff76e28fea78b9de044c2f4b7a72c8e534d1cb0c051af3e4e76cab99043",
+    "release_sha256": "c26c1cea034d8183d67007752cefe8f38240959521f04f3753e0ec4a256b36f4",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2g_reference_style.py",
+    "original_sha256": "9a92f96a7f9b4e9c4ec95ca0b9e0af6cfa2cc26a91ab0dcffdc46018241673df",
+    "release_sha256": "0f6803f5dd7a6ce4e85401be65d232660f1c30aa69f543a3fafe96048b849b93",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2h_reference_style.py",
+    "original_sha256": "df122aa12a5bbcc68fe622e1650258b5a449a3975db071b496fc962b83756b64",
+    "release_sha256": "51f80695b7770a1326018119d7946b6f756a13cb310b274906953000a508654b",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2i_reference_style.py",
+    "original_sha256": "096573f2b3b8c304eeee0c0e7988bd65b4d0a8cfb8b4b3e062c88d49d3f9602e",
+    "release_sha256": "952925c215c75db9685f24a4d79c198d3cce16e8e5b2230a893c641165b1b812",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2j_reference_style.py",
+    "original_sha256": "9f051fa93b53ea84a358d3ff4b2c7895575f260de37476a0621ff8c587edde55",
+    "release_sha256": "dbd6fa5d3d9b13d5310d624ad748efcd6dfe4ed217b481488d02d86a6c9f2000",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2k_reference_style.py",
+    "original_sha256": "88cb8f5095398b0b39f649e4c1e20e69d4c4c90d4988ac31f8ce130958692623",
+    "release_sha256": "2d33583d06fd5a2bb91c0cd521b90169d3b0d34af59d71e483718531225730b6",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  },
+  {
+    "file": "scripts/spatial/plot_figure2l_reference_style.py",
+    "original_sha256": "7798c2aae82fec93d92f729fcd6951760f542478df2f572f3b2e1f3572be5c35",
+    "release_sha256": "01046a2c5a54c705d87c95c3aeccecb00d13c45ecb8be90bdee2a0fcac0ec887",
+    "changes": "project root portability / personal R library paths only; numerical analysis unchanged; explicit UTF-8 reads added for Windows portability"
+  }
+]

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Analysis pipeline: basal-adhesion epithelial expression program in oral squamous cell carcinoma"
+authors:
+  - family-names: Cheng
+    given-names: Zhang
+    orcid: "https://orcid.org/0009-0007-7907-6655"
+version: v1.1.0
+date-released: "2026-10-11"
+license: MIT
+abstract: "Deterministic single-cell and spatial transcriptomics pipeline with within-patient replication and matched random-set baselines for an oral squamous cell carcinoma study."

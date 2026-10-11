@@ -1,0 +1,53 @@
+{
+  "source_object": "D:\\生信\\results\\integrated_3ds_annotated_paper9.h5ad",
+  "figure3a_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3A_epithelial_cells_and_umap.csv.gz",
+  "figure3c_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3C_epithelial_cnv_groups_and_umap.csv.gz",
+  "n_cells": 5609,
+  "clusters": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "display_order_top_to_bottom": [
+    "C1",
+    "C2",
+    "C3",
+    "C0",
+    "C4",
+    "C7",
+    "C6",
+    "C5",
+    "C8"
+  ],
+  "hierarchy": "average linkage of correlation distances among cluster marker-expression z-scores",
+  "marker_score": "(mean_in - mean_out) * max(pct_in - pct_out, 0)",
+  "marker_minimum_detection_fraction": 0.1,
+  "top_markers_per_cluster_for_heatmap": 50,
+  "top_markers_per_cluster_for_labels": 5,
+  "heatmap_gene_count": 391,
+  "heatmap_zscore_axis": "per gene across C0-C8, clipped to [-2, 2]",
+  "stage_composition_scope": "cell fractions within each epithelial cluster",
+  "cnv_composition_scope": "cell fractions within each epithelial cluster",
+  "visual_reference": "s41746-025-02297-4 Figure 3D",
+  "cluster_qc_flags": [
+    {
+      "epithelial_cluster": "C5",
+      "qc_status": "review_non_epithelial_mixed",
+      "evidence": "DLK1/APOC1/SPARCL1/NNMT mesenchymal-muscle-like program",
+      "recommended_use": "display transparently; do not assign a definitive epithelial state"
+    },
+    {
+      "epithelial_cluster": "C8",
+      "qc_status": "qc_excluded_immune_like",
+      "evidence": "CD52/CD3D/TRAC/PTPRC/CD3E immune program",
+      "recommended_use": "exclude before biological epithelial subtype interpretation"
+    }
+  ],
+  "interpretation_boundary": "Composition bars are descriptive cell-level fractions and are not patient-balanced inferential tests. Marker labels require biological annotation review before assigning functional subtype names."
+}

@@ -1,0 +1,30 @@
+{
+  "seed": 20260916,
+  "discovery_paired_patients": [
+    "P15",
+    "P21",
+    "P31",
+    "P51",
+    "P6"
+  ],
+  "signature_sizes": {
+    "C1_score": 27,
+    "C1_check": 29,
+    "C1_full": 60,
+    "Basal_control": 5,
+    "Cycle_control": 6,
+    "M1_full": 295,
+    "M1": 255,
+    "M5_full": 217,
+    "M5": 209
+  },
+  "file_sha256": {
+    "results\\paper9\\figure4_epithelial_hdwgcna\\input\\cells.csv": "06d50ce9df205add9bb8d139a6f9539b1387c0417ef29586eaa9fbbe680932ba",
+    "results\\paper9\\figure4_epithelial_hdwgcna\\gene_modules.csv": "1d8b6f304672e4a3b1f2f29e8f9f3d5b6390847d2dd21b02d99a3b111910d5e9",
+    "results\\paper9\\figure5_program_replication\\analysis_plan.md": "acabb0e0bc5102319e7cc974fe8f74c97bdf227ee5a3f2ce1bb7bf40ecbae5f2",
+    "results\\paper9\\figure5_program_replication\\signatures.json": "ecfdb976f079c02a45e412af9fafed2385dd23fa7327cfa5b689624b54b806da",
+    "results\\paper9\\figure5_program_replication\\matched_null_signatures.json": "e51a733dde4a9f85de3b975fb8a4c47835c0b6d6eed8d27eb40b425775d20705"
+  },
+  "scoring": "Mean log1p CP10k, available shared genes; no cohort z-score before primary scoring",
+  "previous_data_exposure": "GSE310797 had previously been analyzed; exploratory extension, not pristine confirmatory validation"
+}

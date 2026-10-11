@@ -1,0 +1,58 @@
+{
+  "status": "pass",
+  "pdf_pages": 1,
+  "png_pixels": [
+    7560,
+    5400
+  ],
+  "png_dpi": [
+    599.9988,
+    599.9988
+  ],
+  "workbook_sheets": {
+    "S1_SR_cluster_summary": {
+      "rows": 9,
+      "columns": 16
+    },
+    "S2_patient_cluster_SR": {
+      "rows": 93,
+      "columns": 6
+    },
+    "S3_patient_sample_coverage": {
+      "rows": 108,
+      "columns": 4
+    },
+    "S4_bootstrap_summary": {
+      "rows": 27,
+      "columns": 11
+    },
+    "S5_leave_one_patient_out": {
+      "rows": 621,
+      "columns": 8
+    },
+    "S6_module_best_overlap": {
+      "rows": 8,
+      "columns": 7
+    },
+    "S7_module_all_overlaps": {
+      "rows": 72,
+      "columns": 7
+    },
+    "S8_patient_module_tests": {
+      "rows": 72,
+      "columns": 10
+    },
+    "S9_patient_module_contrasts": {
+      "rows": 168,
+      "columns": 5
+    }
+  },
+  "bootstrap_replications_checked_by_literal_cell_duplication": {
+    "replicates_checked": 5,
+    "max_abs_difference": 1.0928757898653885e-15
+  },
+  "source_sample_module_means_check": {
+    "max_abs_difference": 4.440892098500626e-16
+  },
+  "visual_review": "6 panels legible, no overlaps or clipped labels in 150-dpi preview"
+}

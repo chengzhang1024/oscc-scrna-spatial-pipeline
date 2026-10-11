@@ -1,0 +1,47 @@
+{
+  "input": "data\\processed\\GSE208253\\GSE208253_cleaned_deconvolved.h5ad",
+  "group": "Early-stage OSCC (Stage I-II)",
+  "samples": [
+    "S11",
+    "S3",
+    "S5",
+    "S6"
+  ],
+  "patients": [
+    "P3",
+    "P5",
+    "P6",
+    "P9"
+  ],
+  "n_spots": 7187,
+  "representative_sample": "S6",
+  "input_view": "cell2location_proportions",
+  "local_profile": "center spot plus five nearest spots, arithmetic mean",
+  "transform": "CLR followed by within-patient median centering",
+  "training": "up to 800 spots per patient with equal patient weight",
+  "seed": 181919,
+  "candidate_k": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "selection_rule": {
+    "strategy": "largest eligible K",
+    "bootstrap_ari_mean_min": 0.9,
+    "minimum_group_fraction": 0.05,
+    "minimum_patient_fraction_for_presence": 0.01,
+    "minimum_patients_per_niche": 3
+  },
+  "selected_k": 3,
+  "niche_names": {
+    "N1": "Fibrovascular",
+    "N3": "Epithelial-rich",
+    "N2": "Immune-mixed"
+  },
+  "heatmap": "patient-level log2 observed/expected, group median",
+  "dot_definition": "same enrichment direction in >=3/4 patients and absolute median log2(Ro/e) >= 0.15",
+  "interpretation": "Composition-defined spatial niches; functional immune labels require independent gene-program or ligand-receptor validation"
+}

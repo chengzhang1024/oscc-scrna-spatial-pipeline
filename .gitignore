@@ -1,0 +1,11 @@
+data/
+results/
+figures/
+.envs/
+.venv/
+__pycache__/
+*.pyc
+*.rds
+*.h5ad
+*.log
+.cache/

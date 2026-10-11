@@ -1,0 +1,16 @@
+{
+  "selected_modules": [
+    "M1",
+    "M5",
+    "M2",
+    "M4"
+  ],
+  "reference_cluster": "C1",
+  "n_display_network_genes": 2134,
+  "n_display_GO_terms": 18,
+  "GO_universe": 1901,
+  "GO_method": "Local GO BP 2023 ORA, network-gene background including grey; BH over every pre-defined testable term; FDR<0.05 only",
+  "plot_D": "mean single-cell ME standardized across clusters; area is fraction of cells with z-ME>0; accurate ME labels",
+  "plot_F": "Same module-colored dotplot structure; size encodes -log10 FDR, not Enrichr combined score",
+  "representative_module_rule": "Two C1-positive mean-ME modules, then largest complementary modules whose peak is not C5/C8; representative networks, not four claimed C1-enriched modules"
+}

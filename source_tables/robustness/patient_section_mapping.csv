@@ -1,0 +1,13 @@
+stage_group,patient_id,sample_id,stage
+advanced,P1,S1,Stage IVA
+advanced,P10,S12,Stage IVA
+advanced,P2,S2,Stage IVA
+advanced,P4,S4,Stage IVA
+advanced,P7,S7,Stage IVA
+advanced,P7,S8,Stage IVA
+advanced,P8,S10,Stage IVA
+advanced,P8,S9,Stage IVA
+early,P3,S3,Stage I
+early,P5,S5,Stage II
+early,P6,S6,Stage II
+early,P9,S11,Stage II

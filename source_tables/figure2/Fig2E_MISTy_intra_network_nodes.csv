@@ -1,0 +1,10 @@
+cell_type,label,x,y,in_degree,out_degree,network_status,community,community_members,community_method
+B/Plasma cells,B/Plasma,-0.18,0.82,1,0,connected,epithelial_stromal,B/Plasma cells;Endothelial cells;Epithelial cells;Fibroblasts,weighted_louvain_seed_181919
+Dendritic cells,D_C,0.58,0.67,1,1,connected,lymphoid_dendritic,Dendritic cells;NK/T cells,weighted_louvain_seed_181919
+Endothelial cells,Endothelial,-0.55,-0.39,1,0,connected,epithelial_stromal,B/Plasma cells;Endothelial cells;Epithelial cells;Fibroblasts,weighted_louvain_seed_181919
+Epithelial cells,Epithelial,0.0,0.21,1,5,connected,epithelial_stromal,B/Plasma cells;Endothelial cells;Epithelial cells;Fibroblasts,weighted_louvain_seed_181919
+Fibroblasts,Fibro,-0.35,-0.02,1,2,connected,epithelial_stromal,B/Plasma cells;Endothelial cells;Epithelial cells;Fibroblasts,weighted_louvain_seed_181919
+Macrophages,Macrophage,0.52,-0.4,2,0,connected,myocyte_macrophage,Macrophages;Myocytes,weighted_louvain_seed_181919
+Mast cells,Mast,-0.68,0.72,0,0,isolated,isolated,Mast cells,weighted_louvain_seed_181919
+Myocytes,Myocyte,0.28,-0.05,1,1,connected,myocyte_macrophage,Macrophages;Myocytes,weighted_louvain_seed_181919
+NK/T cells,T_NK,0.32,0.55,2,1,connected,lymphoid_dendritic,Dendritic cells;NK/T cells,weighted_louvain_seed_181919

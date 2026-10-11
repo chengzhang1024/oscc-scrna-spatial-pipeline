@@ -1,0 +1,6 @@
+{
+  "n_metacells": 490,
+  "n_genes": 2345,
+  "soft_power": 7,
+  "purpose": "C5/C8 exclusion sensitivity at fixed genes and network parameters; overlap is descriptive, not formal preservation testing"
+}

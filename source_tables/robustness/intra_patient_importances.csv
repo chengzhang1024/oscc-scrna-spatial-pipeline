@@ -1,0 +1,721 @@
+stage_group,patient_id,target,predictor,importance,n_sections
+advanced,P1,B/Plasma cells,Dendritic cells,0.1355827267321184,1
+advanced,P1,B/Plasma cells,Endothelial cells,0.096310311300243,1
+advanced,P1,B/Plasma cells,Epithelial cells,0.1471529253129077,1
+advanced,P1,B/Plasma cells,Fibroblasts,0.1677019008417244,1
+advanced,P1,B/Plasma cells,Macrophages,0.1027991289945396,1
+advanced,P1,B/Plasma cells,Mast cells,0.1207684579757368,1
+advanced,P1,B/Plasma cells,Myocytes,0.1033478096153523,1
+advanced,P1,B/Plasma cells,NK/T cells,0.1263367392273777,1
+advanced,P1,Dendritic cells,B/Plasma cells,0.1122386082243518,1
+advanced,P1,Dendritic cells,Endothelial cells,0.0754467598683206,1
+advanced,P1,Dendritic cells,Epithelial cells,0.0852064383172537,1
+advanced,P1,Dendritic cells,Fibroblasts,0.1706066994462602,1
+advanced,P1,Dendritic cells,Macrophages,0.0819413407155886,1
+advanced,P1,Dendritic cells,Mast cells,0.061105120621093,1
+advanced,P1,Dendritic cells,Myocytes,0.0936278979023604,1
+advanced,P1,Dendritic cells,NK/T cells,0.3198271349047714,1
+advanced,P1,Endothelial cells,B/Plasma cells,0.0882985783963765,1
+advanced,P1,Endothelial cells,Dendritic cells,0.1224775723199559,1
+advanced,P1,Endothelial cells,Epithelial cells,0.1157649901435665,1
+advanced,P1,Endothelial cells,Fibroblasts,0.2442456440685731,1
+advanced,P1,Endothelial cells,Macrophages,0.1044303704260211,1
+advanced,P1,Endothelial cells,Mast cells,0.0676394987134963,1
+advanced,P1,Endothelial cells,Myocytes,0.1253508117194988,1
+advanced,P1,Endothelial cells,NK/T cells,0.1317925342125115,1
+advanced,P1,Epithelial cells,B/Plasma cells,0.0886294730715359,1
+advanced,P1,Epithelial cells,Dendritic cells,0.0506970065608318,1
+advanced,P1,Epithelial cells,Endothelial cells,0.0464127143228226,1
+advanced,P1,Epithelial cells,Fibroblasts,0.281503850634637,1
+advanced,P1,Epithelial cells,Macrophages,0.036847653874159,1
+advanced,P1,Epithelial cells,Mast cells,0.269640870932822,1
+advanced,P1,Epithelial cells,Myocytes,0.0826847883038453,1
+advanced,P1,Epithelial cells,NK/T cells,0.1435836422993462,1
+advanced,P1,Fibroblasts,B/Plasma cells,0.1274959179545607,1
+advanced,P1,Fibroblasts,Dendritic cells,0.1452683081148156,1
+advanced,P1,Fibroblasts,Endothelial cells,0.1124962634288773,1
+advanced,P1,Fibroblasts,Epithelial cells,0.223581562741315,1
+advanced,P1,Fibroblasts,Macrophages,0.0954823695880286,1
+advanced,P1,Fibroblasts,Mast cells,0.1023713696945291,1
+advanced,P1,Fibroblasts,Myocytes,0.0922544013017515,1
+advanced,P1,Fibroblasts,NK/T cells,0.1010498071761219,1
+advanced,P1,Macrophages,B/Plasma cells,0.1348823041694715,1
+advanced,P1,Macrophages,Dendritic cells,0.1147837220458163,1
+advanced,P1,Macrophages,Endothelial cells,0.1240413339453114,1
+advanced,P1,Macrophages,Epithelial cells,0.1197797887612693,1
+advanced,P1,Macrophages,Fibroblasts,0.1696040807097471,1
+advanced,P1,Macrophages,Mast cells,0.0698069363844945,1
+advanced,P1,Macrophages,Myocytes,0.1635784415256227,1
+advanced,P1,Macrophages,NK/T cells,0.1035233924582668,1
+advanced,P1,Mast cells,B/Plasma cells,0.091253974297881,1
+advanced,P1,Mast cells,Dendritic cells,0.055305441777778,1
+advanced,P1,Mast cells,Endothelial cells,0.0468814368918274,1
+advanced,P1,Mast cells,Epithelial cells,0.4248047991592523,1
+advanced,P1,Mast cells,Fibroblasts,0.1071707318339376,1
+advanced,P1,Mast cells,Macrophages,0.0342652668757085,1
+advanced,P1,Mast cells,Myocytes,0.1440915438586229,1
+advanced,P1,Mast cells,NK/T cells,0.096226805304992,1
+advanced,P1,Myocytes,B/Plasma cells,0.0666570149964287,1
+advanced,P1,Myocytes,Dendritic cells,0.1380385531063636,1
+advanced,P1,Myocytes,Endothelial cells,0.061026505636725,1
+advanced,P1,Myocytes,Epithelial cells,0.1029731643379963,1
+advanced,P1,Myocytes,Fibroblasts,0.1357587082718723,1
+advanced,P1,Myocytes,Macrophages,0.0869304490572794,1
+advanced,P1,Myocytes,Mast cells,0.1786326005079689,1
+advanced,P1,Myocytes,NK/T cells,0.2299830040853654,1
+advanced,P1,NK/T cells,B/Plasma cells,0.0638588651056877,1
+advanced,P1,NK/T cells,Dendritic cells,0.1897073637072757,1
+advanced,P1,NK/T cells,Endothelial cells,0.0980836447315521,1
+advanced,P1,NK/T cells,Epithelial cells,0.1877622760214149,1
+advanced,P1,NK/T cells,Fibroblasts,0.0854871416335734,1
+advanced,P1,NK/T cells,Macrophages,0.0285673520568408,1
+advanced,P1,NK/T cells,Mast cells,0.0470025119321992,1
+advanced,P1,NK/T cells,Myocytes,0.299530844811456,1
+advanced,P10,B/Plasma cells,Dendritic cells,0.064157218950821,1
+advanced,P10,B/Plasma cells,Endothelial cells,0.0494612108522994,1
+advanced,P10,B/Plasma cells,Epithelial cells,0.3225503239190019,1
+advanced,P10,B/Plasma cells,Fibroblasts,0.1485342160363426,1
+advanced,P10,B/Plasma cells,Macrophages,0.0543004822122756,1
+advanced,P10,B/Plasma cells,Mast cells,0.0662463005803295,1
+advanced,P10,B/Plasma cells,Myocytes,0.2063150657366739,1
+advanced,P10,B/Plasma cells,NK/T cells,0.0884351817122559,1
+advanced,P10,Dendritic cells,B/Plasma cells,0.1828036112995774,1
+advanced,P10,Dendritic cells,Endothelial cells,0.0547409011221617,1
+advanced,P10,Dendritic cells,Epithelial cells,0.1072217228057531,1
+advanced,P10,Dendritic cells,Fibroblasts,0.0689880424672985,1
+advanced,P10,Dendritic cells,Macrophages,0.1665814764674,1
+advanced,P10,Dendritic cells,Mast cells,0.0554838837725608,1
+advanced,P10,Dendritic cells,Myocytes,0.1733098319817692,1
+advanced,P10,Dendritic cells,NK/T cells,0.190870530083479,1
+advanced,P10,Endothelial cells,B/Plasma cells,0.1076011674558305,1
+advanced,P10,Endothelial cells,Dendritic cells,0.1071095250088755,1
+advanced,P10,Endothelial cells,Epithelial cells,0.1818115491976529,1
+advanced,P10,Endothelial cells,Fibroblasts,0.1801754709000076,1
+advanced,P10,Endothelial cells,Macrophages,0.0744559090201933,1
+advanced,P10,Endothelial cells,Mast cells,0.0852870601031925,1
+advanced,P10,Endothelial cells,Myocytes,0.1307868973802526,1
+advanced,P10,Endothelial cells,NK/T cells,0.1327724209339948,1
+advanced,P10,Epithelial cells,B/Plasma cells,0.2823080270487613,1
+advanced,P10,Epithelial cells,Dendritic cells,0.0530139841188965,1
+advanced,P10,Epithelial cells,Endothelial cells,0.0518302329985177,1
+advanced,P10,Epithelial cells,Fibroblasts,0.2490824126137568,1
+advanced,P10,Epithelial cells,Macrophages,0.0708019571058617,1
+advanced,P10,Epithelial cells,Mast cells,0.0271319241202928,1
+advanced,P10,Epithelial cells,Myocytes,0.1123627298566526,1
+advanced,P10,Epithelial cells,NK/T cells,0.1534687321372604,1
+advanced,P10,Fibroblasts,B/Plasma cells,0.1315707513284474,1
+advanced,P10,Fibroblasts,Dendritic cells,0.0590342322756922,1
+advanced,P10,Fibroblasts,Endothelial cells,0.1051236784914494,1
+advanced,P10,Fibroblasts,Epithelial cells,0.2742929441883674,1
+advanced,P10,Fibroblasts,Macrophages,0.079207953894018,1
+advanced,P10,Fibroblasts,Mast cells,0.1168799785004858,1
+advanced,P10,Fibroblasts,Myocytes,0.1671107584527064,1
+advanced,P10,Fibroblasts,NK/T cells,0.0667797028688332,1
+advanced,P10,Macrophages,B/Plasma cells,0.0654930621601238,1
+advanced,P10,Macrophages,Dendritic cells,0.1232321681359513,1
+advanced,P10,Macrophages,Endothelial cells,0.0505408869572825,1
+advanced,P10,Macrophages,Epithelial cells,0.1332412906894879,1
+advanced,P10,Macrophages,Fibroblasts,0.1038925556677765,1
+advanced,P10,Macrophages,Mast cells,0.060522159864081,1
+advanced,P10,Macrophages,Myocytes,0.3132267751154516,1
+advanced,P10,Macrophages,NK/T cells,0.1498511014098451,1
+advanced,P10,Mast cells,B/Plasma cells,0.1567299647783249,1
+advanced,P10,Mast cells,Dendritic cells,0.0852565880918796,1
+advanced,P10,Mast cells,Endothelial cells,0.1042224407192662,1
+advanced,P10,Mast cells,Epithelial cells,0.1405208626322142,1
+advanced,P10,Mast cells,Fibroblasts,0.1516925653808344,1
+advanced,P10,Mast cells,Macrophages,0.1224707744050662,1
+advanced,P10,Mast cells,Myocytes,0.1490272675441215,1
+advanced,P10,Mast cells,NK/T cells,0.0900795364482927,1
+advanced,P10,Myocytes,B/Plasma cells,0.1930772428497699,1
+advanced,P10,Myocytes,Dendritic cells,0.1097589572879356,1
+advanced,P10,Myocytes,Endothelial cells,0.032116463612263,1
+advanced,P10,Myocytes,Epithelial cells,0.2009631126642831,1
+advanced,P10,Myocytes,Fibroblasts,0.104252695007157,1
+advanced,P10,Myocytes,Macrophages,0.2764886002799748,1
+advanced,P10,Myocytes,Mast cells,0.0355142462375099,1
+advanced,P10,Myocytes,NK/T cells,0.0478286820611065,1
+advanced,P10,NK/T cells,B/Plasma cells,0.2356011205018285,1
+advanced,P10,NK/T cells,Dendritic cells,0.1558660959435298,1
+advanced,P10,NK/T cells,Endothelial cells,0.071261898091516,1
+advanced,P10,NK/T cells,Epithelial cells,0.1977383812474479,1
+advanced,P10,NK/T cells,Fibroblasts,0.0811178117710923,1
+advanced,P10,NK/T cells,Macrophages,0.1353045120298196,1
+advanced,P10,NK/T cells,Mast cells,0.0562381308684255,1
+advanced,P10,NK/T cells,Myocytes,0.06687204954634,1
+advanced,P2,B/Plasma cells,Dendritic cells,0.1143022484305984,1
+advanced,P2,B/Plasma cells,Endothelial cells,0.0666650595874085,1
+advanced,P2,B/Plasma cells,Epithelial cells,0.1732598376922973,1
+advanced,P2,B/Plasma cells,Fibroblasts,0.1488920843050523,1
+advanced,P2,B/Plasma cells,Macrophages,0.1507304014187552,1
+advanced,P2,B/Plasma cells,Mast cells,0.1522197052771187,1
+advanced,P2,B/Plasma cells,Myocytes,0.0752661385240115,1
+advanced,P2,B/Plasma cells,NK/T cells,0.1186645247647577,1
+advanced,P2,Dendritic cells,B/Plasma cells,0.0732454113887211,1
+advanced,P2,Dendritic cells,Endothelial cells,0.1230888035328862,1
+advanced,P2,Dendritic cells,Epithelial cells,0.113187632443739,1
+advanced,P2,Dendritic cells,Fibroblasts,0.1610534777844752,1
+advanced,P2,Dendritic cells,Macrophages,0.0782370336651941,1
+advanced,P2,Dendritic cells,Mast cells,0.0872065010837083,1
+advanced,P2,Dendritic cells,Myocytes,0.0819737120178186,1
+advanced,P2,Dendritic cells,NK/T cells,0.2820074280834572,1
+advanced,P2,Endothelial cells,B/Plasma cells,0.0876602082421632,1
+advanced,P2,Endothelial cells,Dendritic cells,0.0966974956505973,1
+advanced,P2,Endothelial cells,Epithelial cells,0.1976266794963063,1
+advanced,P2,Endothelial cells,Fibroblasts,0.1411950341010129,1
+advanced,P2,Endothelial cells,Macrophages,0.1667999659970227,1
+advanced,P2,Endothelial cells,Mast cells,0.1328283013337491,1
+advanced,P2,Endothelial cells,Myocytes,0.0917324944746464,1
+advanced,P2,Endothelial cells,NK/T cells,0.085459820704502,1
+advanced,P2,Epithelial cells,B/Plasma cells,0.0787383670160306,1
+advanced,P2,Epithelial cells,Dendritic cells,0.0496068775359372,1
+advanced,P2,Epithelial cells,Endothelial cells,0.0475227099693567,1
+advanced,P2,Epithelial cells,Fibroblasts,0.3568951126087432,1
+advanced,P2,Epithelial cells,Macrophages,0.1119612379929491,1
+advanced,P2,Epithelial cells,Mast cells,0.1646228494391628,1
+advanced,P2,Epithelial cells,Myocytes,0.0702286162871495,1
+advanced,P2,Epithelial cells,NK/T cells,0.1204242291506706,1
+advanced,P2,Fibroblasts,B/Plasma cells,0.0670813523091525,1
+advanced,P2,Fibroblasts,Dendritic cells,0.1174581454573378,1
+advanced,P2,Fibroblasts,Endothelial cells,0.0451036897008856,1
+advanced,P2,Fibroblasts,Epithelial cells,0.3056510027332869,1
+advanced,P2,Fibroblasts,Macrophages,0.1029852977125533,1
+advanced,P2,Fibroblasts,Mast cells,0.1526396440428206,1
+advanced,P2,Fibroblasts,Myocytes,0.0976731061548335,1
+advanced,P2,Fibroblasts,NK/T cells,0.1114077618891296,1
+advanced,P2,Macrophages,B/Plasma cells,0.0842310025305384,1
+advanced,P2,Macrophages,Dendritic cells,0.0787405641972181,1
+advanced,P2,Macrophages,Endothelial cells,0.0816347234708369,1
+advanced,P2,Macrophages,Epithelial cells,0.1584407196995561,1
+advanced,P2,Macrophages,Fibroblasts,0.1602913111304524,1
+advanced,P2,Macrophages,Mast cells,0.1103108129151348,1
+advanced,P2,Macrophages,Myocytes,0.2322260393518812,1
+advanced,P2,Macrophages,NK/T cells,0.0941248267043817,1
+advanced,P2,Mast cells,B/Plasma cells,0.1311287668253774,1
+advanced,P2,Mast cells,Dendritic cells,0.0721169379015599,1
+advanced,P2,Mast cells,Endothelial cells,0.0569687650525001,1
+advanced,P2,Mast cells,Epithelial cells,0.2471132806496482,1
+advanced,P2,Mast cells,Fibroblasts,0.1815976861980706,1
+advanced,P2,Mast cells,Macrophages,0.1072291195294362,1
+advanced,P2,Mast cells,Myocytes,0.106165583678004,1
+advanced,P2,Mast cells,NK/T cells,0.0976798601654033,1
+advanced,P2,Myocytes,B/Plasma cells,0.0686156086772793,1
+advanced,P2,Myocytes,Dendritic cells,0.087143685739274,1
+advanced,P2,Myocytes,Endothelial cells,0.0731986948090647,1
+advanced,P2,Myocytes,Epithelial cells,0.1765992395630882,1
+advanced,P2,Myocytes,Fibroblasts,0.1311853425925257,1
+advanced,P2,Myocytes,Macrophages,0.2703202502231498,1
+advanced,P2,Myocytes,Mast cells,0.1300557542920456,1
+advanced,P2,Myocytes,NK/T cells,0.0628814241035723,1
+advanced,P2,NK/T cells,B/Plasma cells,0.0948098690868468,1
+advanced,P2,NK/T cells,Dendritic cells,0.2442812071020794,1
+advanced,P2,NK/T cells,Endothelial cells,0.0818867767168069,1
+advanced,P2,NK/T cells,Epithelial cells,0.2114605562164688,1
+advanced,P2,NK/T cells,Fibroblasts,0.1162150145603555,1
+advanced,P2,NK/T cells,Macrophages,0.0947013858530274,1
+advanced,P2,NK/T cells,Mast cells,0.0966207659145103,1
+advanced,P2,NK/T cells,Myocytes,0.0600244245499045,1
+advanced,P4,B/Plasma cells,Dendritic cells,0.0637506455634078,1
+advanced,P4,B/Plasma cells,Endothelial cells,0.0858906366584084,1
+advanced,P4,B/Plasma cells,Epithelial cells,0.2976606304445745,1
+advanced,P4,B/Plasma cells,Fibroblasts,0.0991519026354474,1
+advanced,P4,B/Plasma cells,Macrophages,0.0559786329576066,1
+advanced,P4,B/Plasma cells,Mast cells,0.1697778110356956,1
+advanced,P4,B/Plasma cells,Myocytes,0.1587752067510598,1
+advanced,P4,B/Plasma cells,NK/T cells,0.0690145339537996,1
+advanced,P4,Dendritic cells,B/Plasma cells,0.043067277313872,1
+advanced,P4,Dendritic cells,Endothelial cells,0.0233978113856251,1
+advanced,P4,Dendritic cells,Epithelial cells,0.0868902401213924,1
+advanced,P4,Dendritic cells,Fibroblasts,0.070670038156723,1
+advanced,P4,Dendritic cells,Macrophages,0.1235292243335773,1
+advanced,P4,Dendritic cells,Mast cells,0.1172856113108737,1
+advanced,P4,Dendritic cells,Myocytes,0.1313931983933494,1
+advanced,P4,Dendritic cells,NK/T cells,0.4037665989845869,1
+advanced,P4,Endothelial cells,B/Plasma cells,0.1445888848238458,1
+advanced,P4,Endothelial cells,Dendritic cells,0.0862437682416763,1
+advanced,P4,Endothelial cells,Epithelial cells,0.1333439885093569,1
+advanced,P4,Endothelial cells,Fibroblasts,0.1810535966639626,1
+advanced,P4,Endothelial cells,Macrophages,0.0997449354643481,1
+advanced,P4,Endothelial cells,Mast cells,0.0889416681036162,1
+advanced,P4,Endothelial cells,Myocytes,0.1689115975762133,1
+advanced,P4,Endothelial cells,NK/T cells,0.0971715606169804,1
+advanced,P4,Epithelial cells,B/Plasma cells,0.2569395180345525,1
+advanced,P4,Epithelial cells,Dendritic cells,0.0540123255080647,1
+advanced,P4,Epithelial cells,Endothelial cells,0.0579275618015441,1
+advanced,P4,Epithelial cells,Fibroblasts,0.2245238048722933,1
+advanced,P4,Epithelial cells,Macrophages,0.0382545653098773,1
+advanced,P4,Epithelial cells,Mast cells,0.2185424822073434,1
+advanced,P4,Epithelial cells,Myocytes,0.0933836819401954,1
+advanced,P4,Epithelial cells,NK/T cells,0.0564160603261288,1
+advanced,P4,Fibroblasts,B/Plasma cells,0.1273824842766792,1
+advanced,P4,Fibroblasts,Dendritic cells,0.1236656365850998,1
+advanced,P4,Fibroblasts,Endothelial cells,0.0834625013607388,1
+advanced,P4,Fibroblasts,Epithelial cells,0.1697686154901908,1
+advanced,P4,Fibroblasts,Macrophages,0.0649335048373854,1
+advanced,P4,Fibroblasts,Mast cells,0.0971470516016853,1
+advanced,P4,Fibroblasts,Myocytes,0.2221083398464171,1
+advanced,P4,Fibroblasts,NK/T cells,0.1115318660018035,1
+advanced,P4,Macrophages,B/Plasma cells,0.0889472350310984,1
+advanced,P4,Macrophages,Dendritic cells,0.2881593638386377,1
+advanced,P4,Macrophages,Endothelial cells,0.0620798681479451,1
+advanced,P4,Macrophages,Epithelial cells,0.1391218571755846,1
+advanced,P4,Macrophages,Fibroblasts,0.1036407090102149,1
+advanced,P4,Macrophages,Mast cells,0.0908191512824511,1
+advanced,P4,Macrophages,Myocytes,0.0844595038848106,1
+advanced,P4,Macrophages,NK/T cells,0.1427723116292573,1
+advanced,P4,Mast cells,B/Plasma cells,0.18192737490971,1
+advanced,P4,Mast cells,Dendritic cells,0.0701684172036697,1
+advanced,P4,Mast cells,Endothelial cells,0.0366021440990876,1
+advanced,P4,Mast cells,Epithelial cells,0.2471613219250628,1
+advanced,P4,Mast cells,Fibroblasts,0.1523381182942946,1
+advanced,P4,Mast cells,Macrophages,0.026482044299838,1
+advanced,P4,Mast cells,Myocytes,0.1876081278170088,1
+advanced,P4,Mast cells,NK/T cells,0.0977124514513282,1
+advanced,P4,Myocytes,B/Plasma cells,0.1494883907993337,1
+advanced,P4,Myocytes,Dendritic cells,0.1501280921221037,1
+advanced,P4,Myocytes,Endothelial cells,0.0727035221372282,1
+advanced,P4,Myocytes,Epithelial cells,0.1121309023138515,1
+advanced,P4,Myocytes,Fibroblasts,0.1206720974808234,1
+advanced,P4,Myocytes,Macrophages,0.0353656695037615,1
+advanced,P4,Myocytes,Mast cells,0.2465330634996808,1
+advanced,P4,Myocytes,NK/T cells,0.1129782621432168,1
+advanced,P4,NK/T cells,B/Plasma cells,0.052198169876933,1
+advanced,P4,NK/T cells,Dendritic cells,0.3969764842037763,1
+advanced,P4,NK/T cells,Endothelial cells,0.0254496218928809,1
+advanced,P4,NK/T cells,Epithelial cells,0.1270984843407366,1
+advanced,P4,NK/T cells,Fibroblasts,0.0910712111025191,1
+advanced,P4,NK/T cells,Macrophages,0.0481813911761981,1
+advanced,P4,NK/T cells,Mast cells,0.1341127027108752,1
+advanced,P4,NK/T cells,Myocytes,0.1249119346960804,1
+advanced,P7,B/Plasma cells,Dendritic cells,0.0566736971827028,2
+advanced,P7,B/Plasma cells,Endothelial cells,0.0792224148012964,2
+advanced,P7,B/Plasma cells,Epithelial cells,0.18890105323773465,2
+advanced,P7,B/Plasma cells,Fibroblasts,0.13832158602626396,2
+advanced,P7,B/Plasma cells,Macrophages,0.2301742504484054,2
+advanced,P7,B/Plasma cells,Mast cells,0.07599974089828584,2
+advanced,P7,B/Plasma cells,Myocytes,0.15020718479561423,2
+advanced,P7,B/Plasma cells,NK/T cells,0.0805000726096966,2
+advanced,P7,Dendritic cells,B/Plasma cells,0.09884949729487086,2
+advanced,P7,Dendritic cells,Endothelial cells,0.1226266181266066,2
+advanced,P7,Dendritic cells,Epithelial cells,0.11166153461332555,2
+advanced,P7,Dendritic cells,Fibroblasts,0.1178099642290103,2
+advanced,P7,Dendritic cells,Macrophages,0.2107521212892569,2
+advanced,P7,Dendritic cells,Mast cells,0.10758837742992369,2
+advanced,P7,Dendritic cells,Myocytes,0.12274717666340901,2
+advanced,P7,Dendritic cells,NK/T cells,0.10796471035359675,2
+advanced,P7,Endothelial cells,B/Plasma cells,0.1418378145607651,2
+advanced,P7,Endothelial cells,Dendritic cells,0.11628770884507211,2
+advanced,P7,Endothelial cells,Epithelial cells,0.16372220053686648,2
+advanced,P7,Endothelial cells,Fibroblasts,0.10273797245845415,2
+advanced,P7,Endothelial cells,Macrophages,0.135201754633267,2
+advanced,P7,Endothelial cells,Mast cells,0.14072984866851235,2
+advanced,P7,Endothelial cells,Myocytes,0.08586867447534391,2
+advanced,P7,Endothelial cells,NK/T cells,0.11361402582171864,2
+advanced,P7,Epithelial cells,B/Plasma cells,0.16345983119975435,2
+advanced,P7,Epithelial cells,Dendritic cells,0.04407315394316845,2
+advanced,P7,Epithelial cells,Endothelial cells,0.08369923656599634,2
+advanced,P7,Epithelial cells,Fibroblasts,0.2960084980075376,2
+advanced,P7,Epithelial cells,Macrophages,0.09577332706021721,2
+advanced,P7,Epithelial cells,Mast cells,0.03815060107185035,2
+advanced,P7,Epithelial cells,Myocytes,0.13960812839089837,2
+advanced,P7,Epithelial cells,NK/T cells,0.13922722376057695,2
+advanced,P7,Fibroblasts,B/Plasma cells,0.15694009971891254,2
+advanced,P7,Fibroblasts,Dendritic cells,0.06935365875251925,2
+advanced,P7,Fibroblasts,Endothelial cells,0.06819467469096875,2
+advanced,P7,Fibroblasts,Epithelial cells,0.33485845963663574,2
+advanced,P7,Fibroblasts,Macrophages,0.1206734537138061,2
+advanced,P7,Fibroblasts,Mast cells,0.0450665921743515,2
+advanced,P7,Fibroblasts,Myocytes,0.10410220178722554,2
+advanced,P7,Fibroblasts,NK/T cells,0.1008108595255803,2
+advanced,P7,Macrophages,B/Plasma cells,0.21963916030642072,2
+advanced,P7,Macrophages,Dendritic cells,0.1163464340445017,2
+advanced,P7,Macrophages,Endothelial cells,0.06910505982708665,2
+advanced,P7,Macrophages,Epithelial cells,0.08619777146791095,2
+advanced,P7,Macrophages,Fibroblasts,0.09523980179544835,2
+advanced,P7,Macrophages,Mast cells,0.12450950183463189,2
+advanced,P7,Macrophages,Myocytes,0.18810546147514826,2
+advanced,P7,Macrophages,NK/T cells,0.10085680924885125,2
+advanced,P7,Mast cells,B/Plasma cells,0.131362517318956,2
+advanced,P7,Mast cells,Dendritic cells,0.10022119436638065,2
+advanced,P7,Mast cells,Endothelial cells,0.13343636130662515,2
+advanced,P7,Mast cells,Epithelial cells,0.0975262700575229,2
+advanced,P7,Mast cells,Fibroblasts,0.0829001431682462,2
+advanced,P7,Mast cells,Macrophages,0.22501846728970848,2
+advanced,P7,Mast cells,Myocytes,0.09182613788933644,2
+advanced,P7,Mast cells,NK/T cells,0.13770890860322393,2
+advanced,P7,Myocytes,B/Plasma cells,0.1752566575767293,2
+advanced,P7,Myocytes,Dendritic cells,0.08271239954739355,2
+advanced,P7,Myocytes,Endothelial cells,0.060117218984989146,2
+advanced,P7,Myocytes,Epithelial cells,0.19929144918402156,2
+advanced,P7,Myocytes,Fibroblasts,0.1276937582979052,2
+advanced,P7,Myocytes,Macrophages,0.22048270952213414,2
+advanced,P7,Myocytes,Mast cells,0.0568491817338113,2
+advanced,P7,Myocytes,NK/T cells,0.07759662515301549,2
+advanced,P7,NK/T cells,B/Plasma cells,0.12166573064575074,2
+advanced,P7,NK/T cells,Dendritic cells,0.0741555017098451,2
+advanced,P7,NK/T cells,Endothelial cells,0.08246334081823334,2
+advanced,P7,NK/T cells,Epithelial cells,0.2040144505885675,2
+advanced,P7,NK/T cells,Fibroblasts,0.12591222927420406,2
+advanced,P7,NK/T cells,Macrophages,0.1770328916459764,2
+advanced,P7,NK/T cells,Mast cells,0.115971958214247,2
+advanced,P7,NK/T cells,Myocytes,0.09878389710317545,2
+advanced,P8,B/Plasma cells,Dendritic cells,0.0858200287719284,2
+advanced,P8,B/Plasma cells,Endothelial cells,0.1250426133377194,2
+advanced,P8,B/Plasma cells,Epithelial cells,0.1716857961352447,2
+advanced,P8,B/Plasma cells,Fibroblasts,0.1155113005711807,2
+advanced,P8,B/Plasma cells,Macrophages,0.13722162243185834,2
+advanced,P8,B/Plasma cells,Mast cells,0.1497964430982225,2
+advanced,P8,B/Plasma cells,Myocytes,0.12307617168331314,2
+advanced,P8,B/Plasma cells,NK/T cells,0.0918460239705325,2
+advanced,P8,Dendritic cells,B/Plasma cells,0.1085727740548702,2
+advanced,P8,Dendritic cells,Endothelial cells,0.0784894269767733,2
+advanced,P8,Dendritic cells,Epithelial cells,0.19361710569595264,2
+advanced,P8,Dendritic cells,Fibroblasts,0.1636019562013887,2
+advanced,P8,Dendritic cells,Macrophages,0.0696869297218255,2
+advanced,P8,Dendritic cells,Mast cells,0.0835666055325329,2
+advanced,P8,Dendritic cells,Myocytes,0.0805297998474462,2
+advanced,P8,Dendritic cells,NK/T cells,0.2219354019692103,2
+advanced,P8,Endothelial cells,B/Plasma cells,0.1118536163843827,2
+advanced,P8,Endothelial cells,Dendritic cells,0.08607509999436419,2
+advanced,P8,Endothelial cells,Epithelial cells,0.22693450293152484,2
+advanced,P8,Endothelial cells,Fibroblasts,0.1266394882048525,2
+advanced,P8,Endothelial cells,Macrophages,0.11610570152301715,2
+advanced,P8,Endothelial cells,Mast cells,0.08349784471957584,2
+advanced,P8,Endothelial cells,Myocytes,0.1414717588961634,2
+advanced,P8,Endothelial cells,NK/T cells,0.10742198734611916,2
+advanced,P8,Epithelial cells,B/Plasma cells,0.11614554919364334,2
+advanced,P8,Epithelial cells,Dendritic cells,0.0660973043703007,2
+advanced,P8,Epithelial cells,Endothelial cells,0.0701836248252581,2
+advanced,P8,Epithelial cells,Fibroblasts,0.31272613296731366,2
+advanced,P8,Epithelial cells,Macrophages,0.0807219254128978,2
+advanced,P8,Epithelial cells,Mast cells,0.0732735902657984,2
+advanced,P8,Epithelial cells,Myocytes,0.06802119229038325,2
+advanced,P8,Epithelial cells,NK/T cells,0.21283068067440447,2
+advanced,P8,Fibroblasts,B/Plasma cells,0.07388198562237565,2
+advanced,P8,Fibroblasts,Dendritic cells,0.09225026931177795,2
+advanced,P8,Fibroblasts,Endothelial cells,0.04224895589016725,2
+advanced,P8,Fibroblasts,Epithelial cells,0.37313889694417957,2
+advanced,P8,Fibroblasts,Macrophages,0.05799215546953365,2
+advanced,P8,Fibroblasts,Mast cells,0.16261351873661864,2
+advanced,P8,Fibroblasts,Myocytes,0.0889912063264219,2
+advanced,P8,Fibroblasts,NK/T cells,0.10888301169892531,2
+advanced,P8,Macrophages,B/Plasma cells,0.1644026729237823,2
+advanced,P8,Macrophages,Dendritic cells,0.05792578608802185,2
+advanced,P8,Macrophages,Endothelial cells,0.09900498177251149,2
+advanced,P8,Macrophages,Epithelial cells,0.2015133947380367,2
+advanced,P8,Macrophages,Fibroblasts,0.1027395350366809,2
+advanced,P8,Macrophages,Mast cells,0.0904556122913993,2
+advanced,P8,Macrophages,Myocytes,0.18869297522285844,2
+advanced,P8,Macrophages,NK/T cells,0.0952650419267086,2
+advanced,P8,Mast cells,B/Plasma cells,0.17871668884108655,2
+advanced,P8,Mast cells,Dendritic cells,0.06800627531930845,2
+advanced,P8,Mast cells,Endothelial cells,0.064724351202648,2
+advanced,P8,Mast cells,Epithelial cells,0.2202834831846567,2
+advanced,P8,Mast cells,Fibroblasts,0.1883929220062746,2
+advanced,P8,Mast cells,Macrophages,0.09231725605030894,2
+advanced,P8,Mast cells,Myocytes,0.0911442216906467,2
+advanced,P8,Mast cells,NK/T cells,0.09641480170506984,2
+advanced,P8,Myocytes,B/Plasma cells,0.1132939078461767,2
+advanced,P8,Myocytes,Dendritic cells,0.0650960600328746,2
+advanced,P8,Myocytes,Endothelial cells,0.1420343628593831,2
+advanced,P8,Myocytes,Epithelial cells,0.17438180266731096,2
+advanced,P8,Myocytes,Fibroblasts,0.1667166892121291,2
+advanced,P8,Myocytes,Macrophages,0.14739368323865695,2
+advanced,P8,Myocytes,Mast cells,0.10226754794401674,2
+advanced,P8,Myocytes,NK/T cells,0.08881594619945145,2
+advanced,P8,NK/T cells,B/Plasma cells,0.0862308211451347,2
+advanced,P8,NK/T cells,Dendritic cells,0.14510468280990568,2
+advanced,P8,NK/T cells,Endothelial cells,0.06586165156250925,2
+advanced,P8,NK/T cells,Epithelial cells,0.3450463167624839,2
+advanced,P8,NK/T cells,Fibroblasts,0.12168578108012884,2
+advanced,P8,NK/T cells,Macrophages,0.07075020459151105,2
+advanced,P8,NK/T cells,Mast cells,0.0778182528149779,2
+advanced,P8,NK/T cells,Myocytes,0.08750228923334824,2
+early,P3,B/Plasma cells,Dendritic cells,0.1561678596374631,1
+early,P3,B/Plasma cells,Endothelial cells,0.0500291783737134,1
+early,P3,B/Plasma cells,Epithelial cells,0.1508720993711442,1
+early,P3,B/Plasma cells,Fibroblasts,0.1235146142126788,1
+early,P3,B/Plasma cells,Macrophages,0.1402562224728599,1
+early,P3,B/Plasma cells,Mast cells,0.0955733414037214,1
+early,P3,B/Plasma cells,Myocytes,0.0828034687656985,1
+early,P3,B/Plasma cells,NK/T cells,0.2007832157627204,1
+early,P3,Dendritic cells,B/Plasma cells,0.0913270223410328,1
+early,P3,Dendritic cells,Endothelial cells,0.0946120012672215,1
+early,P3,Dendritic cells,Epithelial cells,0.093311768157998,1
+early,P3,Dendritic cells,Fibroblasts,0.1213479321505131,1
+early,P3,Dendritic cells,Macrophages,0.043663771565252,1
+early,P3,Dendritic cells,Mast cells,0.0556354843387349,1
+early,P3,Dendritic cells,Myocytes,0.1524444030506326,1
+early,P3,Dendritic cells,NK/T cells,0.3476576171286147,1
+early,P3,Endothelial cells,B/Plasma cells,0.0770875610943706,1
+early,P3,Endothelial cells,Dendritic cells,0.1217069280833386,1
+early,P3,Endothelial cells,Epithelial cells,0.1167661499525286,1
+early,P3,Endothelial cells,Fibroblasts,0.1828248284831455,1
+early,P3,Endothelial cells,Macrophages,0.0811066461389409,1
+early,P3,Endothelial cells,Mast cells,0.1347679598106232,1
+early,P3,Endothelial cells,Myocytes,0.1036794550120388,1
+early,P3,Endothelial cells,NK/T cells,0.1820604714250134,1
+early,P3,Epithelial cells,B/Plasma cells,0.0745481505431359,1
+early,P3,Epithelial cells,Dendritic cells,0.0790836727912228,1
+early,P3,Epithelial cells,Endothelial cells,0.0445694916490582,1
+early,P3,Epithelial cells,Fibroblasts,0.1925156623448409,1
+early,P3,Epithelial cells,Macrophages,0.049043879954083,1
+early,P3,Epithelial cells,Mast cells,0.2498702638866134,1
+early,P3,Epithelial cells,Myocytes,0.1375380181728854,1
+early,P3,Epithelial cells,NK/T cells,0.1728308606581603,1
+early,P3,Fibroblasts,B/Plasma cells,0.1244742435043835,1
+early,P3,Fibroblasts,Dendritic cells,0.2668737794633594,1
+early,P3,Fibroblasts,Endothelial cells,0.0569479954556193,1
+early,P3,Fibroblasts,Epithelial cells,0.1557372648856018,1
+early,P3,Fibroblasts,Macrophages,0.0577694693686243,1
+early,P3,Fibroblasts,Mast cells,0.1137413933513408,1
+early,P3,Fibroblasts,Myocytes,0.1089912258266849,1
+early,P3,Fibroblasts,NK/T cells,0.1154646281443858,1
+early,P3,Macrophages,B/Plasma cells,0.1775040295969955,1
+early,P3,Macrophages,Dendritic cells,0.0644934087640948,1
+early,P3,Macrophages,Endothelial cells,0.0818793849388661,1
+early,P3,Macrophages,Epithelial cells,0.1668390087222352,1
+early,P3,Macrophages,Fibroblasts,0.1095164441600222,1
+early,P3,Macrophages,Mast cells,0.0947801209307722,1
+early,P3,Macrophages,Myocytes,0.194643189404657,1
+early,P3,Macrophages,NK/T cells,0.1103444134823568,1
+early,P3,Mast cells,B/Plasma cells,0.0551726706687413,1
+early,P3,Mast cells,Dendritic cells,0.0635505260072093,1
+early,P3,Mast cells,Endothelial cells,0.0516707272423648,1
+early,P3,Mast cells,Epithelial cells,0.3932980080585759,1
+early,P3,Mast cells,Fibroblasts,0.1259273849158654,1
+early,P3,Mast cells,Macrophages,0.0624775680035472,1
+early,P3,Mast cells,Myocytes,0.1671162449389546,1
+early,P3,Mast cells,NK/T cells,0.080786870164741,1
+early,P3,Myocytes,B/Plasma cells,0.0556112137750758,1
+early,P3,Myocytes,Dendritic cells,0.1702547906030432,1
+early,P3,Myocytes,Endothelial cells,0.064668962617558,1
+early,P3,Myocytes,Epithelial cells,0.1456827058624993,1
+early,P3,Myocytes,Fibroblasts,0.0992475788658274,1
+early,P3,Myocytes,Macrophages,0.1114528302048613,1
+early,P3,Myocytes,Mast cells,0.1567936934261261,1
+early,P3,Myocytes,NK/T cells,0.1962882246450086,1
+early,P3,NK/T cells,B/Plasma cells,0.0683122435126342,1
+early,P3,NK/T cells,Dendritic cells,0.2397515906190282,1
+early,P3,NK/T cells,Endothelial cells,0.1147909160321774,1
+early,P3,NK/T cells,Epithelial cells,0.1565364855705238,1
+early,P3,NK/T cells,Fibroblasts,0.1579971774149554,1
+early,P3,NK/T cells,Macrophages,0.0504875725504662,1
+early,P3,NK/T cells,Mast cells,0.0443354822122663,1
+early,P3,NK/T cells,Myocytes,0.1677885320879482,1
+early,P5,B/Plasma cells,Dendritic cells,0.0919392136878752,1
+early,P5,B/Plasma cells,Endothelial cells,0.101785560201935,1
+early,P5,B/Plasma cells,Epithelial cells,0.2167333277063339,1
+early,P5,B/Plasma cells,Fibroblasts,0.1115344409766633,1
+early,P5,B/Plasma cells,Macrophages,0.058216459431469,1
+early,P5,B/Plasma cells,Mast cells,0.138233816301939,1
+early,P5,B/Plasma cells,Myocytes,0.1461594457959653,1
+early,P5,B/Plasma cells,NK/T cells,0.135397735897819,1
+early,P5,Dendritic cells,B/Plasma cells,0.1145745230332503,1
+early,P5,Dendritic cells,Endothelial cells,0.1253244681267451,1
+early,P5,Dendritic cells,Epithelial cells,0.1467186502127727,1
+early,P5,Dendritic cells,Fibroblasts,0.1563483960019327,1
+early,P5,Dendritic cells,Macrophages,0.0272927164615889,1
+early,P5,Dendritic cells,Mast cells,0.075168351770559,1
+early,P5,Dendritic cells,Myocytes,0.0622947010293059,1
+early,P5,Dendritic cells,NK/T cells,0.2922781933638453,1
+early,P5,Endothelial cells,B/Plasma cells,0.0725511796081553,1
+early,P5,Endothelial cells,Dendritic cells,0.186698060592902,1
+early,P5,Endothelial cells,Epithelial cells,0.1908809370992177,1
+early,P5,Endothelial cells,Fibroblasts,0.1393778841922496,1
+early,P5,Endothelial cells,Macrophages,0.0459297622414483,1
+early,P5,Endothelial cells,Mast cells,0.1062223448910091,1
+early,P5,Endothelial cells,Myocytes,0.1104705619867604,1
+early,P5,Endothelial cells,NK/T cells,0.1478692693882572,1
+early,P5,Epithelial cells,B/Plasma cells,0.1099663776744902,1
+early,P5,Epithelial cells,Dendritic cells,0.0815521836308414,1
+early,P5,Epithelial cells,Endothelial cells,0.0923757654158503,1
+early,P5,Epithelial cells,Fibroblasts,0.2149037656587128,1
+early,P5,Epithelial cells,Macrophages,0.1155141119380276,1
+early,P5,Epithelial cells,Mast cells,0.1166489910809348,1
+early,P5,Epithelial cells,Myocytes,0.1475216293693556,1
+early,P5,Epithelial cells,NK/T cells,0.1215171752317871,1
+early,P5,Fibroblasts,B/Plasma cells,0.0728302323411859,1
+early,P5,Fibroblasts,Dendritic cells,0.1652961671885469,1
+early,P5,Fibroblasts,Endothelial cells,0.0968258340281338,1
+early,P5,Fibroblasts,Epithelial cells,0.2714705494560868,1
+early,P5,Fibroblasts,Macrophages,0.0306199399604947,1
+early,P5,Fibroblasts,Mast cells,0.1519630042919098,1
+early,P5,Fibroblasts,Myocytes,0.0910473945185503,1
+early,P5,Fibroblasts,NK/T cells,0.1199468782150916,1
+early,P5,Macrophages,B/Plasma cells,0.1067617810489837,1
+early,P5,Macrophages,Dendritic cells,0.0769124395890131,1
+early,P5,Macrophages,Endothelial cells,0.0487388763973928,1
+early,P5,Macrophages,Epithelial cells,0.310036898415346,1
+early,P5,Macrophages,Fibroblasts,0.0536055991669484,1
+early,P5,Macrophages,Mast cells,0.1215780583184361,1
+early,P5,Macrophages,Myocytes,0.0573917618473906,1
+early,P5,Macrophages,NK/T cells,0.2249745852164889,1
+early,P5,Mast cells,B/Plasma cells,0.1227090301388924,1
+early,P5,Mast cells,Dendritic cells,0.112908402069248,1
+early,P5,Mast cells,Endothelial cells,0.0894028072098189,1
+early,P5,Mast cells,Epithelial cells,0.1958502909030528,1
+early,P5,Mast cells,Fibroblasts,0.2015908904800975,1
+early,P5,Mast cells,Macrophages,0.0510266485329804,1
+early,P5,Mast cells,Myocytes,0.0898813730161943,1
+early,P5,Mast cells,NK/T cells,0.1366305576497153,1
+early,P5,Myocytes,B/Plasma cells,0.1046814793755615,1
+early,P5,Myocytes,Dendritic cells,0.1228935170817909,1
+early,P5,Myocytes,Endothelial cells,0.0926600150342669,1
+early,P5,Myocytes,Epithelial cells,0.3198340955816684,1
+early,P5,Myocytes,Fibroblasts,0.0810308716477874,1
+early,P5,Myocytes,Macrophages,0.0345177480300572,1
+early,P5,Myocytes,Mast cells,0.0856623041395084,1
+early,P5,Myocytes,NK/T cells,0.1587199691093591,1
+early,P5,NK/T cells,B/Plasma cells,0.0995198168276057,1
+early,P5,NK/T cells,Dendritic cells,0.2296447991407889,1
+early,P5,NK/T cells,Endothelial cells,0.0648445756163401,1
+early,P5,NK/T cells,Epithelial cells,0.2214264688512623,1
+early,P5,NK/T cells,Fibroblasts,0.100363386367545,1
+early,P5,NK/T cells,Macrophages,0.1398980225390102,1
+early,P5,NK/T cells,Mast cells,0.0754784817638111,1
+early,P5,NK/T cells,Myocytes,0.0688244488936363,1
+early,P6,B/Plasma cells,Dendritic cells,0.1774448418264074,1
+early,P6,B/Plasma cells,Endothelial cells,0.0765182402037127,1
+early,P6,B/Plasma cells,Epithelial cells,0.1432012181394893,1
+early,P6,B/Plasma cells,Fibroblasts,0.1047772385191226,1
+early,P6,B/Plasma cells,Macrophages,0.0753688897738975,1
+early,P6,B/Plasma cells,Mast cells,0.1319489684081287,1
+early,P6,B/Plasma cells,Myocytes,0.0717281107556366,1
+early,P6,B/Plasma cells,NK/T cells,0.2190124923736049,1
+early,P6,Dendritic cells,B/Plasma cells,0.1966196307603031,1
+early,P6,Dendritic cells,Endothelial cells,0.0648251448408502,1
+early,P6,Dendritic cells,Epithelial cells,0.1488747185710827,1
+early,P6,Dendritic cells,Fibroblasts,0.1261703161816858,1
+early,P6,Dendritic cells,Macrophages,0.0760553181474495,1
+early,P6,Dendritic cells,Mast cells,0.0691104133387319,1
+early,P6,Dendritic cells,Myocytes,0.0694690331315111,1
+early,P6,Dendritic cells,NK/T cells,0.2488754250283855,1
+early,P6,Endothelial cells,B/Plasma cells,0.1113883484446096,1
+early,P6,Endothelial cells,Dendritic cells,0.0690024105517904,1
+early,P6,Endothelial cells,Epithelial cells,0.2776089966527174,1
+early,P6,Endothelial cells,Fibroblasts,0.2321215129245738,1
+early,P6,Endothelial cells,Macrophages,0.0687366218466109,1
+early,P6,Endothelial cells,Mast cells,0.0823449928182857,1
+early,P6,Endothelial cells,Myocytes,0.0717843110944345,1
+early,P6,Endothelial cells,NK/T cells,0.0870128056669774,1
+early,P6,Epithelial cells,B/Plasma cells,0.1209201388998765,1
+early,P6,Epithelial cells,Dendritic cells,0.060403574815174,1
+early,P6,Epithelial cells,Endothelial cells,0.1436536109808567,1
+early,P6,Epithelial cells,Fibroblasts,0.3209543346876618,1
+early,P6,Epithelial cells,Macrophages,0.078441572839573,1
+early,P6,Epithelial cells,Mast cells,0.0276179089298728,1
+early,P6,Epithelial cells,Myocytes,0.0301994703463259,1
+early,P6,Epithelial cells,NK/T cells,0.217809388500659,1
+early,P6,Fibroblasts,B/Plasma cells,0.0709866119482694,1
+early,P6,Fibroblasts,Dendritic cells,0.1045808804117413,1
+early,P6,Fibroblasts,Endothelial cells,0.1039375271889649,1
+early,P6,Fibroblasts,Epithelial cells,0.3171520754858223,1
+early,P6,Fibroblasts,Macrophages,0.0588377302784741,1
+early,P6,Fibroblasts,Mast cells,0.1167820570803044,1
+early,P6,Fibroblasts,Myocytes,0.1511026051753177,1
+early,P6,Fibroblasts,NK/T cells,0.0766205124311058,1
+early,P6,Macrophages,B/Plasma cells,0.1267434251000286,1
+early,P6,Macrophages,Dendritic cells,0.0718668722032139,1
+early,P6,Macrophages,Endothelial cells,0.0724733412266985,1
+early,P6,Macrophages,Epithelial cells,0.1866160492099464,1
+early,P6,Macrophages,Fibroblasts,0.1912016874396559,1
+early,P6,Macrophages,Mast cells,0.0559463714896249,1
+early,P6,Macrophages,Myocytes,0.2054506164208629,1
+early,P6,Macrophages,NK/T cells,0.0897016369099686,1
+early,P6,Mast cells,B/Plasma cells,0.2119073143991882,1
+early,P6,Mast cells,Dendritic cells,0.0691200467718077,1
+early,P6,Mast cells,Endothelial cells,0.111190820442605,1
+early,P6,Mast cells,Epithelial cells,0.10467163210695,1
+early,P6,Mast cells,Fibroblasts,0.1624949641876144,1
+early,P6,Mast cells,Macrophages,0.0812943796786623,1
+early,P6,Mast cells,Myocytes,0.0803430309411461,1
+early,P6,Mast cells,NK/T cells,0.178977811472026,1
+early,P6,Myocytes,B/Plasma cells,0.1132321551433824,1
+early,P6,Myocytes,Dendritic cells,0.071381011414059,1
+early,P6,Myocytes,Endothelial cells,0.0776430580284855,1
+early,P6,Myocytes,Epithelial cells,0.1360724447117565,1
+early,P6,Myocytes,Fibroblasts,0.1824301587995675,1
+early,P6,Myocytes,Macrophages,0.2676457087285789,1
+early,P6,Myocytes,Mast cells,0.075437822367923,1
+early,P6,Myocytes,NK/T cells,0.076157640806247,1
+early,P6,NK/T cells,B/Plasma cells,0.1532284049354792,1
+early,P6,NK/T cells,Dendritic cells,0.1548108066611095,1
+early,P6,NK/T cells,Endothelial cells,0.0711941720749421,1
+early,P6,NK/T cells,Epithelial cells,0.3217119711172344,1
+early,P6,NK/T cells,Fibroblasts,0.0867443701852345,1
+early,P6,NK/T cells,Macrophages,0.0805229772941549,1
+early,P6,NK/T cells,Mast cells,0.0849034412294666,1
+early,P6,NK/T cells,Myocytes,0.0468838565023785,1
+early,P9,B/Plasma cells,Dendritic cells,0.162121455567406,1
+early,P9,B/Plasma cells,Endothelial cells,0.0465465736392972,1
+early,P9,B/Plasma cells,Epithelial cells,0.2618025506336193,1
+early,P9,B/Plasma cells,Fibroblasts,0.0437465174116071,1
+early,P9,B/Plasma cells,Macrophages,0.0351816118257111,1
+early,P9,B/Plasma cells,Mast cells,0.136815290486632,1
+early,P9,B/Plasma cells,Myocytes,0.2155145044210935,1
+early,P9,B/Plasma cells,NK/T cells,0.0982714960146336,1
+early,P9,Dendritic cells,B/Plasma cells,0.2120445222275539,1
+early,P9,Dendritic cells,Endothelial cells,0.0544689432745872,1
+early,P9,Dendritic cells,Epithelial cells,0.0953795591479892,1
+early,P9,Dendritic cells,Fibroblasts,0.0643908066310753,1
+early,P9,Dendritic cells,Macrophages,0.0651951644432785,1
+early,P9,Dendritic cells,Mast cells,0.086329725695849,1
+early,P9,Dendritic cells,Myocytes,0.1357185513776824,1
+early,P9,Dendritic cells,NK/T cells,0.2864727272019841,1
+early,P9,Endothelial cells,B/Plasma cells,0.1182991638501794,1
+early,P9,Endothelial cells,Dendritic cells,0.0595533508391927,1
+early,P9,Endothelial cells,Epithelial cells,0.1512754860404405,1
+early,P9,Endothelial cells,Fibroblasts,0.293207685175282,1
+early,P9,Endothelial cells,Macrophages,0.124731623300958,1
+early,P9,Endothelial cells,Mast cells,0.0776841369713044,1
+early,P9,Endothelial cells,Myocytes,0.0769550437545933,1
+early,P9,Endothelial cells,NK/T cells,0.0982935100680494,1
+early,P9,Epithelial cells,B/Plasma cells,0.2325140793771393,1
+early,P9,Epithelial cells,Dendritic cells,0.0401596900266951,1
+early,P9,Epithelial cells,Endothelial cells,0.0983275212789965,1
+early,P9,Epithelial cells,Fibroblasts,0.2327489350406205,1
+early,P9,Epithelial cells,Macrophages,0.0829723242501177,1
+early,P9,Epithelial cells,Mast cells,0.043242345153888,1
+early,P9,Epithelial cells,Myocytes,0.0967392280327455,1
+early,P9,Epithelial cells,NK/T cells,0.1732958768397969,1
+early,P9,Fibroblasts,B/Plasma cells,0.0858684405991393,1
+early,P9,Fibroblasts,Dendritic cells,0.0458762155088118,1
+early,P9,Fibroblasts,Endothelial cells,0.1930414747872324,1
+early,P9,Fibroblasts,Epithelial cells,0.3166772100744591,1
+early,P9,Fibroblasts,Macrophages,0.1231981509102656,1
+early,P9,Fibroblasts,Mast cells,0.0356570965879167,1
+early,P9,Fibroblasts,Myocytes,0.1302726207383679,1
+early,P9,Fibroblasts,NK/T cells,0.0694087907938069,1
+early,P9,Macrophages,B/Plasma cells,0.0550712768601233,1
+early,P9,Macrophages,Dendritic cells,0.0708637498482445,1
+early,P9,Macrophages,Endothelial cells,0.1100075719653358,1
+early,P9,Macrophages,Epithelial cells,0.0946034335788164,1
+early,P9,Macrophages,Fibroblasts,0.1818445148796019,1
+early,P9,Macrophages,Mast cells,0.1400452272493548,1
+early,P9,Macrophages,Myocytes,0.1646614848786033,1
+early,P9,Macrophages,NK/T cells,0.1829027407399197,1
+early,P9,Mast cells,B/Plasma cells,0.2539547714364897,1
+early,P9,Mast cells,Dendritic cells,0.0946298595290809,1
+early,P9,Mast cells,Endothelial cells,0.1009348069612937,1
+early,P9,Mast cells,Epithelial cells,0.0927828646761703,1
+early,P9,Mast cells,Fibroblasts,0.0551103585823187,1
+early,P9,Mast cells,Macrophages,0.1830409024157379,1
+early,P9,Mast cells,Myocytes,0.1127631357447995,1
+early,P9,Mast cells,NK/T cells,0.1067833006541087,1
+early,P9,Myocytes,B/Plasma cells,0.2114536925641296,1
+early,P9,Myocytes,Dendritic cells,0.0665290176993123,1
+early,P9,Myocytes,Endothelial cells,0.0509007716574688,1
+early,P9,Myocytes,Epithelial cells,0.2414551676626277,1
+early,P9,Myocytes,Fibroblasts,0.0980131224755687,1
+early,P9,Myocytes,Macrophages,0.1763457809167585,1
+early,P9,Myocytes,Mast cells,0.0413196857184103,1
+early,P9,Myocytes,NK/T cells,0.1139827613057238,1
+early,P9,NK/T cells,B/Plasma cells,0.1482169067216747,1
+early,P9,NK/T cells,Dendritic cells,0.1431866893628849,1
+early,P9,NK/T cells,Endothelial cells,0.0540169886058672,1
+early,P9,NK/T cells,Epithelial cells,0.2141984879673658,1
+early,P9,NK/T cells,Fibroblasts,0.0507977590670753,1
+early,P9,NK/T cells,Macrophages,0.2255177525876922,1
+early,P9,NK/T cells,Mast cells,0.0593203989874953,1
+early,P9,NK/T cells,Myocytes,0.1047450166999444,1

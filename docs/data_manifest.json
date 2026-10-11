@@ -1,0 +1,1720 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "results/integrated_3ds_annotated_paper9.h5ad",
+      "bytes": 5319096383,
+      "sha256": "281943a0294002ed4d103b4e01a8b0178fc4b3038ecd60c28872bb145ae2a57d"
+    },
+    {
+      "path": "data/processed/GSE208253/GSE208253_cleaned_deconvolved.h5ad",
+      "bytes": 371984686,
+      "sha256": "7457b1edd82ac1ec36142643a7bf9d99e4fdfa0e0a78e0717b1323e9b941aa0e"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3A_epithelial_cells_and_umap.csv.gz",
+      "bytes": 94088,
+      "sha256": "b3150f670d21e548434fc08266acea16001166ec0d0d903369e1a50f9c8a8bd3"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3A_epithelial_cluster_stage_composition.csv",
+      "bytes": 867,
+      "sha256": "3dccc435a07f5ad78c7afbceb2f0eea83820117a6058f79ca495700c12a95c4c"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3A_epithelial_hvg_genes.csv",
+      "bytes": 21955,
+      "sha256": "d3c716430d469bf17ef0be57e61467ef2785c5913e5ab223ae87e4eb05136af9"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3A_epithelial_metadata.json",
+      "bytes": 1069,
+      "sha256": "468f3c51400ac1d9e5680cf6bb18dda2f46a92805fbac1348c7ba4bc9a02a889"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3A_epithelial_resolution_audit.csv",
+      "bytes": 816,
+      "sha256": "c5a4d2c8e4d02dd6b718a9419082434ee5ec38ef4aacf0d6928f63c4ff9ad2ce"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_chromosome_boundaries.csv",
+      "bytes": 491,
+      "sha256": "d6bf092a1eb7c903b613a04bb5b9b5a00a9fbf4f6c157861dfecac8ea355ed8c"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_cnv_scores.csv.gz",
+      "bytes": 92371,
+      "sha256": "7ffac042637f21a85ccf6e58ff414f10bf38ef2aa437b6af55930ae74562f43f"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_heatmap_cell_order.csv",
+      "bytes": 39775,
+      "sha256": "e049a07e91fb28ea8e74e88e86a25b1c507c39bab58d6195a0e20164d33c02e7"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_heatmap_display_matrix.npz",
+      "bytes": 6774920,
+      "sha256": "2aaaa73824c3b850220967436c05b1612fdc5810574d610e00d88c76181ec68b"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_infercnv_gene_order.csv.gz",
+      "bytes": 109826,
+      "sha256": "7a893537639092dc09bfb4a49d0c9437a07f1ff5cb41cd1c00ba46e64a610f79"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3B_epithelial_metadata.json",
+      "bytes": 1760,
+      "sha256": "e74d164271783fb788156180fa2da43e5c67a3019a0ab29a032c1c3571dea491"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3C_epithelial_cnv_groups_and_umap.csv.gz",
+      "bytes": 149980,
+      "sha256": "45e97aa298dbcfd692d530e4309bf38a37806eaa493e0779190678012bf8aa40"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3C_epithelial_cnv_group_by_cluster.csv",
+      "bytes": 639,
+      "sha256": "baff394d5c825587fea79de140667ec8869a5336af530817242437c969de70c5"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3C_epithelial_cnv_group_by_stage.csv",
+      "bytes": 266,
+      "sha256": "b54ffe5a2772b27c49cab3785035ab203490d80223bd5dcd153d55418fa090a2"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3C_epithelial_metadata.json",
+      "bytes": 829,
+      "sha256": "c9498e679edff06a873877e4d918a4ed49aa763f369d73e7f485daa42060e43d"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_cluster_markers.csv.gz",
+      "bytes": 27114,
+      "sha256": "df572dba9bc891c4c4e35c139c3e858bee2bed1c2aa3cd0e53b4ca2f92670149"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_cluster_qc_flags.csv",
+      "bytes": 342,
+      "sha256": "3327110418ce3d91b22d225e37747347c74c55f4b70c5dd663215512c6cbef4f"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_composition_by_cnv_group.csv",
+      "bytes": 639,
+      "sha256": "91c85467a954cfb8c99677d4748b94dca486a13aae04ad3d0750e93b4a5c7b22"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_composition_by_stage.csv",
+      "bytes": 833,
+      "sha256": "f61e4245a4949683d365a2ab0b8ee2540b4b31e0d415493035d86dde42e60518"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_dendrogram_order.csv",
+      "bytes": 105,
+      "sha256": "6354d3d7b12acd1376b40295788d983f6fe16bd0a0da2b0c73669b2a1798a4ed"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_marker_heatmap_gene_order.csv",
+      "bytes": 4266,
+      "sha256": "a16589f2489c0ba91e07fa565790c2843469d241e2b0e52623f1996a20538ca2"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_marker_heatmap_zscores.csv.gz",
+      "bytes": 17604,
+      "sha256": "d2133caf4182a2ee33b0c82f0744a637f329dfaa64111c83ec0aed9f566ce245"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3D_epithelial_metadata.json",
+      "bytes": 2003,
+      "sha256": "e0bb2a7e699eedd727f87e17e093c5e4d26600556b2a3ce916413b0f9bdfe12b"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3E_epithelial_metadata.json",
+      "bytes": 1825,
+      "sha256": "f9bd7487cd3bebfc7e8c64b6a7fbf8094fd353bb98f61f84a6aa01de193d06d3"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3E_epithelial_pathway_dotplot_values.csv",
+      "bytes": 33194,
+      "sha256": "3d0844cfd305934b053a95ba947a9ddf2037cc80ee415b63e79670940866cd06"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3E_epithelial_pathway_gene_audit.csv",
+      "bytes": 1505,
+      "sha256": "0fed5bdb96d27c89702edd917a602807d6ab4d8ea201dfff3b2f8a1e3f880d2d"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3F_epithelial_metadata.json",
+      "bytes": 1025,
+      "sha256": "c4d9aa0c557651a69c8f21a8568556caa3d354524e4aaeaa4567ee60bcd75242"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3F_epithelial_pathway_activity.csv",
+      "bytes": 1194,
+      "sha256": "010c54da23e50a57a05b7560cfedf3eeffb5aa9d18283d5d70d868aa40b90122"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3F_epithelial_pathway_gene_zscores.csv",
+      "bytes": 37865,
+      "sha256": "6d95b52bd5c6c31d1a01cb0d89eeb09991cb9e3f5470788133dd142b69f86029"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_cells_SR_diffusion.csv.gz",
+      "bytes": 641439,
+      "sha256": "a82017a207108cbc07c3974264064fb5f36942139cc5ac7b7ca2fc914f8fb8d6"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_diffusion_gene_audit.csv.gz",
+      "bytes": 375881,
+      "sha256": "b19dd9c51e8700abc2162e3a9b84453ec1b50c3462052708ce84e357def91209"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_LandSCENT_PPI_gene_mapping.csv",
+      "bytes": 221716,
+      "sha256": "2a0153bba5e66d2dea4c3f5fbf710617600ba6ce41662a462c9d13524e8a4873"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_metadata.json",
+      "bytes": 2676,
+      "sha256": "fe842eee880bdeaf7e94c78aaaeb8f6f3f8a0db9234e7359829ca05ca2a1e286"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_patient_cluster_SR.csv",
+      "bytes": 6299,
+      "sha256": "447d3320a0639021a6adc0e3dd3c10c4920b238b07b6d42f58aebb34a8068e64"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_potency_GMM_BIC_audit.csv",
+      "bytes": 761,
+      "sha256": "f73dff3285b33d842bf1f857f5f708a1f773f555624e03453024673ebce043aa"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_root_and_terminals.csv",
+      "bytes": 625,
+      "sha256": "8cd1e2d8478c9411dfde5083a73c1356e35dfa49193ee5ef561bbd85dd2517ad"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_sensitivity_audit.csv",
+      "bytes": 480,
+      "sha256": "404b0eadd3f1518964b2cb7da71e4245afee0461c41acd9448fd79edd862dc0d"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3G_epithelial_SR_by_cluster.csv",
+      "bytes": 1000,
+      "sha256": "750da535b27f37ea8915b4b0e4cbf2d202d60901badbb3931bfb564d8a9801cb"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3H_epithelial_mean_SR_and_sensitivity.csv",
+      "bytes": 3599,
+      "sha256": "99d29b50a4df0b2746ddbb8583c9d6a1a0909453434655101f18745dc0c196c1"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3H_epithelial_metadata.json",
+      "bytes": 2408,
+      "sha256": "3d02e1f600d920b3c793a933dbbc55b83d0a0ca1fcfce926b5a3077a5eec1a58"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3H_epithelial_patient_cluster_SR.csv",
+      "bytes": 4542,
+      "sha256": "84c982da3abe71dd181f8adb1cd342c873ccc06da716205f517564d7f6c02341"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3I_epithelial_metadata.json",
+      "bytes": 987,
+      "sha256": "4532d2ac214188cd4c53c451e254a3e7a802622b2ea6218166f38320f7bbe504"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3I_epithelial_SR_distribution_summary.csv",
+      "bytes": 1480,
+      "sha256": "996b488280126b9e1cac23145b6ab0714f10607bae543b516f0190d62ba941c0"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3J_epithelial_high_SR_cluster_GO_enrichment_all.csv",
+      "bytes": 34024,
+      "sha256": "0ea9dcbdff992c65a38c81e64e558b5281ee604a3e694f4592512454052186c6"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3J_epithelial_high_SR_cluster_marker_query.csv",
+      "bytes": 682,
+      "sha256": "618051b0d98a097b38f6fccb934a0a4e4013698fb34980fff5b368eeddcd5d5d"
+    },
+    {
+      "path": "results/paper9/figure3_epithelial/Fig3J_epithelial_metadata.json",
+      "bytes": 1126,
+      "sha256": "fe15683c47dec500d2f00f315d2c13239ff79550a92dd757e64afa63bfd905df"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/analysis_metadata.json",
+      "bytes": 1080,
+      "sha256": "f9b413bf870c0e87aba6d54a7fa9805e1844d150f3e3759913d5bd9143b6ac49"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/cell_module_eigengenes.csv",
+      "bytes": 967266,
+      "sha256": "e9110b62de4b23e3a3722ef90e2eabec9376cc3115ebab6f7981132c8cd41b7f"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/cell_network_coverage.csv",
+      "bytes": 97096,
+      "sha256": "3e20ea908a1b2d6656f54abf015e7df4d554fb16b23657f51022a8a37a8bdd1b"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/gene_modules.csv",
+      "bytes": 459175,
+      "sha256": "1d8b6f304672e4a3b1f2f29e8f9f3d5b6390847d2dd21b02d99a3b111910d5e9"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/gene_modules_display.csv",
+      "bytes": 528113,
+      "sha256": "67feb1ae27a88a63a8a4042adc2204e9cf1793d082297a7f94c949ad91d8a074"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/gene_selection.csv",
+      "bytes": 639493,
+      "sha256": "55403712eb7b8a6b208802519647d1291b4320a00d03b0f3593ba9cbd1c8c831"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/global_network_edges.csv",
+      "bytes": 152961,
+      "sha256": "84e0ee0176b294f802eb1f7bf8ba954b26a38d0156098246a57632c84a22b827"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/GO_BP_2023_all_tests.csv.gz",
+      "bytes": 296859,
+      "sha256": "3b0c0d2c7a5e72925699cf17b5e7ac0c85aaf60845dbc7c9523f5c51cb9ed933"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/GO_BP_2023_display.csv",
+      "bytes": 4348,
+      "sha256": "fa2e72ff7c7fe755ade66c737a6c3070c990fedea3158495dce668e2f5b37bc1"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/hub_genes.csv",
+      "bytes": 23569,
+      "sha256": "d83c50c79b0ee7108a670253bb0e5f23d7988e9148eda6ddb31c328714489835"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/metacell_expression.csv",
+      "bytes": 18230987,
+      "sha256": "9ea890a229e8e35185ee1095d0094627284a6fae3ac5998abc61728dd99fcd89"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/metacell_identity_audit.csv",
+      "bytes": 11518,
+      "sha256": "e4203ac89fbee75e828f6897efeaedf570ccd0fb0895f7c4417602e8a22e12c5"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/metacell_membership.csv",
+      "bytes": 575785,
+      "sha256": "9f1bf4713a9afaecd52ba83c96d3474cb71d388b7f1cfe64405a5b75a76c805c"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/metacell_metadata.csv",
+      "bytes": 100792,
+      "sha256": "1670889455c2a71d13f213747688d20534b7e9146eea7ec70b6ec1b44b234811"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/modules_before_connectivity.csv",
+      "bytes": 63560,
+      "sha256": "f98477b208b3770b617002b2a1384ece7744cdc3f9b9a4e79d6c9eca4174b186"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/module_cluster_dotplot.csv",
+      "bytes": 4650,
+      "sha256": "c0082b7d8b3a00bedf494e8e825388f1b1cb20d3d343d8d9fc374273ec64987a"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/module_umap.csv",
+      "bytes": 179987,
+      "sha256": "bcf52b8f5bc0be65b1f50e76444f4bc2d2000ac7910a37f22afdc4b623327406"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/patient_paired_module_associations.csv",
+      "bytes": 2211,
+      "sha256": "087ba61b5dab9ddd3436fa740fc871514c0e9eeed2f4895b42df16b86e1a6a43"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/plot_metadata.json",
+      "bytes": 754,
+      "sha256": "46d741f2d29c5f18e790fddefbda892f536e073786151e96d5c8f921f829bb35"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/QC_sensitivity_all_module_overlaps.csv",
+      "bytes": 3419,
+      "sha256": "8fccc52effdb89e20d12389a61318b9cd4d265e9797eb930f8d10c2446c1b787"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/QC_sensitivity_best_module_matches.csv",
+      "bytes": 597,
+      "sha256": "0ecb543a345c454827d50bf1635895f49292f74e8d8326e920f141a8a626aceb"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/QC_sensitivity_metadata.json",
+      "bytes": 208,
+      "sha256": "20c8c723b3c527bb743aa9f221a314e90e70ed62387c35d7594bac5ffc0e335f"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/representative_module_selection.csv",
+      "bytes": 464,
+      "sha256": "2698f8ac9f14bb9a2ee15e799bcbeb01b30e7887ce10e438c6261b0dc8e487c5"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/sample_cluster_module_eigengenes.csv",
+      "bytes": 18825,
+      "sha256": "e6c7b3f7aacad99e549e9790a9c40a3b555027a73c1da382ef2a5ef09e5530d9"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/selected_hub_network_edges.csv",
+      "bytes": 43177,
+      "sha256": "78b508ff63fb09ea0ec68ead89bb65e6beb84455af3e8cf5ac2b854f86c03d5b"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/sensitivity_without_C5_C8_gene_modules.csv",
+      "bytes": 61468,
+      "sha256": "df25acbe883fb415e6a7c1a73cbcf520e5d761ad0058d7fdb5240b3ce2f49999"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/sessionInfo.txt",
+      "bytes": 5537,
+      "sha256": "33c729e0bb074c1e15ee2101103427bda8037acd05ce98864cfd7a1e39938bf1"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/soft_power.csv",
+      "bytes": 2375,
+      "sha256": "7f4c1df3081ece52309ec5be08f1d979248919ddd04c8715cde1431ce4e00e52"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/tom_float32.bin",
+      "bytes": 21996100,
+      "sha256": "31b90c16bf814961a2837e5be224de0f530d2750ab8c1193137d67ee898fc636"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/tom_gene_order.csv",
+      "bytes": 21724,
+      "sha256": "d415cdc603d33f2df65fd87bb060d7d5c2dfe866e0aef3c611e9c9a6052729e5"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/validation_report.json",
+      "bytes": 2606,
+      "sha256": "3895973c53122d38a5f60a2cb0ceebe8c64a5518883992d1adbbe32066be975d"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/input/cells.csv",
+      "bytes": 431711,
+      "sha256": "06d50ce9df205add9bb8d139a6f9539b1387c0417ef29586eaa9fbbe680932ba"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/input/counts.mtx",
+      "bytes": 231466884,
+      "sha256": "718284e0e869abf6b775b33c4fb322a039069bc7177d18735fa089571fa0dbf5"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/input/genes.csv",
+      "bytes": 121801,
+      "sha256": "51c3f4c0733c52fbd4051c3e59649e43a3f181c728966dd15bc1da309a6c7a9e"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/input/input_audit.json",
+      "bytes": 312,
+      "sha256": "fd2a8648c5fb9b2441d32740f0feb7af8e1df4ea9de76fe00c16d33a3cea7708"
+    },
+    {
+      "path": "results/paper9/figure4_epithelial_hdwgcna/input/sample_cluster_sizes.csv",
+      "bytes": 2203,
+      "sha256": "0c9824655a24fcebf7087b58268b0fc488967c4603f5a4fbe28282b7f106c18c"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_all_gene_marker_audit.csv",
+      "bytes": 1380571,
+      "sha256": "b344e8d32f0afd728d23226d3a2910c3e5052202b5bb2e99e49065d3c2b9af4c"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_cells.csv.gz",
+      "bytes": 205129,
+      "sha256": "c544d3b63b0d6eae0a651c8ea95b6ad06cea6f1dccbd158c2917dcb27c218259"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_expression.npz",
+      "bytes": 42754489,
+      "sha256": "79f9afbb23ff4dc3d9377d02af0ce44b15c273c12b21a1519a98fb60e05a8c23"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_leave_one_patient_out.csv",
+      "bytes": 27363,
+      "sha256": "2cb72208cbe68feefe8936ed20c43e47378a61eca7db7f569d1d1355b52d0e1e"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_patient_cluster_scores.csv",
+      "bytes": 6051,
+      "sha256": "9ffb0da91e37f52b88617666b40e3a2ae6954727c7811b9399f63f65a69a08fd"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_patient_coverage.csv",
+      "bytes": 859,
+      "sha256": "e44227aae7aa9ff97d8cf99b4f7c79c4c1563e5f78d7fab79e6f07dd34d08bc5"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_selected_markers.csv",
+      "bytes": 6235,
+      "sha256": "3ad06f8ec4e1821475452e46a9fadc35a23b8243063b0a79953d8f555ff66d65"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/discovery_signature_scores.csv.gz",
+      "bytes": 577404,
+      "sha256": "8b1382fd9d86df7eb19c8bda2c5f37daab97334882123363bd752793fd49cd12"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/figure_layout_audit.json",
+      "bytes": 1247,
+      "sha256": "c186e05b0dd48fa24588d526f3d11a1574a6161ee41b0d8f37b2bac610b85c18"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/frozen_manifest.json",
+      "bytes": 1298,
+      "sha256": "fd872f5b47a4f24fa16089281bf80a65747fc21ebef8daee6aa2c92bd3985f76"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/frozen_signature_genes.csv",
+      "bytes": 18184,
+      "sha256": "04d8abf92de46a685c04346a3e4a3ff2fa6db4d619d30b9dfd294dde26dde271"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/matched_null_signatures.json",
+      "bytes": 43355,
+      "sha256": "e51a733dde4a9f85de3b975fb8a4c47835c0b6d6eed8d27eb40b425775d20705"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_cell_scores.csv.gz",
+      "bytes": 2069862,
+      "sha256": "4f164a9c67de90af9b064fc59660c24a85c1e5f4739e395f4b0782275e23938d"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_check_gene_correlations.csv",
+      "bytes": 16344,
+      "sha256": "422ce4e2023193a033566270e588fc1bd65ae2979b86ac5e3a97c9a9d4e38553"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_gene_coverage.csv",
+      "bytes": 193,
+      "sha256": "b183e4d2f170acaa3574900c147271e403db2753d5a1fda97a15699bfed76deb"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_matched_null_correlations.csv",
+      "bytes": 55348,
+      "sha256": "a34f77c6bb2ec3bbcaf0b3adc32c8327a110c00914818ecf1dba92d64da8a8e7"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_min100_sensitivity.csv",
+      "bytes": 521,
+      "sha256": "690f62d477b70da7af7158fedfdecd0e3e33523a405378fcf75a170687b99692"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_patient_effects.csv",
+      "bytes": 3339,
+      "sha256": "f58bb09e3b1d3c2b2949c5dfdbfa7d2262b689edf521512b15e3866ebb25a7b5"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_patient_scores.csv",
+      "bytes": 1818,
+      "sha256": "abbee49d4602050f64c24f888f07882734d606b280c2cd2f499faca9182f564c"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/replication_summary.csv",
+      "bytes": 524,
+      "sha256": "7139c83203e424821b38e3a7bc0a11c2341fef482aaef89b4ff34005c7362e51"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/sc_gene_universe.csv",
+      "bytes": 121801,
+      "sha256": "51c3f4c0733c52fbd4051c3e59649e43a3f181c728966dd15bc1da309a6c7a9e"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/selected_gene_patient_deltas.csv",
+      "bytes": 3553,
+      "sha256": "51ea7ba3806600c7da5e62856805646e65879ec647fef4a83fbbc1de89a61cd7"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/signatures.json",
+      "bytes": 15638,
+      "sha256": "ecfdb976f079c02a45e412af9fafed2385dd23fa7327cfa5b689624b54b806da"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_display_limits.csv",
+      "bytes": 221,
+      "sha256": "a8545866f2350ed8dd060ee1dcc77a07005445139a43e088fa51320ad17ac2cb"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_gene_coverage.csv",
+      "bytes": 193,
+      "sha256": "b183e4d2f170acaa3574900c147271e403db2753d5a1fda97a15699bfed76deb"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_niche_descriptive_scores.csv",
+      "bytes": 1914,
+      "sha256": "b7de84eeca94a0e95cc66d8a0ef7974cfa43f94b44250e5e862f718747099438"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_patient_effects.csv",
+      "bytes": 4707,
+      "sha256": "ef858ad80b024ba6ee8f64b4c89d0c892cb4944afe879ee5a6663dc1e18b2cba"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_processing.json",
+      "bytes": 484,
+      "sha256": "eacd09a90e906cb80a1a400ad9df29c2a7e0db5fec22129d38aaef9fd217c5bf"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_section_effects.csv",
+      "bytes": 32377,
+      "sha256": "12e2fb197ecfe2b58386460ba41192d016e30b7d0c9b3bee98010affa083ba85"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_spot_scores.csv.gz",
+      "bytes": 2464467,
+      "sha256": "f35b22de7e5cb77ae9374833937b52543bc973e7f89457be22c3784fd16194b6"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/spatial_summary.csv",
+      "bytes": 2131,
+      "sha256": "49fbb043dde040d695ec07e5af2da66eb4ea19bdd5da47bbac5a6d5ec9b09728"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/specificity_baseline.json",
+      "bytes": 287,
+      "sha256": "0f92c109f02b068cfa7c9e8ef3a7723399eb960bb6c3cb2b5f0aec4ddd4978c2"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/validation_report.json",
+      "bytes": 2682,
+      "sha256": "dfc9c7881ef9796160c36b9ef7542f912c02ad6aad54e91df1b1956bb1bba392"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/checking_genes_patient_pseudobulk_logCPM.csv",
+      "bytes": 8388,
+      "sha256": "487259abace8dced9558067b6e0cacfcd08d1b90250a7c5bc0bbba5c1318c16b"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/checking_genes_patient_pseudobulk_z.csv",
+      "bytes": 9388,
+      "sha256": "578a181678e4afbba0ace777ee67705079ede6ffa9fe44021fd90ddd825aa2fa"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/display_cluster_patient_counts.csv",
+      "bytes": 851,
+      "sha256": "6f8ce717ed9e253b490ad496ef20519f8976f4e47ef1991f565917964acf9159"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/display_manifest.json",
+      "bytes": 2141,
+      "sha256": "cbb5e88e417a0040cc96c2f57e456d543392ce752f91002b9a702941debdf9a7"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/embedding_hvg.csv",
+      "bytes": 22250,
+      "sha256": "87acca7500bcd9b3f6f140bd025b22cd05f097be86aa01de0a22995fe7163f51"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/epithelial_log_expression.npz",
+      "bytes": 48911650,
+      "sha256": "d836244211ef19c9516c1b793a641dadd3aa95116f30e9d871be70a01ff096f0"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/epithelial_umap.csv.gz",
+      "bytes": 411672,
+      "sha256": "87b005bafd26423e604b3f6e5e0e5bb9637acf5cac487e9d5b730c01fac4cee8"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/gene_universe.csv",
+      "bytes": 121801,
+      "sha256": "51c3f4c0733c52fbd4051c3e59649e43a3f181c728966dd15bc1da309a6c7a9e"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/patient_program_means.csv",
+      "bytes": 1037,
+      "sha256": "5484978e8465510ffaa81bad1768582c34363d5cd31bb546a6e50c2573b0dd08"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/patient_program_z.csv",
+      "bytes": 1049,
+      "sha256": "692164a9d9bc73a28d04f8a31a48b80dc94aa2ac67966f9ab48bbaf2dc4b2bf3"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/program_display_scales.csv",
+      "bytes": 412,
+      "sha256": "095a4c08d47ccf46aa36e90c2ffcf64b71fd67da7ba5bf5e86a5512da3e3c1d7"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/section_program_niche_residuals.csv",
+      "bytes": 4409,
+      "sha256": "d5d9d48d528200b824e29bf8ab4dfc1cfdb6f882401033725516517182ca7ccb"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/section_residual_design_audit.csv",
+      "bytes": 355,
+      "sha256": "288e35b9f4f1df49613f1bb34a6ef7497b5f01fc8c4a7bf1fa2fcccdf04cf55b"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/visual_redesign/visual_validation.json",
+      "bytes": 980,
+      "sha256": "f4d6f43f1692343e2575cb6477b64afed9c14ed7b637bd207b0168233f84cab0"
+    },
+    {
+      "path": "results/spatial_misty/figure2c_early/early_misty_group_importance.csv",
+      "bytes": 17266,
+      "sha256": "fb11260802e6ff348ee99517af940c56d632fa18350cf9f206440c446d577fd8"
+    },
+    {
+      "path": "results/spatial_misty/figure2c_early/early_misty_group_metrics.csv",
+      "bytes": 1342,
+      "sha256": "5569adae603dddee79a58b9ec9566320921c4ccd52bc65576899cfae13b3a8c6"
+    },
+    {
+      "path": "results/spatial_misty/figure2c_early/early_misty_interactions_by_sample.csv",
+      "bytes": 76143,
+      "sha256": "8c0a2b94803e0e5f3e8cb91b3ab74d5b77b0e1f284d4c71358792c63d5fe02fe"
+    },
+    {
+      "path": "results/spatial_misty/figure2c_early/early_misty_target_metrics_by_sample.csv",
+      "bytes": 5345,
+      "sha256": "8bc5eb3a95cee9ed47bb06cdf2330c9345ee76f4de11755f3af3d937f5eea172"
+    },
+    {
+      "path": "results/spatial_misty/figure2c_early/run_metadata.json",
+      "bytes": 1254,
+      "sha256": "88d9a7369ec762c8d0eb41ffd672872806e875c35b0c2ad00549c1fccc85f079"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_group_importance.csv",
+      "bytes": 18731,
+      "sha256": "46db2bb75f4145785497e6b5cbf78238110520db8c0f37c5135eb5db272d3474"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_group_metrics.csv",
+      "bytes": 1345,
+      "sha256": "3049185a11949a8735f4b2bc7dd1a9e4a09d219f92645ba9db27e17bd63446f3"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_interactions_by_patient.csv",
+      "bytes": 101274,
+      "sha256": "876531fb9fb6bcb51d3b977b9f40c8e198a0f16fb3485cad2a2f24488e7c80aa"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_interactions_by_sample.csv",
+      "bytes": 154530,
+      "sha256": "8740e305a256ad549b435418c58e3d6a769179832a772e84a2573ba57c001ec5"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_target_metrics_by_patient.csv",
+      "bytes": 7335,
+      "sha256": "46294f1903040b881cd466f770ade1a2ed8cc3986c68dfab12862f7814a353de"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/advanced_misty_target_metrics_by_sample.csv",
+      "bytes": 10707,
+      "sha256": "7efb7b0cb57bf7b1ede3eceffb764360fa79bac8092a681483a3f3ef4e118b93"
+    },
+    {
+      "path": "results/spatial_misty/figure2i_advanced/run_metadata.json",
+      "bytes": 1420,
+      "sha256": "a797aeb1903c8ba49464c3e112f0ed86269ead1cc19989d70a0d00740c8f2669"
+    },
+    {
+      "path": "results/spatial_preprocessing/cell2location_model_genes.csv",
+      "bytes": 126761,
+      "sha256": "7c8ed665b36a465e7dff13822a216dcac8ae1efd5f0432dcf4bdb95f0c684a11"
+    },
+    {
+      "path": "results/spatial_preprocessing/deconvolution_marker_validation.csv",
+      "bytes": 714,
+      "sha256": "7f574e2a8d110073f35f6b5632568305fc7a29f08eb20fd70d0e1528b6bb9b83"
+    },
+    {
+      "path": "results/spatial_preprocessing/deconvolution_model_concordance.csv",
+      "bytes": 723,
+      "sha256": "6001890707bd952103e75a1b76b85e20e823f0efda583f5f0333499c900d255d"
+    },
+    {
+      "path": "results/spatial_preprocessing/deconvolution_run_metadata.json",
+      "bytes": 550,
+      "sha256": "34fa797621f60a7d3cefa1164481490bc1b65c439699a0227f5b8e30525ac44f"
+    },
+    {
+      "path": "results/spatial_preprocessing/destvi_model_genes.csv",
+      "bytes": 121779,
+      "sha256": "9ee6d73f23896ac1defd71056139eec4ffbba02d1722efdcb59c39ae84cb33c4"
+    },
+    {
+      "path": "results/spatial_preprocessing/gse181919_reference_label_counts.csv",
+      "bytes": 194,
+      "sha256": "d52091ebe1bed5d435f174b7dbff08bfd4b485d429a2575c9fcb99df05829f2b"
+    },
+    {
+      "path": "results/spatial_preprocessing/qc_metrics_by_spot.csv.gz",
+      "bytes": 577978,
+      "sha256": "2b42d8e02e231d8b4996ca9f42e3f16edda06545534bda6f014cc7dd2a57f2ff"
+    },
+    {
+      "path": "results/spatial_preprocessing/qc_report.csv",
+      "bytes": 1946,
+      "sha256": "3341ca7be6213c0aaaacda69d84e6cb1c264b68841b13ef959325e9bbfb06342"
+    },
+    {
+      "path": "results/spatial_preprocessing/sample_manifest.csv",
+      "bytes": 713,
+      "sha256": "0503dd7640e5325b47551495394ad99d522628982572c7ac2260e977c6834549"
+    },
+    {
+      "path": "results/spatial_preprocessing/validation_report.json",
+      "bytes": 915,
+      "sha256": "6d2f726994f41fc6d9a612fa6dea877cfe55952e343b1901c4c46d4899e1ab38"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2A_representative_sample_selection.csv",
+      "bytes": 767,
+      "sha256": "fbf373d2f8dd5deadc9dec71b77649a08903681b9ad2a62799140d39c60107d0"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2D_abundance_scale_limits.csv",
+      "bytes": 903,
+      "sha256": "ded031782cfab539dffa246a113d529621bf6a8a71c91fd67eb183a350853b9d"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2E_MISTy_intra_network_edges.csv",
+      "bytes": 4282,
+      "sha256": "282ecb623b8f36bbd9f5d30a19d5ada56114e171bc7cffb0e79276d197c44b08"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2E_MISTy_intra_network_nodes.csv",
+      "bytes": 1301,
+      "sha256": "d65441da81a176e31ff1b894881028e445052c24b6e43604586ee2642ca2de3d"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_assignments_early_OSCC.csv.gz",
+      "bytes": 92548,
+      "sha256": "c4a1a2671054c3bbc0cd760928e529b842c63837e5dd77fd8d4f1f013b84e6ef"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_enrichment_by_patient.csv",
+      "bytes": 6674,
+      "sha256": "afa67e067a64d26ed137ee62f8f890c34f6ca996c6bf5e79937ffb86f2e66930"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_enrichment_early_OSCC.csv",
+      "bytes": 2061,
+      "sha256": "9f78dd22a550bfbfe6a236bf5bfa3dd3fd87f1fd7320ab26e5da42e5fb1733bb"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_k_selection.csv",
+      "bytes": 1294,
+      "sha256": "fa888f0486c76c939be17cee5463004f0ea087dce75269471eca96b4dfa74db5"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_model_metadata.json",
+      "bytes": 1348,
+      "sha256": "ab3a43fb0849332a80412d6ab07614a30e6699f3b462684a5e15f86026127eaa"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_niche_patient_prevalence.csv",
+      "bytes": 760,
+      "sha256": "3ed53ec710ac8abf1521855e8c3fc6396e2179615effae42bf39f5b24f4a8143"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2G_representative_sample_selection.csv",
+      "bytes": 1321,
+      "sha256": "cc672fc959c84dab5e917e53732d75c1b2d8afc56b362d3113219ac8611932bf"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2J_abundance_scale_limits.csv",
+      "bytes": 912,
+      "sha256": "d53d8dd31c6bbbf9a69891e0a3f2cec0afc0e0d22c10c9a8591f12455b815d3a"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2K_MISTy_intra_network_edges.csv",
+      "bytes": 4117,
+      "sha256": "9706cd83569523e918a1b15432d07591bd33286fe52541f612914180c679e045"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2K_MISTy_intra_network_nodes.csv",
+      "bytes": 1418,
+      "sha256": "bd011e989d0dc0422c8b8018f3ee72e132a8928ad4af7baea17018dad803baba"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2K_MISTy_intra_network_stage_comparison.csv",
+      "bytes": 1544,
+      "sha256": "ba9b143ae5134f16d79fad86ae77547fc598244c12cea3096f6b487c96778994"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_assignments_advanced_OSCC.csv.gz",
+      "bytes": 401121,
+      "sha256": "2edf998892bcc07f24c4a06efc52d83266705b3ca18350c8616f23bf330a013c"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_enrichment_advanced_OSCC.csv",
+      "bytes": 2061,
+      "sha256": "483e73cc62b2a89e8e8fe165c05fc11145ba5a26f74bdd9ac4d5deb4b8d20803"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_enrichment_by_patient.csv",
+      "bytes": 10029,
+      "sha256": "0e6f871fb89e543c6a47d0223a0d58bf2a4d69970346f0220c524113d6c6fa8e"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_patient_prevalence.csv",
+      "bytes": 3316,
+      "sha256": "778d3b9dd429672d61e77157ba2dd8cf4a79bb674892b8ade42ce69ec922cacd"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_projection_metadata.json",
+      "bytes": 1836,
+      "sha256": "c7b8956136645b760918aa9df1617957c27a6cca0f9d8e2f0b6808e48dbfc635"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_niche_stage_comparison.csv",
+      "bytes": 540,
+      "sha256": "1048049f6caadbd3a3e20067a9d877da8c704231994722efe3455f929ba21e05"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1E_exact_roe.csv",
+      "bytes": 672,
+      "sha256": "be5459fa7c049d147f6d2b372b7ee7bdafb3144d6e03c6c4eb57302c340545f9"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1F_exact_median_fractions.csv",
+      "bytes": 645,
+      "sha256": "85d6cfafaa48fd7ca840064c6e5243b927f9f9ced00537440458d199190ef2c5"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1H_display_values.csv",
+      "bytes": 4763,
+      "sha256": "e393d22017eecc969492fd843dc6e9f4e09d9a7ac4cb86929a128c17f9105af5"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig3J_full_terms_and_short_labels.csv",
+      "bytes": 3143,
+      "sha256": "da9550656d77cbbe7e75c9d94f58c2681ec7571dc7a920825efbbd40c6686ab0"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig5A_displayed_configuration_ids.csv",
+      "bytes": 3332,
+      "sha256": "f2e4be2201c0087892c670eb6811c69764316cf17a8627c8ab168640d4510f9a"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig5_risk_table_values.csv",
+      "bytes": 783,
+      "sha256": "219dc750e5a8279406b181045a423432a54fdc8efd4662685eff5dbff191b2ef"
+    },
+    {
+      "path": "results/paper9/composition_literature_v3_GSE181919_per_sample.csv",
+      "bytes": 6409,
+      "sha256": "a010d2ae59b07dd2c4cf1ba0f545bfa603d03f66724bd21cafb9bbb203840b5d"
+    },
+    {
+      "path": "results/paper9/composition_literature_v3_GSE310797_per_sample.csv",
+      "bytes": 3348,
+      "sha256": "ef66ced58b8130b7d1a8a2cfea4a0981526f0c498620c4318c4c00ccb89e964d"
+    },
+    {
+      "path": "results/paper9/coverage_literature_v3_GSE181919_Normal_OLK_OSCC.csv",
+      "bytes": 220,
+      "sha256": "daf76fbe1442bfd95348f6c7861d190ad620d873e385239555b8d5892c2814a1"
+    },
+    {
+      "path": "results/paper9/coverage_literature_v3_GSE310797_Early_Late.csv",
+      "bytes": 197,
+      "sha256": "5b842975a9f461cbcb89bf8d374378ae67196554debbe48dc1814905f7b17a2f"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_annotation_literature_v3.csv",
+      "bytes": 8851,
+      "sha256": "2ef430543d903560b801d2dfd84f87948391365f768f705804ab4aeba592ce94"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_cells_literature_v3.csv.gz",
+      "bytes": 1705812,
+      "sha256": "1a7d7c1402694ca790df5db63497431892a71a808b92b5a2d148c76042282b37"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_display_embedding_literature_v3.csv.gz",
+      "bytes": 249088,
+      "sha256": "5b4f8c4aea3bfc83c007da8b88579d7cfd667f39411cd8622b26dff11f6fa4d5"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_hvgs_literature_v3.csv",
+      "bytes": 110952,
+      "sha256": "b9c3ed0e5a6cd0718fd64e254eb4da24b66b8bd6261f50cf94c76d6e3ac867af"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_markers_literature_v3.csv.gz",
+      "bytes": 140032,
+      "sha256": "cef5b5495852e0d97d4fa65ad61d40f3f9a0049bad5dbcdc47cd6859c29dd073"
+    },
+    {
+      "path": "results/paper9/fibroblast_subcluster_program_scores_literature_v3.csv",
+      "bytes": 11365,
+      "sha256": "b61c50e0398030fdf62edf11054557bad3ec66ce5b6c3df622338fdd6b7d910d"
+    },
+    {
+      "path": "results/paper9/fibroblast_subtype_marker_audit_literature_v3.csv",
+      "bytes": 18858,
+      "sha256": "050f4535c74be00ca28fb881ca537bd231c0b320894db1dde0b69c4a82916259"
+    },
+    {
+      "path": "results/paper9/fibroblast_subtype_sample_composition_literature_v3.csv",
+      "bytes": 91586,
+      "sha256": "4779587cfa62fcf6b7631d468d80d4fd488679e44454e6c7d9204db5ac5912b2"
+    },
+    {
+      "path": "results/paper9/fibroblast_subtype_stage_tests_literature_v3.csv",
+      "bytes": 5159,
+      "sha256": "953af8dc944ec4dda95eeb654abfd00c8ac6488fa2eac04ea853119e4bc1a897"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_celllevel_OLK_vs_Normal_display.csv.gz",
+      "bytes": 474066,
+      "sha256": "35f236954b906cfc7b54ccc33e1f9b9d66740542000ae774fcd123a394062126"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_celllevel_OSCC_vs_Normal_display.csv.gz",
+      "bytes": 513120,
+      "sha256": "2cf921ada955748e863cbe5c6f94c3b3a4b4b54811cbebcbc057f0218a5f5836"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_enrichment_DEG_lists.csv",
+      "bytes": 427811,
+      "sha256": "664eddefccdd78dfa0496ca1c2ded1c5b450640f7570d07e3e42353490c0c18b"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_enrichment_summary.csv",
+      "bytes": 348,
+      "sha256": "dd592bbf6405400ebcde2e384a0d910e5aa2d2c565166d2816a2e14e4341b96f"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_GO_BP_enriched_pathways.csv",
+      "bytes": 49513,
+      "sha256": "65a438b66db19d09dd10d1d20fad90aaf1c42368134636e11ec53645c201de6a"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_GO_KEGG_enriched_pathways.csv",
+      "bytes": 67984,
+      "sha256": "f738cadeaf84d7b5bfe2ad4e2893b9d52d70c260780299405332843f5f6bb27e"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_GO_KEGG_enrichment_all.csv",
+      "bytes": 2441144,
+      "sha256": "b62428e1fdd6e19b51bf391ca0351499e1fdec276967dcb353c93ee5646f007c"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_KEGG_enriched_pathways.csv",
+      "bytes": 18656,
+      "sha256": "8262742aca3fa851c8f28b22e984c7cf04a8352fc93f137c1d52b61d2af0ee84"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_OLK_vs_Normal_de.csv.gz",
+      "bytes": 223324,
+      "sha256": "d91b7e1f29250df7c01f1faa360d2f025766a8a43c7b306b22a0759b479fb492"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_OSCC_vs_Normal_de.csv.gz",
+      "bytes": 248993,
+      "sha256": "d3abf321dd458f7f66172afe12758bb8a109e1fbb015b885eb41b8bbc7a26497"
+    },
+    {
+      "path": "results/paper9/Fig1G_epithelial_pseudobulk_samples.csv",
+      "bytes": 1532,
+      "sha256": "245a70afb123601b917069a2a80801307434042b0b0cafb128b5002580a52f60"
+    },
+    {
+      "path": "results/paper9/Fig1H_selected_GO_pathways.csv",
+      "bytes": 4769,
+      "sha256": "953f4c851facc020059901d6e6a10c91c2089d625346a6a24339e90ce79c0f94"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_de_summary.csv",
+      "bytes": 534,
+      "sha256": "98cba1bc8b1f19ec94cf678e1b3757bc3acc7c7c8c4d76fc8b79b115e5cf33c2"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_Hallmark_enrichment.csv",
+      "bytes": 144864,
+      "sha256": "d72cd57488e253d3a337ddae2996e6515b0816d66424b876ea8e98fa4d8fc741"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_Hallmark_matrix.csv",
+      "bytes": 4442,
+      "sha256": "3d458bb75117935e9e04710dc253861beaa126ae11d93b68d26a25c463355f30"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_KEGG_metabolic_enrichment.csv",
+      "bytes": 92202,
+      "sha256": "383c6022ebec411d908fb603a40560065039fb9cc0633b92cf0a5f8a9bdfc84e"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_KEGG_metabolic_matrix.csv",
+      "bytes": 4719,
+      "sha256": "5ad1e2f7e749e3cafdca44032d5fd47c5b5781094c352fb4ddcaf28583eb9ff3"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_pseudobulk_de.csv.gz",
+      "bytes": 1621036,
+      "sha256": "b112b7450e58898c76923f661c3b502af31bb651ed49495a7de4614b03378468"
+    },
+    {
+      "path": "results/paper9/fig2h_literature_v3_pseudobulk_samples.csv",
+      "bytes": 8610,
+      "sha256": "864f72adbc53c70206a1851db544e6e293f358904ea4b5903cee0716181fe744"
+    },
+    {
+      "path": "results/paper9/Fig3A_endothelial_qc_exclusions.csv.gz",
+      "bytes": 39433,
+      "sha256": "f4274919e2d69506f98acc62f783ddd134ba0786629f60dbdd22d7c41d9619d1"
+    },
+    {
+      "path": "results/paper9/Fig3A_endothelial_subtypes_metadata.json",
+      "bytes": 870,
+      "sha256": "e35edcc4104c99071df13c7c7f83fabe1e290617e33184ed74ce68b65b3ad5ba"
+    },
+    {
+      "path": "results/paper9/Fig3A_endothelial_subtype_assignments.csv.gz",
+      "bytes": 109508,
+      "sha256": "037208d2c87701f755adc87aef4698c3918cc14cd964a159cac05c27eb3f6a7f"
+    },
+    {
+      "path": "results/paper9/Fig3A_endothelial_subtype_counts.csv",
+      "bytes": 555,
+      "sha256": "d7d8e9767ee55a33c1ad11f6620fc600a1e7a0f9b666fc0ead95a02c8cb349b9"
+    },
+    {
+      "path": "results/paper9/Fig3A_GSE181919_endothelial_cluster_audit.csv",
+      "bytes": 13931,
+      "sha256": "f0c95365c2841adf58794b9b9f78927383708cfcd241b69216b3e16e64cb13eb"
+    },
+    {
+      "path": "results/paper9/Fig3A_GSE181919_endothelial_cluster_markers.csv.gz",
+      "bytes": 14517,
+      "sha256": "ec56d9d3675b4083108ad1f3b5d1af86b6201c65868a53572eeb55fd1dc0b5a5"
+    },
+    {
+      "path": "results/paper9/Fig3A_GSE310797_endothelial_cluster_audit.csv",
+      "bytes": 16004,
+      "sha256": "b633c5225cd69d93df8fa4a4d5c7c11780f6d3772c6b313e404503a7fb342607"
+    },
+    {
+      "path": "results/paper9/Fig3A_GSE310797_endothelial_cluster_markers.csv.gz",
+      "bytes": 17153,
+      "sha256": "cda850c6d8c79c53b4deff7e665968770f0fc1880e980d2a247b68d357c4272a"
+    },
+    {
+      "path": "results/paper9/Fig3B_endothelial_marker_dotplot_metadata.json",
+      "bytes": 1686,
+      "sha256": "26271759d6136e768a8b5cf484e26c3d3fe7808d7969dbd3c7e121d9734d88a2"
+    },
+    {
+      "path": "results/paper9/Fig3B_endothelial_marker_dotplot_stats.csv",
+      "bytes": 68198,
+      "sha256": "02a4c8db91aeff9d4f17032e8744a175e2e32e5f689f9f35f1c426ebd0cf3df5"
+    },
+    {
+      "path": "results/paper9/Fig3C_endothelial_patient_fractions.csv",
+      "bytes": 9326,
+      "sha256": "530cc2156e9e53740dd1f541a420d2126f300eca503b8def60f3cba6c409b8c0"
+    },
+    {
+      "path": "results/paper9/Fig3C_endothelial_patient_metadata.json",
+      "bytes": 3365,
+      "sha256": "85d793fa68d833ede73edbe65bc423d5495f884f4c04361c05dee76f0782cc34"
+    },
+    {
+      "path": "results/paper9/Fig3C_endothelial_patient_stats.csv",
+      "bytes": 6247,
+      "sha256": "39dc17242d24690a90b8dfb8e62d3e52a5acaf8a78bafdd204ea2ab6d6972fcd"
+    },
+    {
+      "path": "results/paper9/Fig3C_endothelial_stage_summary.csv",
+      "bytes": 1980,
+      "sha256": "d4256f08cca2fae7f58ebace190f5fb38d953956aa7462e9f4710dcc55bc083f"
+    },
+    {
+      "path": "results/paper9/Fig3D_endothelial_validation_metadata.json",
+      "bytes": 2446,
+      "sha256": "3d14cd9c25a710a0790b704c31cfd9e9539ed01ba9299f47c4037a847fd1b0f4"
+    },
+    {
+      "path": "results/paper9/Fig3D_endothelial_validation_patient_fractions.csv",
+      "bytes": 7059,
+      "sha256": "d14255de26050a5c086568d092a4c9b8b2ffb2084635cb96cd811ad4222f2190"
+    },
+    {
+      "path": "results/paper9/Fig3D_endothelial_validation_stage_summary.csv",
+      "bytes": 1421,
+      "sha256": "7064f0b4db22f9850cbc2e775936f9a5ac9dca51ee6b2f7f5114135f30b3538f"
+    },
+    {
+      "path": "results/paper9/Fig3D_endothelial_validation_stats.csv",
+      "bytes": 1722,
+      "sha256": "9f08990ebdbd6e1c001ec51497034bfdac8842549275b006b6e42c748d0f46eb"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_correlations_by_patient.csv",
+      "bytes": 1576,
+      "sha256": "7b6723292fd8fc1925f5b7d6ae4adac568382176c206ff79cdbe6c705a3c861d"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_correlations_by_section.csv",
+      "bytes": 2999,
+      "sha256": "ed6462a969ddf9115650de6bceb0a9e597a68ba49240d396057f726ec881ca78"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_gene_audit.csv",
+      "bytes": 945,
+      "sha256": "e8e8c3921b762c91fe2f1643b991e0785a8b7e26d07f99b8d4e65910dfff39d7"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_metadata.json",
+      "bytes": 2736,
+      "sha256": "1e447f4590d7c87d463e5e624e2f5ab95f59f708453f943a0ab6c52d0dc121bb"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_program_scores.csv.gz",
+      "bytes": 766760,
+      "sha256": "3176e5fcee9f445bd4602d6d2704244e83947e4f13ad36b0b3b5e18174d8497d"
+    },
+    {
+      "path": "results/paper9/Fig3E_endothelial_spatial_stats.csv",
+      "bytes": 419,
+      "sha256": "cb050e5f2fdcd1d38d6bf5297b36182a3369a663a5860c8a5ab773e4d2d35994"
+    },
+    {
+      "path": "results/paper9/Fig3F_fibroblast_subtype_umap_metadata.json",
+      "bytes": 467,
+      "sha256": "a929f4a8a9851b4ac2750d51c6ab636e5db133312e243c00562b6d720aa678d9"
+    },
+    {
+      "path": "results/paper9/Fig3F_fibroblast_umap_coordinates.csv.gz",
+      "bytes": 687530,
+      "sha256": "f9eef6c0cbe74ec79fa4a22cd58244dfbee74fd332d3eb5e14d9f2f71bbb7707"
+    },
+    {
+      "path": "results/paper9/Fig3G_fibroblast_marker_dotplot_metadata.json",
+      "bytes": 938,
+      "sha256": "3d66b4dc7dbc8bd53358279be2249b8ca55074ff54a0fc884e90a5d07a66e87f"
+    },
+    {
+      "path": "results/paper9/Fig3G_fibroblast_marker_dotplot_stats.csv",
+      "bytes": 59404,
+      "sha256": "3fa59af461564a0190e0c01046d7f71c9407d49e48cac05efde37cf6dd133fdd"
+    },
+    {
+      "path": "results/paper9/Fig3H_fibroblast_stage_heatmap_summary.csv",
+      "bytes": 2108,
+      "sha256": "2c9308604a44f54b3a2762b2475babe469ab52974b4467c9d908e65b148feee6"
+    },
+    {
+      "path": "results/paper9/Fig3I_cthrc1_caf_patient_fractions.csv",
+      "bytes": 2050,
+      "sha256": "c4d93df094cd8d1118ce9422275b9b2780f153d91a74df0b92c6f77f37733a15"
+    },
+    {
+      "path": "results/paper9/Fig3I_cthrc1_caf_patient_stats.csv",
+      "bytes": 1493,
+      "sha256": "ca719685a4129a9ec80581607cc45cf3204476ddee3358a5a4a434f3323f4cf1"
+    },
+    {
+      "path": "results/paper9/Fig3J_fibroblast_reproducibility_gate.csv",
+      "bytes": 1541,
+      "sha256": "c42f928ef687f1771d3a875a130870cbde807264d697a24cc1d8c24261752812"
+    },
+    {
+      "path": "results/paper9/Fig3J_stromal_effect_forest_metadata.json",
+      "bytes": 833,
+      "sha256": "179f5874ba54bc4cd4eab6821b2268d2c42150e12cad78a33d35f7ed21f566e2"
+    },
+    {
+      "path": "results/paper9/Fig3J_stromal_effect_forest_stats.csv",
+      "bytes": 11487,
+      "sha256": "f8e9557ef42bdc66395fc49f16f8285674b6b048965f478fe085a6243c1a52bd"
+    },
+    {
+      "path": "results/paper9/literature_v3_GSE310797_confirmed_stage_mapping.csv",
+      "bytes": 541,
+      "sha256": "e60ce04733a3a9b948428644a7ebaae256bcd4f3d242ee9360689d94dbff96ab"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_annotation_literature_v3.csv",
+      "bytes": 9098,
+      "sha256": "7efdf6ab235aa847005e0ef3b52acecdda18046160ee0cdf1abeaa1636c5b94c"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_cells_literature_v3.csv.gz",
+      "bytes": 641598,
+      "sha256": "cdbc1e6a572f8e6bd1c29c154b5d5a483c5dc563cc95c2c1e897f66e84e97632"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_display_embedding_literature_v3.csv.gz",
+      "bytes": 226422,
+      "sha256": "ee99f8c348a252299dde97eb7d416449dd52f66cdfd95087261486041b976a3a"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_hvgs_literature_v3.csv",
+      "bytes": 110765,
+      "sha256": "58b339ef89ff54fd604a803eca363073e37baf8f0d3d6a726da3de03d53d5d15"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_markers_literature_v3.csv.gz",
+      "bytes": 146911,
+      "sha256": "a57372ccb57ffcf957892a749aaadb39114775eac09509d1cf5ff6c18d3c3c5a"
+    },
+    {
+      "path": "results/paper9/myeloid_subcluster_program_scores_literature_v3.csv",
+      "bytes": 10621,
+      "sha256": "9a3cc1dea203a338c63c2cb86070b17e03ab1d4116a4dcf935910d0ae8aa11cc"
+    },
+    {
+      "path": "results/paper9/myeloid_subtype_marker_audit_literature_v3.csv",
+      "bytes": 13735,
+      "sha256": "3070d144c2811c9e2235ddb19ea2c957a2ce02e55c7aa49b102c01480d980af9"
+    },
+    {
+      "path": "results/paper9/myeloid_subtype_sample_composition_literature_v3.csv",
+      "bytes": 80450,
+      "sha256": "34f4836d16fa719d985c43a221b8261ee8022cfb968524ac2caee615532cf5d7"
+    },
+    {
+      "path": "results/paper9/myeloid_subtype_stage_tests_literature_v3.csv",
+      "bytes": 4717,
+      "sha256": "7ba99d177387311805061257ac38c00e8834d7c26a9745467eb5d08b3bbc3d27"
+    },
+    {
+      "path": "results/paper9/roe_literature_v3_GSE181919_Normal_OLK_OSCC.csv",
+      "bytes": 541,
+      "sha256": "464f02e517c82f66deaaa7ec8128a2ac911cf1bf58491a562c31ecb61275266e"
+    },
+    {
+      "path": "results/paper9/roe_literature_v3_GSE310797_Early_Late.csv",
+      "bytes": 455,
+      "sha256": "a62726d07b8123975f09627328369a9030a160d76121b249c1f3bd05ca420d8d"
+    },
+    {
+      "path": "results/paper9/tam_caf_candidate_niche_sample_scores_literature_v3.csv",
+      "bytes": 12822,
+      "sha256": "d30a71066075cea3eb77add8778d5809b74766a8852e1142641e2c16db357487"
+    },
+    {
+      "path": "results/paper9/tam_caf_candidate_niche_tests_literature_v3.csv",
+      "bytes": 672,
+      "sha256": "388fe047972bdc1feb39a2b3992058c5bedf4dc72087cc1c031fd91d6893e787"
+    },
+    {
+      "path": "results/paper9/tam_caf_subclustering_decision_literature_v3.json",
+      "bytes": 1143,
+      "sha256": "59a5b55d800169c37fbe7240351c056e97d9eb765ac0128c287350f44890ea0b"
+    },
+    {
+      "path": "results/paper9/tam_caf_subtype_stage_tests_literature_v3.csv",
+      "bytes": 9659,
+      "sha256": "344acbccde4d66d241cda4c21804ec4533c9409f26cc4a8a8492e4f4f3a732ed"
+    },
+    {
+      "path": "results/paper9/gene_sets/Enrichr.GO_Biological_Process_2023.gmt",
+      "bytes": 1412730,
+      "sha256": "5dd3632b40d7096313befdc5cae9af73ae1e4e6c1555d940413f3bd39ef512e4"
+    },
+    {
+      "path": "data/reference_annotation/GSE164241_submission_update.xlsx",
+      "bytes": 72318,
+      "sha256": "2aca94f1a45e1cd2a69c5916038d513cbc61ead65747dba7b5f0e16a183396be"
+    },
+    {
+      "path": "data/reference_annotation/GSE164241_Table_S4_cluster_markers.xlsx",
+      "bytes": 78400,
+      "sha256": "8b5f523a09d578760142d165fcc9b6e55f09c9e9639378cd39780f7f9ddd72b4"
+    },
+    {
+      "path": "data/reference_annotation/GSE164241_Table_S5_immune_markers.xlsx",
+      "bytes": 12433,
+      "sha256": "b33a78bf687d5c54eb63b1d6631a4485469786519e403610aae30a39677559e4"
+    },
+    {
+      "path": "data/reference_annotation/gencode_v50/gencode.v50.annotation.gtf.gz",
+      "bytes": 124527720,
+      "sha256": "83fba3e9b03f0b8c958f3595c6c350adc55f468abf8b0e47b6d5284cfe13a453"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1B_marker_matrix.pdf",
+      "bytes": 82507,
+      "sha256": "9a06bc36affe08067c15cada27fd1b93ff9b8cd39778a8b92f258aab3a5e730a"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1E_composition_enrichment.pdf",
+      "bytes": 49129,
+      "sha256": "8a44d3ffac71dc5c345c4dee66808fc8ad2ea6d1f3dfcd3e0f6ed5643c64c116"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1F_patient_composition.pdf",
+      "bytes": 41701,
+      "sha256": "a6b9a96f845120f687a120f3eb0878c4162aa9e44ae0cb6d5bf439ed4dff496d"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig1H_GO_comparison.pdf",
+      "bytes": 40814,
+      "sha256": "f60896215444135c9b11e3dd94422acd964a5fa2144fd98ebfd9ec293c4e4a15"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig2C_MISTy.pdf",
+      "bytes": 45740,
+      "sha256": "b936c555b20f098bc828e3f5ef6c99998296d62f0972ee3bbd9e931f26b0019e"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig2I_MISTy.pdf",
+      "bytes": 43841,
+      "sha256": "036992bd647c74541e96ea7595546be601012f2ebee2fb391e61d3ac51eb8e71"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig3F_activity.pdf",
+      "bytes": 52546,
+      "sha256": "5740ca7e37c787a86f59a1e9c5a0e684d53d6a3317c66998fd587d4ed222c363"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig3H_mean_SR.pdf",
+      "bytes": 34141,
+      "sha256": "f1d4b24e36f6197c07cbfb5bab02c1afbb8b682de591ce26fbd484a239d8e4d1"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig3I_SR_distribution.pdf",
+      "bytes": 33961,
+      "sha256": "e2c9f8f5ba8e9a9762a8fcb6b1a5c337b8260651d1656ee865fb4386e9ac695b"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig3J_C1_GO.pdf",
+      "bytes": 40289,
+      "sha256": "119ee44a2a53a8e02f9810ddb5e1fb1f021c7be92c17f2106c103da455b653a6"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4A_soft_power.pdf",
+      "bytes": 28881,
+      "sha256": "97fcb1a4e3854c958959032a1320f493026c688d5927ea1d146059a745e9e3fa"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4B_module_maps.pdf",
+      "bytes": 491016,
+      "sha256": "75ae3d0b9262c42b14f59d2732561991e4970bd4426a2ab1d5dff932c5c0b5a7"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4C_network.pdf",
+      "bytes": 235402,
+      "sha256": "e9dbfde1b0c1b48258624dfa5b6cf071d79435ba53cea751ccf669152bed25a6"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4D_module_activity.pdf",
+      "bytes": 52455,
+      "sha256": "165829996612eb27a9ddab48a1464c91efe9f27125c0ad79712971bb3622db40"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4E_hub_networks.pdf",
+      "bytes": 64578,
+      "sha256": "4cd5c1f231844335b5d22c3cd2f1bcc4015f4642f1fcfd7a6fbab1b06c9841ac"
+    },
+    {
+      "path": "figures/paper9/visual_revision_20260906/panels/Fig4F_GO.pdf",
+      "bytes": 50143,
+      "sha256": "144984e9ea3bb85dcdd913f6bd5f098ffd0e59417cb24adebd90d48a8d20e583"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2A_cell2location_early_OSCC.pdf",
+      "bytes": 291425,
+      "sha256": "0c274269739381f5205f95c0bd56c019eedf84919e6dcd84e9f66b9adf97b3d0"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2B_markers_early_OSCC.pdf",
+      "bytes": 454305,
+      "sha256": "b5a8fefc781f3b172e412ad67a308387d5afcc89dad1c6d8f67d6cebc48b0508"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2C_MISTy_early_OSCC.pdf",
+      "bytes": 29986,
+      "sha256": "a013c9b7993b60238cfa25f37151337a0e74428d68819f8886e272eed651ffe3"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2D_cell2location_abundance_early_OSCC.pdf",
+      "bytes": 754763,
+      "sha256": "d14428c68e552b7d67d8763729b0899529468bd2da1a35bbc73bd4700731deaf"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2E_MISTy_intra_network_early_OSCC.pdf",
+      "bytes": 26989,
+      "sha256": "c2611b93384dbe92107ea5db9ab9e31412c523d6e77c3fa557ccdb3cbb938d2a"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2F_spatial_niches_early_OSCC.pdf",
+      "bytes": 233136,
+      "sha256": "c6395873220ac85e860553a107e1a66a9ee8fa718daa5f4612602a700c405829"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2G_cell2location_advanced_OSCC.pdf",
+      "bytes": 277002,
+      "sha256": "8162bcf4e053ddb55ab9407ef891734767d52ce8feafaf70b0c8607b3f94f0ea"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2H_markers_advanced_OSCC.pdf",
+      "bytes": 684397,
+      "sha256": "5f29d67e4f6c76cafc1385b6c29e475a6192bc07308afff427c2f301ad3a5f69"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2I_MISTy_advanced_OSCC.pdf",
+      "bytes": 27903,
+      "sha256": "2ac66024a17ce822815a6ed3e668be7e6c1564009326f0d36dd01c78da83f8a7"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2J_cell2location_abundance_advanced_OSCC.pdf",
+      "bytes": 624844,
+      "sha256": "f2c682df76083c8aa68b3566f8b6ed547f17307b93ca8c554a710945b1ad83ea"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2K_MISTy_intra_network_advanced_OSCC.pdf",
+      "bytes": 23218,
+      "sha256": "a0b91a1b89acccced2f28635351a8fc8a1295437ecb0fae2888d084525e493ee"
+    },
+    {
+      "path": "figures/paper9/figure2/Fig2L_spatial_niches_advanced_OSCC.pdf",
+      "bytes": 240971,
+      "sha256": "d047c64d54aa97d85516181b564d87088309cc094845a55ba56eb6f5f12d421d"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3A_epithelial_clusters_reference_style.pdf",
+      "bytes": 433513,
+      "sha256": "aeb4b651b456428baf96bfba5fc0d77469f2bf5be6c7088346a3d83c0b84821c"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3B_epithelial_infercnv_reference_style.pdf",
+      "bytes": 1133299,
+      "sha256": "ae0f451c33544f0606a25f26adcbd2fb9c82b7bc5cf3fa916fb6ff269b3a9dbf"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3C_epithelial_cnv_umap_reference_style.pdf",
+      "bytes": 921770,
+      "sha256": "b64f5f1c9f680e1a35f888d0294986665973a0a2003277f71cfc61bb52e55f71"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3D_epithelial_composition_markers_reference_style.pdf",
+      "bytes": 106091,
+      "sha256": "299dd7ba4783295a76ec088086dc63eb1f047d3904dafb6dff5fc0afff7eaa0a"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3E_epithelial_pathway_dotplot_reference_style.pdf",
+      "bytes": 100611,
+      "sha256": "6e4acabd9d982db69286a604fe15bc3785b4edb5b29c0936eefc241096a9fffd"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3F_epithelial_pathway_activity_reference_style.pdf",
+      "bytes": 84764,
+      "sha256": "05a8c81c28ef9f4495b5a788da8212a4c0d6a1fc36b121f985295f4bed6be5f8"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3G_epithelial_LandSCENT_trajectory_reference_style.pdf",
+      "bytes": 744102,
+      "sha256": "bb42f9c2dc17faf10dba5dd7bfa04e801ea00da75ec751c82bd55db70163295b"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3H_epithelial_mean_SR_reference_style.pdf",
+      "bytes": 32515,
+      "sha256": "5535ebd4a25859cae54578e3ca885b096b8c6bc49574b28e21131a0626b87797"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3I_epithelial_SR_distribution_reference_style.pdf",
+      "bytes": 26154,
+      "sha256": "5b0b3f3004a089c760f4a57b539953812d626da3ef50c6e20dc5274f0dbf7188"
+    },
+    {
+      "path": "figures/paper9/figure3_epithelial/Fig3J_epithelial_high_SR_cluster_GO_reference_style.pdf",
+      "bytes": 45680,
+      "sha256": "cf82687d52805feb83830039d2448b3d5f2d159d51b666f4ef2bb963189ae985"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4A_hdWGCNA_reference_style.pdf",
+      "bytes": 32379,
+      "sha256": "ed13c7030e3bcf8b386a88ef29e5dcf9eae7e98dea5fe7f58159f3f7f9508d3a"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4B_hdWGCNA_reference_style.pdf",
+      "bytes": 389609,
+      "sha256": "0f10dfdf8de2eb01c113d627a7406d40f38e49fba966f1a04d15b8d538e560dd"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4C_hdWGCNA_reference_style.pdf",
+      "bytes": 715169,
+      "sha256": "d297ac6f326407692232b7943d582d974524a0929bf8579c8cc5ee05c8a02418"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4D_hdWGCNA_reference_style.pdf",
+      "bytes": 39782,
+      "sha256": "4920f3ac3354466d3d5f0142de2c8c4ee3d00f327842ff79d7e1bd102e76fbce"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4E_hdWGCNA_reference_style.pdf",
+      "bytes": 124167,
+      "sha256": "6ca190d191ee11974a449165538a8c26e204a91b19ea19a058f22571424135fe"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Fig4F_hdWGCNA_reference_style.pdf",
+      "bytes": 52281,
+      "sha256": "ffe63fa57bf4ec5c70cb5dfdddea74a3a0c63b23c790f43c3843d2e5c3501d33"
+    },
+    {
+      "path": "figures/paper9/figure4_epithelial_hdwgcna/Figure4_hdwgcna_reference_layout.pdf",
+      "bytes": 1216924,
+      "sha256": "9c0a29850b88f23dc6438e05dda5a3645b51024e30a0e185d397e72531fa39f6"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5A.pdf",
+      "bytes": 1140840,
+      "sha256": "e061da9de3fd098856825ecfa389ddc921423c737a77a468ea137c93833e168f"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5B.pdf",
+      "bytes": 58567,
+      "sha256": "306ca6a4e3407245f2fe9177dadb832453415d31bd866e0ab6cbefa8a39d45b1"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5C.pdf",
+      "bytes": 1951416,
+      "sha256": "575ebf0da6b4981f41081535bf6efb2c041a623e8e1ea631e232d3ae2c4f86ad"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5D.pdf",
+      "bytes": 39200,
+      "sha256": "21236813392b959110980c9d627b18f31bf85c3720f03ffd286b9eb7a0b7c010"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5E.pdf",
+      "bytes": 449512,
+      "sha256": "81ec261f8b3aa1478606bddd42df876f01ef6073ff056d2f56c9b2c7a97be429"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Fig5F.pdf",
+      "bytes": 41339,
+      "sha256": "d8ed74d62cdb2bb10101e23c14055f12a7084c5465ef0180ec887af2d76bdfb8"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Figure5_redesigned.pdf",
+      "bytes": 3484280,
+      "sha256": "47cfebc168f4df348b79686223736adc73d41a3e2075035f61e21cde9fc6cb7d"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Supplementary_embedding_patient_audit.pdf",
+      "bytes": 106314,
+      "sha256": "8ed77bd5a0832de7b4414a49096f383d3e523d9a78d930c985bc8a2de5ac40ed"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Supplementary_Figure5_statistics.pdf",
+      "bytes": 225305,
+      "sha256": "4cd115b68d9ae020d476e2c3a8348112d7ecd59b9e8a4aadccb0b1f71bb69af6"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/visual_redesign/viridis/Supplementary_statistical_tables.pdf",
+      "bytes": 52599,
+      "sha256": "edec72d071cb5a855849824e0fc585ec0a2a106b79060f83fef9c0d2992b3f62"
+    },
+    {
+      "path": "figures/paper9/Fig1B_marker_TME_feature_maps.pdf",
+      "bytes": 1372553,
+      "sha256": "7b898a5e9f1d8c45e84dcb601db23f777824ad1cc70f1612f5dc7233e281b531"
+    },
+    {
+      "path": "figures/paper9/Fig1C_lineage_marker_heatmap.pdf",
+      "bytes": 66976,
+      "sha256": "ca532e72b70f428f4584b54a5427cf7c0b239c9a4238924bafa479516d81f9e3"
+    },
+    {
+      "path": "figures/paper9/Fig1DEF_TME_dynamics.pdf",
+      "bytes": 68454,
+      "sha256": "aedd6048eb16d999772b31030ac6ce07924cc60f41d1fd3a3263847e67b15d27"
+    },
+    {
+      "path": "figures/paper9/Fig1G_epithelial_stage_transitions.pdf",
+      "bytes": 888069,
+      "sha256": "bd35b6b6de83082bad2dd250502bedd086aafb705afc15f77abb764f8fde46a0"
+    },
+    {
+      "path": "figures/paper9/Fig1H_epithelial_GO_radar.pdf",
+      "bytes": 42555,
+      "sha256": "ea14892e02c22f0315d31e623702ee09d9010f4e61c99612da66c45463645884"
+    },
+    {
+      "path": "figures/paper9/Normal_OLK_OSCC_celltypes_reference_style.pdf",
+      "bytes": 770997,
+      "sha256": "2b5fa150ecdf1fedd9316db9be579be3b88becfd434055dd3052284ea717ee3c"
+    },
+    {
+      "path": "results/paper9_marker_stats.csv",
+      "bytes": 86640,
+      "sha256": "bcd11a29029cd4942cb8d01427db3f6a7ec995651dd43e6d2a5b6243fc6b9b34"
+    },
+    {
+      "path": "results/paper9/figure5_program_replication/analysis_plan.md",
+      "bytes": 6864,
+      "sha256": "acabb0e0bc5102319e7cc974fe8f74c97bdf227ee5a3f2ce1bb7bf40ecbae5f2"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5A_program_replication.pdf",
+      "bytes": 24639,
+      "sha256": "a0088b04fec24b25653f6f5b17ec144d3a5ae417a511c7637af9d0fa03763309"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5B_program_replication.pdf",
+      "bytes": 33268,
+      "sha256": "48686a5aea1ed6318514c76ebc56aa066557a97e73a21867c410a2d134b74ba8"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5C_program_replication.pdf",
+      "bytes": 21536,
+      "sha256": "fb70961b7b54ebcd22f74189fa9cb1a4662daf3e749891069e7945cbd93439d2"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5D_program_replication.pdf",
+      "bytes": 22262,
+      "sha256": "b0d95839d7768914859a6511113977fa94096fb9dae85196baa08abd93bdc111"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5E_program_replication.pdf",
+      "bytes": 363254,
+      "sha256": "3f25ab8852c8115e9891c20cb6593ff9556ab72b0d700df25a6e2c363ec4b10e"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Fig5F_program_replication.pdf",
+      "bytes": 22004,
+      "sha256": "42ad56c0f487700be1480a714d1c41a4e09b3c67649c8ac606455fb674767a66"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Figure5_program_replication.pdf",
+      "bytes": 287824,
+      "sha256": "c0b11e025a5f71c75281430b35c9e090ad67180fa9683bb7e4b4d95e5f667cf8"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Figure5_replication_details.pdf",
+      "bytes": 52766,
+      "sha256": "844ce0ef5b53e7e129b641f983b122723653c99f5d0a4232eb08940bd2450d9f"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Figure5_spatial_all_sections.pdf",
+      "bytes": 2760465,
+      "sha256": "a682d8e79803cc05fd4e652b0875ebd17b1cd641ebf51ce5db8ecbd7db01c3ab"
+    },
+    {
+      "path": "figures/paper9/figure5_program_replication/Figure5_spatial_effect_details.pdf",
+      "bytes": 24261,
+      "sha256": "f100f7f26d3ab99d33f4bee3da9e735018d6db858c6ed59e37f37f32e16d9be7"
+    },
+    {
+      "path": ".cache/landscent/net17Jan16_sparse.npz",
+      "bytes": 2578652,
+      "sha256": "e02ed93713a9aec55a9cc6931a5eca97ea385110a8ce0b3f40327b0d736757fa"
+    },
+    {
+      "path": ".cache/landscent/net17Jan16_genes.txt.gz",
+      "bytes": 30174,
+      "sha256": "7c63b6a1e6e8f9991be01072adf1d638e01a28081dfa652900eb6533feadb642"
+    },
+    {
+      "path": "data/reference_annotation/ncbi_gene_info/Homo_sapiens.gene_info.gz",
+      "bytes": 5180134,
+      "sha256": "505ffe79e2e41911689f3626ef492c64b34b283c513b7c50341bec8831a00532"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "seed": 20260916,
+  "original_result_hashes": {
+    "signatures.json": "ecfdb976f079c02a45e412af9fafed2385dd23fa7327cfa5b689624b54b806da",
+    "replication_cell_scores.csv.gz": "9c05a6dfc235abe1900da677469b86c587b427bacd8279254f40800e77ce6466",
+    "replication_patient_effects.csv": "f58bb09e3b1d3c2b2949c5dfdbfa7d2262b689edf521512b15e3866ebb25a7b5",
+    "replication_summary.csv": "7139c83203e424821b38e3a7bc0a11c2341fef482aaef89b4ff34005c7362e51",
+    "spatial_spot_scores.csv.gz": "7d6c371bfa2e36c45f5e0301e636838328d96b0a0892c2e82a8a6274f498662a",
+    "spatial_summary.csv": "49fbb043dde040d695ec07e5af2da66eb4ea19bdd5da47bbac5a6d5ec9b09728"
+  },
+  "n_cells": 24000,
+  "n_patients": 16,
+  "embedding": "GSE310797 epithelial-only; patient-batched HVG 3000, technical genes excluded; scaled max10, PCA30, neighbors30, UMAP min_dist0.4; no integration/batch correction; fixed Louvain resolution0.6. No tuning to program maps.",
+  "cluster_interpretation": "E0... are descriptive graph groups, not C1 labels or validated biological states.",
+  "B": "All 29 frozen checking genes; true patient count-summed pseudobulk log1p CPM; row z across 16 patients, display clipped at +/-2. Patients ordered by continuous mean C1 score. Not patient-wise correlation.",
+  "D": "Patient mean log-normalized program activity; column z across patients. Descriptive between-patient activity cannot establish within-patient coupling; see statistics supplement.",
+  "F": "Mean section-standardized program residual in each existing niche after spline adjustment of epithelial abundance plus QC, using all spots within section. Descriptive spatial pattern; NOT the previously estimated pairwise niche coefficient. Missing niches gray; small nonzero niches retained and counts reported. No inferential P values.",
+  "scores": "All C1/M1/M5 scores and gene sets unchanged. M1/M5 exclude frozen C1 marker overlap.",
+  "spatial": "S6 and S2 unchanged. Same program color limits across sections; same coordinates/crop for all maps within section.",
+  "source_code_sha256": "d08b715bf93b2e77fb35a22e8fca976f7b1c5778625126ecc8f8f21364e57811"
+}

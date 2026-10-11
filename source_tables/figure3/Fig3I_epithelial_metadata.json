@@ -1,0 +1,25 @@
+{
+  "figure3g_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3G_epithelial_cells_SR_diffusion.csv.gz",
+  "n_cells": 5609,
+  "clusters": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "highest_mean_SR_cluster": "C1",
+  "highest_mean_SR": 0.9199002531525761,
+  "highest_median_SR_cluster": "C1",
+  "highest_median_SR": 0.9211852995453746,
+  "cell_level_kruskal_wallis_H": 2807.207783936352,
+  "cell_level_kruskal_wallis_p": 0.0,
+  "boxplot": "Tukey 1.5 IQR whiskers; outliers hidden to match reference layout",
+  "visual_reference": "s41746-025-02297-4 Figure 3I",
+  "user_decision": "C5 and C8 retained without exclusion",
+  "interpretation_boundary": "The cell-level Kruskal-Wallis test is descriptive because cells are nested within patients. SR is strongly associated with sequencing complexity. C5 is mixed and C8 is immune-like; the boxes do not establish lineage or intrinsic stemness."
+}

@@ -1,0 +1,55 @@
+{
+  "input": "data\\processed\\GSE208253\\GSE208253_cleaned_deconvolved.h5ad",
+  "group": "Advanced OSCC (Stage IVA)",
+  "representative_sample": "S2",
+  "n_spots": 15842,
+  "samples": [
+    "S1",
+    "S10",
+    "S12",
+    "S2",
+    "S4",
+    "S7",
+    "S8",
+    "S9"
+  ],
+  "patients": [
+    "P1",
+    "P10",
+    "P2",
+    "P4",
+    "P7",
+    "P8"
+  ],
+  "projection_model": "fixed Figure 2F early KMeans K=3 model",
+  "early_model_reproduction_fraction": 1.0,
+  "input_view": "cell2location_proportions",
+  "local_profile": "center spot plus five nearest spots, arithmetic mean",
+  "transform": "CLR followed by within-patient median centering",
+  "training": "up to 800 early spots per patient with equal patient weight",
+  "seed": 181919,
+  "niche_mapping": {
+    "N1": {
+      "cluster": 0,
+      "name": "Fibrovascular",
+      "color": "#65BBA0"
+    },
+    "N3": {
+      "cluster": 1,
+      "name": "Epithelial-rich",
+      "color": "#CF535E"
+    },
+    "N2": {
+      "cluster": 2,
+      "name": "Immune-mixed",
+      "color": "#F7B52B"
+    }
+  },
+  "ood_definition": "distance to assigned early centroid exceeds the cluster-specific 99th percentile among early spots",
+  "ood_fraction": 0.03459159197071077,
+  "ood_fraction_representative": 0.04254044337926902,
+  "heatmap": "patient-level log2 observed/expected among in-distribution projected spots; group median across six patients",
+  "dot_definition": "same enrichment direction in >=5/6 patients and absolute median log2(Ro/e) >= 0.15",
+  "stage_test": "two-sided exact Mann-Whitney U on patient-level nearest-niche fractions; BH across three niches",
+  "interpretation": "Projection tests preservation or redistribution of early composition-defined niches; it does not define new advanced-specific functional niches"
+}

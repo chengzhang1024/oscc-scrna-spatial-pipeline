@@ -1,0 +1,22 @@
+{
+  "discovery_leave_one_patient_out.csv": "2cb72208cbe68feefe8936ed20c43e47378a61eca7db7f569d1d1355b52d0e1e",
+  "discovery_patient_cluster_scores.csv": "9ffb0da91e37f52b88617666b40e3a2ae6954727c7811b9399f63f65a69a08fd",
+  "discovery_selected_markers.csv": "3ad06f8ec4e1821475452e46a9fadc35a23b8243063b0a79953d8f555ff66d65",
+  "frozen_manifest.json": "fd872f5b47a4f24fa16089281bf80a65747fc21ebef8daee6aa2c92bd3985f76",
+  "frozen_signature_genes.csv": "04d8abf92de46a685c04346a3e4a3ff2fa6db4d619d30b9dfd294dde26dde271",
+  "matched_null_signatures.json": "e51a733dde4a9f85de3b975fb8a4c47835c0b6d6eed8d27eb40b425775d20705",
+  "replication_cell_scores.csv.gz": "4f164a9c67de90af9b064fc59660c24a85c1e5f4739e395f4b0782275e23938d",
+  "replication_check_gene_correlations.csv": "422ce4e2023193a033566270e588fc1bd65ae2979b86ac5e3a97c9a9d4e38553",
+  "replication_matched_null_correlations.csv": "a34f77c6bb2ec3bbcaf0b3adc32c8327a110c00914818ecf1dba92d64da8a8e7",
+  "replication_min100_sensitivity.csv": "690f62d477b70da7af7158fedfdecd0e3e33523a405378fcf75a170687b99692",
+  "replication_patient_effects.csv": "f58bb09e3b1d3c2b2949c5dfdbfa7d2262b689edf521512b15e3866ebb25a7b5",
+  "replication_patient_scores.csv": "abbee49d4602050f64c24f888f07882734d606b280c2cd2f499faca9182f564c",
+  "replication_summary.csv": "7139c83203e424821b38e3a7bc0a11c2341fef482aaef89b4ff34005c7362e51",
+  "signatures.json": "ecfdb976f079c02a45e412af9fafed2385dd23fa7327cfa5b689624b54b806da",
+  "spatial_gene_coverage.csv": "b183e4d2f170acaa3574900c147271e403db2753d5a1fda97a15699bfed76deb",
+  "spatial_patient_effects.csv": "ef858ad80b024ba6ee8f64b4c89d0c892cb4944afe879ee5a6663dc1e18b2cba",
+  "spatial_section_effects.csv": "12e2fb197ecfe2b58386460ba41192d016e30b7d0c9b3bee98010affa083ba85",
+  "spatial_spot_scores.csv.gz": "f35b22de7e5cb77ae9374833937b52543bc973e7f89457be22c3784fd16194b6",
+  "spatial_summary.csv": "49fbb043dde040d695ec07e5af2da66eb4ea19bdd5da47bbac5a6d5ec9b09728",
+  "validation_report.json": "dfc9c7881ef9796160c36b9ef7542f912c02ad6aad54e91df1b1956bb1bba392"
+}

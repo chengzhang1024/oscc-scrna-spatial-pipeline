@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "checks": [
+    "disjoint gene sets",
+    "complete patient/spot coverage",
+    ">=80% gene availability",
+    "partial correlation independent precision-matrix check",
+    "patient aggregation",
+    "common support",
+    "frozen hashes"
+  ],
+  "spatial_failed_section_contrasts": 111,
+  "discovery_eligible_patients": [
+    "P15",
+    "P21",
+    "P31",
+    "P51",
+    "P6"
+  ],
+  "limitations": [
+    "Only five discovery patients have >=10 cells in both comparison groups",
+    "Previously inspected external cohort; exploratory program support",
+    "Mixed-spot localization, not epithelial-specific or causal expression",
+    "No untouched cohort validation, malignancy validation, or network preservation claim"
+  ],
+  "software": {
+    "anndata": "0.13.2",
+    "numpy": "2.1.3",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.0",
+    "patsy": "1.0.1"
+  },
+  "python": "3.13.5",
+  "script_sha256": "3ef30dfb162216ae7a88a258425949802854c074dfb0f0c0e79094180571bcc7",
+  "figures": [
+    {
+      "file": "Fig5A_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 10.0,
+      "outside_page": []
+    },
+    {
+      "file": "Fig5B_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    },
+    {
+      "file": "Fig5C_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 8.0,
+      "outside_page": []
+    },
+    {
+      "file": "Fig5D_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    },
+    {
+      "file": "Fig5E_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 8.0,
+      "outside_page": []
+    },
+    {
+      "file": "Fig5F_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    },
+    {
+      "file": "Figure5_program_replication.pdf",
+      "pages": 1,
+      "min_font_pt": 8.0,
+      "outside_page": []
+    },
+    {
+      "file": "Figure5_replication_details.pdf",
+      "pages": 3,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    },
+    {
+      "file": "Figure5_spatial_all_sections.pdf",
+      "pages": 12,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    },
+    {
+      "file": "Figure5_spatial_effect_details.pdf",
+      "pages": 1,
+      "min_font_pt": 9.0,
+      "outside_page": []
+    }
+  ],
+  "plot_script_sha256": "51092e543a2159f2a9b833cbd0598672637417acab2f2e48ba7a609c40b85f4e",
+  "print_limitation": "Main figure is a large review plate; individual panel PDFs supplied. Journal-width reduction may require splitting panels."
+}

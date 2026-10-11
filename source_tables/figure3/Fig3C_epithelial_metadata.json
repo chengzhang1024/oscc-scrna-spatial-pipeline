@@ -1,0 +1,17 @@
+{
+  "figure3a_cell_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3A_epithelial_cells_and_umap.csv.gz",
+  "figure3b_score_table": "D:\\生信\\results\\paper9\\figure3_epithelial\\Fig3B_epithelial_cnv_scores.csv.gz",
+  "n_cells": 5609,
+  "cnv_group_definition": "HCNV if cnv_score > epithelial median; otherwise LCNV",
+  "cnv_score_median_threshold": 0.0414196588099002,
+  "hcnv_n": 2804,
+  "lcnv_n": 2805,
+  "continuous_color_limits": [
+    0.0,
+    0.06792413592338556
+  ],
+  "continuous_color_upper_rule": "epithelial cnv_score 95th percentile",
+  "random_seed": 20260831,
+  "visual_reference": "s41746-025-02297-4 Figure 3C",
+  "interpretation_boundary": "HCNV and LCNV are relative expression-derived CNV-score groups. They must not be described as DNA-validated aneuploid and euploid cells."
+}

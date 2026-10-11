@@ -1,0 +1,43 @@
+patient_id,niche_id,fraction,stage_group,fraction_definition
+P1,N1,0.2587890625,Advanced Stage IVA,in-distribution display fraction
+P1,N2,0.201171875,Advanced Stage IVA,in-distribution display fraction
+P1,N3,0.353515625,Advanced Stage IVA,in-distribution display fraction
+P10,N1,0.01731301939058172,Advanced Stage IVA,in-distribution display fraction
+P10,N2,0.3185595567867036,Advanced Stage IVA,in-distribution display fraction
+P10,N3,0.6461218836565097,Advanced Stage IVA,in-distribution display fraction
+P2,N1,0.15278609946075494,Advanced Stage IVA,in-distribution display fraction
+P2,N2,0.28579988016776514,Advanced Stage IVA,in-distribution display fraction
+P2,N3,0.5188735769922109,Advanced Stage IVA,in-distribution display fraction
+P4,N1,0.12017640573318633,Advanced Stage IVA,in-distribution display fraction
+P4,N2,0.282800441014333,Advanced Stage IVA,in-distribution display fraction
+P4,N3,0.5319735391400221,Advanced Stage IVA,in-distribution display fraction
+P7,N1,0.020202020202020204,Advanced Stage IVA,in-distribution display fraction
+P7,N2,0.2681359044995409,Advanced Stage IVA,in-distribution display fraction
+P7,N3,0.7052341597796143,Advanced Stage IVA,in-distribution display fraction
+P8,N1,0.0915989159891599,Advanced Stage IVA,in-distribution display fraction
+P8,N2,0.3112917795844625,Advanced Stage IVA,in-distribution display fraction
+P8,N3,0.576513098464318,Advanced Stage IVA,in-distribution display fraction
+P1,N1,0.2607421875,Advanced Stage IVA,nearest early niche; includes OOD
+P1,N2,0.208984375,Advanced Stage IVA,nearest early niche; includes OOD
+P1,N3,0.5302734375,Advanced Stage IVA,nearest early niche; includes OOD
+P10,N1,0.01731301939058172,Advanced Stage IVA,nearest early niche; includes OOD
+P10,N2,0.3185595567867036,Advanced Stage IVA,nearest early niche; includes OOD
+P10,N3,0.6641274238227147,Advanced Stage IVA,nearest early niche; includes OOD
+P2,N1,0.15757938885560216,Advanced Stage IVA,nearest early niche; includes OOD
+P2,N2,0.28579988016776514,Advanced Stage IVA,nearest early niche; includes OOD
+P2,N3,0.5566207309766327,Advanced Stage IVA,nearest early niche; includes OOD
+P4,N1,0.12127894156560089,Advanced Stage IVA,nearest early niche; includes OOD
+P4,N2,0.282800441014333,Advanced Stage IVA,nearest early niche; includes OOD
+P4,N3,0.5959206174200662,Advanced Stage IVA,nearest early niche; includes OOD
+P7,N1,0.020202020202020204,Advanced Stage IVA,nearest early niche; includes OOD
+P7,N2,0.2681359044995409,Advanced Stage IVA,nearest early niche; includes OOD
+P7,N3,0.711662075298439,Advanced Stage IVA,nearest early niche; includes OOD
+P8,N1,0.0915989159891599,Advanced Stage IVA,nearest early niche; includes OOD
+P8,N2,0.3121951219512195,Advanced Stage IVA,nearest early niche; includes OOD
+P8,N3,0.5962059620596206,Advanced Stage IVA,nearest early niche; includes OOD
+P1,OOD,0.1865234375,Advanced Stage IVA,out-of-distribution fraction
+P10,OOD,0.018005540166204988,Advanced Stage IVA,out-of-distribution fraction
+P2,OOD,0.04254044337926902,Advanced Stage IVA,out-of-distribution fraction
+P4,OOD,0.06504961411245866,Advanced Stage IVA,out-of-distribution fraction
+P7,OOD,0.006427915518824609,Advanced Stage IVA,out-of-distribution fraction
+P8,OOD,0.020596205962059622,Advanced Stage IVA,out-of-distribution fraction

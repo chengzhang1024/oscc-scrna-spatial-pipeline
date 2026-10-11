@@ -1,0 +1,865 @@
+stage_group,importances,patient_id,predictor,sample_id,stage,target,view
+early,0.162121455567406,P9,Dendritic cells,S11,Stage II,B/Plasma cells,intra
+early,0.0465465736392972,P9,Endothelial cells,S11,Stage II,B/Plasma cells,intra
+early,0.2618025506336193,P9,Epithelial cells,S11,Stage II,B/Plasma cells,intra
+early,0.0437465174116071,P9,Fibroblasts,S11,Stage II,B/Plasma cells,intra
+early,0.0351816118257111,P9,Macrophages,S11,Stage II,B/Plasma cells,intra
+early,0.136815290486632,P9,Mast cells,S11,Stage II,B/Plasma cells,intra
+early,0.2155145044210935,P9,Myocytes,S11,Stage II,B/Plasma cells,intra
+early,0.0982714960146336,P9,NK/T cells,S11,Stage II,B/Plasma cells,intra
+early,0.2120445222275539,P9,B/Plasma cells,S11,Stage II,Dendritic cells,intra
+early,0.0544689432745872,P9,Endothelial cells,S11,Stage II,Dendritic cells,intra
+early,0.0953795591479892,P9,Epithelial cells,S11,Stage II,Dendritic cells,intra
+early,0.0643908066310753,P9,Fibroblasts,S11,Stage II,Dendritic cells,intra
+early,0.0651951644432785,P9,Macrophages,S11,Stage II,Dendritic cells,intra
+early,0.086329725695849,P9,Mast cells,S11,Stage II,Dendritic cells,intra
+early,0.1357185513776824,P9,Myocytes,S11,Stage II,Dendritic cells,intra
+early,0.2864727272019841,P9,NK/T cells,S11,Stage II,Dendritic cells,intra
+early,0.1182991638501794,P9,B/Plasma cells,S11,Stage II,Endothelial cells,intra
+early,0.0595533508391927,P9,Dendritic cells,S11,Stage II,Endothelial cells,intra
+early,0.1512754860404405,P9,Epithelial cells,S11,Stage II,Endothelial cells,intra
+early,0.293207685175282,P9,Fibroblasts,S11,Stage II,Endothelial cells,intra
+early,0.124731623300958,P9,Macrophages,S11,Stage II,Endothelial cells,intra
+early,0.0776841369713044,P9,Mast cells,S11,Stage II,Endothelial cells,intra
+early,0.0769550437545933,P9,Myocytes,S11,Stage II,Endothelial cells,intra
+early,0.0982935100680494,P9,NK/T cells,S11,Stage II,Endothelial cells,intra
+early,0.2325140793771393,P9,B/Plasma cells,S11,Stage II,Epithelial cells,intra
+early,0.0401596900266951,P9,Dendritic cells,S11,Stage II,Epithelial cells,intra
+early,0.0983275212789965,P9,Endothelial cells,S11,Stage II,Epithelial cells,intra
+early,0.2327489350406205,P9,Fibroblasts,S11,Stage II,Epithelial cells,intra
+early,0.0829723242501177,P9,Macrophages,S11,Stage II,Epithelial cells,intra
+early,0.043242345153888,P9,Mast cells,S11,Stage II,Epithelial cells,intra
+early,0.0967392280327455,P9,Myocytes,S11,Stage II,Epithelial cells,intra
+early,0.1732958768397969,P9,NK/T cells,S11,Stage II,Epithelial cells,intra
+early,0.0858684405991393,P9,B/Plasma cells,S11,Stage II,Fibroblasts,intra
+early,0.0458762155088118,P9,Dendritic cells,S11,Stage II,Fibroblasts,intra
+early,0.1930414747872324,P9,Endothelial cells,S11,Stage II,Fibroblasts,intra
+early,0.3166772100744591,P9,Epithelial cells,S11,Stage II,Fibroblasts,intra
+early,0.1231981509102656,P9,Macrophages,S11,Stage II,Fibroblasts,intra
+early,0.0356570965879167,P9,Mast cells,S11,Stage II,Fibroblasts,intra
+early,0.1302726207383679,P9,Myocytes,S11,Stage II,Fibroblasts,intra
+early,0.0694087907938069,P9,NK/T cells,S11,Stage II,Fibroblasts,intra
+early,0.0550712768601233,P9,B/Plasma cells,S11,Stage II,Macrophages,intra
+early,0.0708637498482445,P9,Dendritic cells,S11,Stage II,Macrophages,intra
+early,0.1100075719653358,P9,Endothelial cells,S11,Stage II,Macrophages,intra
+early,0.0946034335788164,P9,Epithelial cells,S11,Stage II,Macrophages,intra
+early,0.1818445148796019,P9,Fibroblasts,S11,Stage II,Macrophages,intra
+early,0.1400452272493548,P9,Mast cells,S11,Stage II,Macrophages,intra
+early,0.1646614848786033,P9,Myocytes,S11,Stage II,Macrophages,intra
+early,0.1829027407399197,P9,NK/T cells,S11,Stage II,Macrophages,intra
+early,0.2539547714364897,P9,B/Plasma cells,S11,Stage II,Mast cells,intra
+early,0.0946298595290809,P9,Dendritic cells,S11,Stage II,Mast cells,intra
+early,0.1009348069612937,P9,Endothelial cells,S11,Stage II,Mast cells,intra
+early,0.0927828646761703,P9,Epithelial cells,S11,Stage II,Mast cells,intra
+early,0.0551103585823187,P9,Fibroblasts,S11,Stage II,Mast cells,intra
+early,0.1830409024157379,P9,Macrophages,S11,Stage II,Mast cells,intra
+early,0.1127631357447995,P9,Myocytes,S11,Stage II,Mast cells,intra
+early,0.1067833006541087,P9,NK/T cells,S11,Stage II,Mast cells,intra
+early,0.2114536925641296,P9,B/Plasma cells,S11,Stage II,Myocytes,intra
+early,0.0665290176993123,P9,Dendritic cells,S11,Stage II,Myocytes,intra
+early,0.0509007716574688,P9,Endothelial cells,S11,Stage II,Myocytes,intra
+early,0.2414551676626277,P9,Epithelial cells,S11,Stage II,Myocytes,intra
+early,0.0980131224755687,P9,Fibroblasts,S11,Stage II,Myocytes,intra
+early,0.1763457809167585,P9,Macrophages,S11,Stage II,Myocytes,intra
+early,0.0413196857184103,P9,Mast cells,S11,Stage II,Myocytes,intra
+early,0.1139827613057238,P9,NK/T cells,S11,Stage II,Myocytes,intra
+early,0.1482169067216747,P9,B/Plasma cells,S11,Stage II,NK/T cells,intra
+early,0.1431866893628849,P9,Dendritic cells,S11,Stage II,NK/T cells,intra
+early,0.0540169886058672,P9,Endothelial cells,S11,Stage II,NK/T cells,intra
+early,0.2141984879673658,P9,Epithelial cells,S11,Stage II,NK/T cells,intra
+early,0.0507977590670753,P9,Fibroblasts,S11,Stage II,NK/T cells,intra
+early,0.2255177525876922,P9,Macrophages,S11,Stage II,NK/T cells,intra
+early,0.0593203989874953,P9,Mast cells,S11,Stage II,NK/T cells,intra
+early,0.1047450166999444,P9,Myocytes,S11,Stage II,NK/T cells,intra
+early,0.1561678596374631,P3,Dendritic cells,S3,Stage I,B/Plasma cells,intra
+early,0.0500291783737134,P3,Endothelial cells,S3,Stage I,B/Plasma cells,intra
+early,0.1508720993711442,P3,Epithelial cells,S3,Stage I,B/Plasma cells,intra
+early,0.1235146142126788,P3,Fibroblasts,S3,Stage I,B/Plasma cells,intra
+early,0.1402562224728599,P3,Macrophages,S3,Stage I,B/Plasma cells,intra
+early,0.0955733414037214,P3,Mast cells,S3,Stage I,B/Plasma cells,intra
+early,0.0828034687656985,P3,Myocytes,S3,Stage I,B/Plasma cells,intra
+early,0.2007832157627204,P3,NK/T cells,S3,Stage I,B/Plasma cells,intra
+early,0.0913270223410328,P3,B/Plasma cells,S3,Stage I,Dendritic cells,intra
+early,0.0946120012672215,P3,Endothelial cells,S3,Stage I,Dendritic cells,intra
+early,0.093311768157998,P3,Epithelial cells,S3,Stage I,Dendritic cells,intra
+early,0.1213479321505131,P3,Fibroblasts,S3,Stage I,Dendritic cells,intra
+early,0.043663771565252,P3,Macrophages,S3,Stage I,Dendritic cells,intra
+early,0.0556354843387349,P3,Mast cells,S3,Stage I,Dendritic cells,intra
+early,0.1524444030506326,P3,Myocytes,S3,Stage I,Dendritic cells,intra
+early,0.3476576171286147,P3,NK/T cells,S3,Stage I,Dendritic cells,intra
+early,0.0770875610943706,P3,B/Plasma cells,S3,Stage I,Endothelial cells,intra
+early,0.1217069280833386,P3,Dendritic cells,S3,Stage I,Endothelial cells,intra
+early,0.1167661499525286,P3,Epithelial cells,S3,Stage I,Endothelial cells,intra
+early,0.1828248284831455,P3,Fibroblasts,S3,Stage I,Endothelial cells,intra
+early,0.0811066461389409,P3,Macrophages,S3,Stage I,Endothelial cells,intra
+early,0.1347679598106232,P3,Mast cells,S3,Stage I,Endothelial cells,intra
+early,0.1036794550120388,P3,Myocytes,S3,Stage I,Endothelial cells,intra
+early,0.1820604714250134,P3,NK/T cells,S3,Stage I,Endothelial cells,intra
+early,0.0745481505431359,P3,B/Plasma cells,S3,Stage I,Epithelial cells,intra
+early,0.0790836727912228,P3,Dendritic cells,S3,Stage I,Epithelial cells,intra
+early,0.0445694916490582,P3,Endothelial cells,S3,Stage I,Epithelial cells,intra
+early,0.1925156623448409,P3,Fibroblasts,S3,Stage I,Epithelial cells,intra
+early,0.049043879954083,P3,Macrophages,S3,Stage I,Epithelial cells,intra
+early,0.2498702638866134,P3,Mast cells,S3,Stage I,Epithelial cells,intra
+early,0.1375380181728854,P3,Myocytes,S3,Stage I,Epithelial cells,intra
+early,0.1728308606581603,P3,NK/T cells,S3,Stage I,Epithelial cells,intra
+early,0.1244742435043835,P3,B/Plasma cells,S3,Stage I,Fibroblasts,intra
+early,0.2668737794633594,P3,Dendritic cells,S3,Stage I,Fibroblasts,intra
+early,0.0569479954556193,P3,Endothelial cells,S3,Stage I,Fibroblasts,intra
+early,0.1557372648856018,P3,Epithelial cells,S3,Stage I,Fibroblasts,intra
+early,0.0577694693686243,P3,Macrophages,S3,Stage I,Fibroblasts,intra
+early,0.1137413933513408,P3,Mast cells,S3,Stage I,Fibroblasts,intra
+early,0.1089912258266849,P3,Myocytes,S3,Stage I,Fibroblasts,intra
+early,0.1154646281443858,P3,NK/T cells,S3,Stage I,Fibroblasts,intra
+early,0.1775040295969955,P3,B/Plasma cells,S3,Stage I,Macrophages,intra
+early,0.0644934087640948,P3,Dendritic cells,S3,Stage I,Macrophages,intra
+early,0.0818793849388661,P3,Endothelial cells,S3,Stage I,Macrophages,intra
+early,0.1668390087222352,P3,Epithelial cells,S3,Stage I,Macrophages,intra
+early,0.1095164441600222,P3,Fibroblasts,S3,Stage I,Macrophages,intra
+early,0.0947801209307722,P3,Mast cells,S3,Stage I,Macrophages,intra
+early,0.194643189404657,P3,Myocytes,S3,Stage I,Macrophages,intra
+early,0.1103444134823568,P3,NK/T cells,S3,Stage I,Macrophages,intra
+early,0.0551726706687413,P3,B/Plasma cells,S3,Stage I,Mast cells,intra
+early,0.0635505260072093,P3,Dendritic cells,S3,Stage I,Mast cells,intra
+early,0.0516707272423648,P3,Endothelial cells,S3,Stage I,Mast cells,intra
+early,0.3932980080585759,P3,Epithelial cells,S3,Stage I,Mast cells,intra
+early,0.1259273849158654,P3,Fibroblasts,S3,Stage I,Mast cells,intra
+early,0.0624775680035472,P3,Macrophages,S3,Stage I,Mast cells,intra
+early,0.1671162449389546,P3,Myocytes,S3,Stage I,Mast cells,intra
+early,0.080786870164741,P3,NK/T cells,S3,Stage I,Mast cells,intra
+early,0.0556112137750758,P3,B/Plasma cells,S3,Stage I,Myocytes,intra
+early,0.1702547906030432,P3,Dendritic cells,S3,Stage I,Myocytes,intra
+early,0.064668962617558,P3,Endothelial cells,S3,Stage I,Myocytes,intra
+early,0.1456827058624993,P3,Epithelial cells,S3,Stage I,Myocytes,intra
+early,0.0992475788658274,P3,Fibroblasts,S3,Stage I,Myocytes,intra
+early,0.1114528302048613,P3,Macrophages,S3,Stage I,Myocytes,intra
+early,0.1567936934261261,P3,Mast cells,S3,Stage I,Myocytes,intra
+early,0.1962882246450086,P3,NK/T cells,S3,Stage I,Myocytes,intra
+early,0.0683122435126342,P3,B/Plasma cells,S3,Stage I,NK/T cells,intra
+early,0.2397515906190282,P3,Dendritic cells,S3,Stage I,NK/T cells,intra
+early,0.1147909160321774,P3,Endothelial cells,S3,Stage I,NK/T cells,intra
+early,0.1565364855705238,P3,Epithelial cells,S3,Stage I,NK/T cells,intra
+early,0.1579971774149554,P3,Fibroblasts,S3,Stage I,NK/T cells,intra
+early,0.0504875725504662,P3,Macrophages,S3,Stage I,NK/T cells,intra
+early,0.0443354822122663,P3,Mast cells,S3,Stage I,NK/T cells,intra
+early,0.1677885320879482,P3,Myocytes,S3,Stage I,NK/T cells,intra
+early,0.0919392136878752,P5,Dendritic cells,S5,Stage II,B/Plasma cells,intra
+early,0.101785560201935,P5,Endothelial cells,S5,Stage II,B/Plasma cells,intra
+early,0.2167333277063339,P5,Epithelial cells,S5,Stage II,B/Plasma cells,intra
+early,0.1115344409766633,P5,Fibroblasts,S5,Stage II,B/Plasma cells,intra
+early,0.058216459431469,P5,Macrophages,S5,Stage II,B/Plasma cells,intra
+early,0.138233816301939,P5,Mast cells,S5,Stage II,B/Plasma cells,intra
+early,0.1461594457959653,P5,Myocytes,S5,Stage II,B/Plasma cells,intra
+early,0.135397735897819,P5,NK/T cells,S5,Stage II,B/Plasma cells,intra
+early,0.1145745230332503,P5,B/Plasma cells,S5,Stage II,Dendritic cells,intra
+early,0.1253244681267451,P5,Endothelial cells,S5,Stage II,Dendritic cells,intra
+early,0.1467186502127727,P5,Epithelial cells,S5,Stage II,Dendritic cells,intra
+early,0.1563483960019327,P5,Fibroblasts,S5,Stage II,Dendritic cells,intra
+early,0.0272927164615889,P5,Macrophages,S5,Stage II,Dendritic cells,intra
+early,0.075168351770559,P5,Mast cells,S5,Stage II,Dendritic cells,intra
+early,0.0622947010293059,P5,Myocytes,S5,Stage II,Dendritic cells,intra
+early,0.2922781933638453,P5,NK/T cells,S5,Stage II,Dendritic cells,intra
+early,0.0725511796081553,P5,B/Plasma cells,S5,Stage II,Endothelial cells,intra
+early,0.186698060592902,P5,Dendritic cells,S5,Stage II,Endothelial cells,intra
+early,0.1908809370992177,P5,Epithelial cells,S5,Stage II,Endothelial cells,intra
+early,0.1393778841922496,P5,Fibroblasts,S5,Stage II,Endothelial cells,intra
+early,0.0459297622414483,P5,Macrophages,S5,Stage II,Endothelial cells,intra
+early,0.1062223448910091,P5,Mast cells,S5,Stage II,Endothelial cells,intra
+early,0.1104705619867604,P5,Myocytes,S5,Stage II,Endothelial cells,intra
+early,0.1478692693882572,P5,NK/T cells,S5,Stage II,Endothelial cells,intra
+early,0.1099663776744902,P5,B/Plasma cells,S5,Stage II,Epithelial cells,intra
+early,0.0815521836308414,P5,Dendritic cells,S5,Stage II,Epithelial cells,intra
+early,0.0923757654158503,P5,Endothelial cells,S5,Stage II,Epithelial cells,intra
+early,0.2149037656587128,P5,Fibroblasts,S5,Stage II,Epithelial cells,intra
+early,0.1155141119380276,P5,Macrophages,S5,Stage II,Epithelial cells,intra
+early,0.1166489910809348,P5,Mast cells,S5,Stage II,Epithelial cells,intra
+early,0.1475216293693556,P5,Myocytes,S5,Stage II,Epithelial cells,intra
+early,0.1215171752317871,P5,NK/T cells,S5,Stage II,Epithelial cells,intra
+early,0.0728302323411859,P5,B/Plasma cells,S5,Stage II,Fibroblasts,intra
+early,0.1652961671885469,P5,Dendritic cells,S5,Stage II,Fibroblasts,intra
+early,0.0968258340281338,P5,Endothelial cells,S5,Stage II,Fibroblasts,intra
+early,0.2714705494560868,P5,Epithelial cells,S5,Stage II,Fibroblasts,intra
+early,0.0306199399604947,P5,Macrophages,S5,Stage II,Fibroblasts,intra
+early,0.1519630042919098,P5,Mast cells,S5,Stage II,Fibroblasts,intra
+early,0.0910473945185503,P5,Myocytes,S5,Stage II,Fibroblasts,intra
+early,0.1199468782150916,P5,NK/T cells,S5,Stage II,Fibroblasts,intra
+early,0.1067617810489837,P5,B/Plasma cells,S5,Stage II,Macrophages,intra
+early,0.0769124395890131,P5,Dendritic cells,S5,Stage II,Macrophages,intra
+early,0.0487388763973928,P5,Endothelial cells,S5,Stage II,Macrophages,intra
+early,0.310036898415346,P5,Epithelial cells,S5,Stage II,Macrophages,intra
+early,0.0536055991669484,P5,Fibroblasts,S5,Stage II,Macrophages,intra
+early,0.1215780583184361,P5,Mast cells,S5,Stage II,Macrophages,intra
+early,0.0573917618473906,P5,Myocytes,S5,Stage II,Macrophages,intra
+early,0.2249745852164889,P5,NK/T cells,S5,Stage II,Macrophages,intra
+early,0.1227090301388924,P5,B/Plasma cells,S5,Stage II,Mast cells,intra
+early,0.112908402069248,P5,Dendritic cells,S5,Stage II,Mast cells,intra
+early,0.0894028072098189,P5,Endothelial cells,S5,Stage II,Mast cells,intra
+early,0.1958502909030528,P5,Epithelial cells,S5,Stage II,Mast cells,intra
+early,0.2015908904800975,P5,Fibroblasts,S5,Stage II,Mast cells,intra
+early,0.0510266485329804,P5,Macrophages,S5,Stage II,Mast cells,intra
+early,0.0898813730161943,P5,Myocytes,S5,Stage II,Mast cells,intra
+early,0.1366305576497153,P5,NK/T cells,S5,Stage II,Mast cells,intra
+early,0.1046814793755615,P5,B/Plasma cells,S5,Stage II,Myocytes,intra
+early,0.1228935170817909,P5,Dendritic cells,S5,Stage II,Myocytes,intra
+early,0.0926600150342669,P5,Endothelial cells,S5,Stage II,Myocytes,intra
+early,0.3198340955816684,P5,Epithelial cells,S5,Stage II,Myocytes,intra
+early,0.0810308716477874,P5,Fibroblasts,S5,Stage II,Myocytes,intra
+early,0.0345177480300572,P5,Macrophages,S5,Stage II,Myocytes,intra
+early,0.0856623041395084,P5,Mast cells,S5,Stage II,Myocytes,intra
+early,0.1587199691093591,P5,NK/T cells,S5,Stage II,Myocytes,intra
+early,0.0995198168276057,P5,B/Plasma cells,S5,Stage II,NK/T cells,intra
+early,0.2296447991407889,P5,Dendritic cells,S5,Stage II,NK/T cells,intra
+early,0.0648445756163401,P5,Endothelial cells,S5,Stage II,NK/T cells,intra
+early,0.2214264688512623,P5,Epithelial cells,S5,Stage II,NK/T cells,intra
+early,0.100363386367545,P5,Fibroblasts,S5,Stage II,NK/T cells,intra
+early,0.1398980225390102,P5,Macrophages,S5,Stage II,NK/T cells,intra
+early,0.0754784817638111,P5,Mast cells,S5,Stage II,NK/T cells,intra
+early,0.0688244488936363,P5,Myocytes,S5,Stage II,NK/T cells,intra
+early,0.1774448418264074,P6,Dendritic cells,S6,Stage II,B/Plasma cells,intra
+early,0.0765182402037127,P6,Endothelial cells,S6,Stage II,B/Plasma cells,intra
+early,0.1432012181394893,P6,Epithelial cells,S6,Stage II,B/Plasma cells,intra
+early,0.1047772385191226,P6,Fibroblasts,S6,Stage II,B/Plasma cells,intra
+early,0.0753688897738975,P6,Macrophages,S6,Stage II,B/Plasma cells,intra
+early,0.1319489684081287,P6,Mast cells,S6,Stage II,B/Plasma cells,intra
+early,0.0717281107556366,P6,Myocytes,S6,Stage II,B/Plasma cells,intra
+early,0.2190124923736049,P6,NK/T cells,S6,Stage II,B/Plasma cells,intra
+early,0.1966196307603031,P6,B/Plasma cells,S6,Stage II,Dendritic cells,intra
+early,0.0648251448408502,P6,Endothelial cells,S6,Stage II,Dendritic cells,intra
+early,0.1488747185710827,P6,Epithelial cells,S6,Stage II,Dendritic cells,intra
+early,0.1261703161816858,P6,Fibroblasts,S6,Stage II,Dendritic cells,intra
+early,0.0760553181474495,P6,Macrophages,S6,Stage II,Dendritic cells,intra
+early,0.0691104133387319,P6,Mast cells,S6,Stage II,Dendritic cells,intra
+early,0.0694690331315111,P6,Myocytes,S6,Stage II,Dendritic cells,intra
+early,0.2488754250283855,P6,NK/T cells,S6,Stage II,Dendritic cells,intra
+early,0.1113883484446096,P6,B/Plasma cells,S6,Stage II,Endothelial cells,intra
+early,0.0690024105517904,P6,Dendritic cells,S6,Stage II,Endothelial cells,intra
+early,0.2776089966527174,P6,Epithelial cells,S6,Stage II,Endothelial cells,intra
+early,0.2321215129245738,P6,Fibroblasts,S6,Stage II,Endothelial cells,intra
+early,0.0687366218466109,P6,Macrophages,S6,Stage II,Endothelial cells,intra
+early,0.0823449928182857,P6,Mast cells,S6,Stage II,Endothelial cells,intra
+early,0.0717843110944345,P6,Myocytes,S6,Stage II,Endothelial cells,intra
+early,0.0870128056669774,P6,NK/T cells,S6,Stage II,Endothelial cells,intra
+early,0.1209201388998765,P6,B/Plasma cells,S6,Stage II,Epithelial cells,intra
+early,0.060403574815174,P6,Dendritic cells,S6,Stage II,Epithelial cells,intra
+early,0.1436536109808567,P6,Endothelial cells,S6,Stage II,Epithelial cells,intra
+early,0.3209543346876618,P6,Fibroblasts,S6,Stage II,Epithelial cells,intra
+early,0.078441572839573,P6,Macrophages,S6,Stage II,Epithelial cells,intra
+early,0.0276179089298728,P6,Mast cells,S6,Stage II,Epithelial cells,intra
+early,0.0301994703463259,P6,Myocytes,S6,Stage II,Epithelial cells,intra
+early,0.217809388500659,P6,NK/T cells,S6,Stage II,Epithelial cells,intra
+early,0.0709866119482694,P6,B/Plasma cells,S6,Stage II,Fibroblasts,intra
+early,0.1045808804117413,P6,Dendritic cells,S6,Stage II,Fibroblasts,intra
+early,0.1039375271889649,P6,Endothelial cells,S6,Stage II,Fibroblasts,intra
+early,0.3171520754858223,P6,Epithelial cells,S6,Stage II,Fibroblasts,intra
+early,0.0588377302784741,P6,Macrophages,S6,Stage II,Fibroblasts,intra
+early,0.1167820570803044,P6,Mast cells,S6,Stage II,Fibroblasts,intra
+early,0.1511026051753177,P6,Myocytes,S6,Stage II,Fibroblasts,intra
+early,0.0766205124311058,P6,NK/T cells,S6,Stage II,Fibroblasts,intra
+early,0.1267434251000286,P6,B/Plasma cells,S6,Stage II,Macrophages,intra
+early,0.0718668722032139,P6,Dendritic cells,S6,Stage II,Macrophages,intra
+early,0.0724733412266985,P6,Endothelial cells,S6,Stage II,Macrophages,intra
+early,0.1866160492099464,P6,Epithelial cells,S6,Stage II,Macrophages,intra
+early,0.1912016874396559,P6,Fibroblasts,S6,Stage II,Macrophages,intra
+early,0.0559463714896249,P6,Mast cells,S6,Stage II,Macrophages,intra
+early,0.2054506164208629,P6,Myocytes,S6,Stage II,Macrophages,intra
+early,0.0897016369099686,P6,NK/T cells,S6,Stage II,Macrophages,intra
+early,0.2119073143991882,P6,B/Plasma cells,S6,Stage II,Mast cells,intra
+early,0.0691200467718077,P6,Dendritic cells,S6,Stage II,Mast cells,intra
+early,0.111190820442605,P6,Endothelial cells,S6,Stage II,Mast cells,intra
+early,0.10467163210695,P6,Epithelial cells,S6,Stage II,Mast cells,intra
+early,0.1624949641876144,P6,Fibroblasts,S6,Stage II,Mast cells,intra
+early,0.0812943796786623,P6,Macrophages,S6,Stage II,Mast cells,intra
+early,0.0803430309411461,P6,Myocytes,S6,Stage II,Mast cells,intra
+early,0.178977811472026,P6,NK/T cells,S6,Stage II,Mast cells,intra
+early,0.1132321551433824,P6,B/Plasma cells,S6,Stage II,Myocytes,intra
+early,0.071381011414059,P6,Dendritic cells,S6,Stage II,Myocytes,intra
+early,0.0776430580284855,P6,Endothelial cells,S6,Stage II,Myocytes,intra
+early,0.1360724447117565,P6,Epithelial cells,S6,Stage II,Myocytes,intra
+early,0.1824301587995675,P6,Fibroblasts,S6,Stage II,Myocytes,intra
+early,0.2676457087285789,P6,Macrophages,S6,Stage II,Myocytes,intra
+early,0.075437822367923,P6,Mast cells,S6,Stage II,Myocytes,intra
+early,0.076157640806247,P6,NK/T cells,S6,Stage II,Myocytes,intra
+early,0.1532284049354792,P6,B/Plasma cells,S6,Stage II,NK/T cells,intra
+early,0.1548108066611095,P6,Dendritic cells,S6,Stage II,NK/T cells,intra
+early,0.0711941720749421,P6,Endothelial cells,S6,Stage II,NK/T cells,intra
+early,0.3217119711172344,P6,Epithelial cells,S6,Stage II,NK/T cells,intra
+early,0.0867443701852345,P6,Fibroblasts,S6,Stage II,NK/T cells,intra
+early,0.0805229772941549,P6,Macrophages,S6,Stage II,NK/T cells,intra
+early,0.0849034412294666,P6,Mast cells,S6,Stage II,NK/T cells,intra
+early,0.0468838565023785,P6,Myocytes,S6,Stage II,NK/T cells,intra
+advanced,0.1355827267321184,P1,Dendritic cells,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.096310311300243,P1,Endothelial cells,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1471529253129077,P1,Epithelial cells,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1677019008417244,P1,Fibroblasts,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1027991289945396,P1,Macrophages,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1207684579757368,P1,Mast cells,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1033478096153523,P1,Myocytes,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1263367392273777,P1,NK/T cells,S1,Stage IVA,B/Plasma cells,intra
+advanced,0.1122386082243518,P1,B/Plasma cells,S1,Stage IVA,Dendritic cells,intra
+advanced,0.0754467598683206,P1,Endothelial cells,S1,Stage IVA,Dendritic cells,intra
+advanced,0.0852064383172537,P1,Epithelial cells,S1,Stage IVA,Dendritic cells,intra
+advanced,0.1706066994462602,P1,Fibroblasts,S1,Stage IVA,Dendritic cells,intra
+advanced,0.0819413407155886,P1,Macrophages,S1,Stage IVA,Dendritic cells,intra
+advanced,0.061105120621093,P1,Mast cells,S1,Stage IVA,Dendritic cells,intra
+advanced,0.0936278979023604,P1,Myocytes,S1,Stage IVA,Dendritic cells,intra
+advanced,0.3198271349047714,P1,NK/T cells,S1,Stage IVA,Dendritic cells,intra
+advanced,0.0882985783963765,P1,B/Plasma cells,S1,Stage IVA,Endothelial cells,intra
+advanced,0.1224775723199559,P1,Dendritic cells,S1,Stage IVA,Endothelial cells,intra
+advanced,0.1157649901435665,P1,Epithelial cells,S1,Stage IVA,Endothelial cells,intra
+advanced,0.2442456440685731,P1,Fibroblasts,S1,Stage IVA,Endothelial cells,intra
+advanced,0.1044303704260211,P1,Macrophages,S1,Stage IVA,Endothelial cells,intra
+advanced,0.0676394987134963,P1,Mast cells,S1,Stage IVA,Endothelial cells,intra
+advanced,0.1253508117194988,P1,Myocytes,S1,Stage IVA,Endothelial cells,intra
+advanced,0.1317925342125115,P1,NK/T cells,S1,Stage IVA,Endothelial cells,intra
+advanced,0.0886294730715359,P1,B/Plasma cells,S1,Stage IVA,Epithelial cells,intra
+advanced,0.0506970065608318,P1,Dendritic cells,S1,Stage IVA,Epithelial cells,intra
+advanced,0.0464127143228226,P1,Endothelial cells,S1,Stage IVA,Epithelial cells,intra
+advanced,0.281503850634637,P1,Fibroblasts,S1,Stage IVA,Epithelial cells,intra
+advanced,0.036847653874159,P1,Macrophages,S1,Stage IVA,Epithelial cells,intra
+advanced,0.269640870932822,P1,Mast cells,S1,Stage IVA,Epithelial cells,intra
+advanced,0.0826847883038453,P1,Myocytes,S1,Stage IVA,Epithelial cells,intra
+advanced,0.1435836422993462,P1,NK/T cells,S1,Stage IVA,Epithelial cells,intra
+advanced,0.1274959179545607,P1,B/Plasma cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.1452683081148156,P1,Dendritic cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.1124962634288773,P1,Endothelial cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.223581562741315,P1,Epithelial cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.0954823695880286,P1,Macrophages,S1,Stage IVA,Fibroblasts,intra
+advanced,0.1023713696945291,P1,Mast cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.0922544013017515,P1,Myocytes,S1,Stage IVA,Fibroblasts,intra
+advanced,0.1010498071761219,P1,NK/T cells,S1,Stage IVA,Fibroblasts,intra
+advanced,0.1348823041694715,P1,B/Plasma cells,S1,Stage IVA,Macrophages,intra
+advanced,0.1147837220458163,P1,Dendritic cells,S1,Stage IVA,Macrophages,intra
+advanced,0.1240413339453114,P1,Endothelial cells,S1,Stage IVA,Macrophages,intra
+advanced,0.1197797887612693,P1,Epithelial cells,S1,Stage IVA,Macrophages,intra
+advanced,0.1696040807097471,P1,Fibroblasts,S1,Stage IVA,Macrophages,intra
+advanced,0.0698069363844945,P1,Mast cells,S1,Stage IVA,Macrophages,intra
+advanced,0.1635784415256227,P1,Myocytes,S1,Stage IVA,Macrophages,intra
+advanced,0.1035233924582668,P1,NK/T cells,S1,Stage IVA,Macrophages,intra
+advanced,0.091253974297881,P1,B/Plasma cells,S1,Stage IVA,Mast cells,intra
+advanced,0.055305441777778,P1,Dendritic cells,S1,Stage IVA,Mast cells,intra
+advanced,0.0468814368918274,P1,Endothelial cells,S1,Stage IVA,Mast cells,intra
+advanced,0.4248047991592523,P1,Epithelial cells,S1,Stage IVA,Mast cells,intra
+advanced,0.1071707318339376,P1,Fibroblasts,S1,Stage IVA,Mast cells,intra
+advanced,0.0342652668757085,P1,Macrophages,S1,Stage IVA,Mast cells,intra
+advanced,0.1440915438586229,P1,Myocytes,S1,Stage IVA,Mast cells,intra
+advanced,0.096226805304992,P1,NK/T cells,S1,Stage IVA,Mast cells,intra
+advanced,0.0666570149964287,P1,B/Plasma cells,S1,Stage IVA,Myocytes,intra
+advanced,0.1380385531063636,P1,Dendritic cells,S1,Stage IVA,Myocytes,intra
+advanced,0.061026505636725,P1,Endothelial cells,S1,Stage IVA,Myocytes,intra
+advanced,0.1029731643379963,P1,Epithelial cells,S1,Stage IVA,Myocytes,intra
+advanced,0.1357587082718723,P1,Fibroblasts,S1,Stage IVA,Myocytes,intra
+advanced,0.0869304490572794,P1,Macrophages,S1,Stage IVA,Myocytes,intra
+advanced,0.1786326005079689,P1,Mast cells,S1,Stage IVA,Myocytes,intra
+advanced,0.2299830040853654,P1,NK/T cells,S1,Stage IVA,Myocytes,intra
+advanced,0.0638588651056877,P1,B/Plasma cells,S1,Stage IVA,NK/T cells,intra
+advanced,0.1897073637072757,P1,Dendritic cells,S1,Stage IVA,NK/T cells,intra
+advanced,0.0980836447315521,P1,Endothelial cells,S1,Stage IVA,NK/T cells,intra
+advanced,0.1877622760214149,P1,Epithelial cells,S1,Stage IVA,NK/T cells,intra
+advanced,0.0854871416335734,P1,Fibroblasts,S1,Stage IVA,NK/T cells,intra
+advanced,0.0285673520568408,P1,Macrophages,S1,Stage IVA,NK/T cells,intra
+advanced,0.0470025119321992,P1,Mast cells,S1,Stage IVA,NK/T cells,intra
+advanced,0.299530844811456,P1,Myocytes,S1,Stage IVA,NK/T cells,intra
+advanced,0.0871831169958321,P8,Dendritic cells,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1311544222934419,P8,Endothelial cells,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.132215410756513,P8,Epithelial cells,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1309905249998612,P8,Fibroblasts,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1351718825783111,P8,Macrophages,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1561467046752716,P8,Mast cells,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1255108608015724,P8,Myocytes,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.1016270768991966,P8,NK/T cells,S10,Stage IVA,B/Plasma cells,intra
+advanced,0.0968719608430591,P8,B/Plasma cells,S10,Stage IVA,Dendritic cells,intra
+advanced,0.0742715210283199,P8,Endothelial cells,S10,Stage IVA,Dendritic cells,intra
+advanced,0.1878351197291581,P8,Epithelial cells,S10,Stage IVA,Dendritic cells,intra
+advanced,0.1731068531322746,P8,Fibroblasts,S10,Stage IVA,Dendritic cells,intra
+advanced,0.0667385190658482,P8,Macrophages,S10,Stage IVA,Dendritic cells,intra
+advanced,0.0864303439921379,P8,Mast cells,S10,Stage IVA,Dendritic cells,intra
+advanced,0.0689259999099027,P8,Myocytes,S10,Stage IVA,Dendritic cells,intra
+advanced,0.2458196822992992,P8,NK/T cells,S10,Stage IVA,Dendritic cells,intra
+advanced,0.0941960122021534,P8,B/Plasma cells,S10,Stage IVA,Endothelial cells,intra
+advanced,0.0828199534966487,P8,Dendritic cells,S10,Stage IVA,Endothelial cells,intra
+advanced,0.2241181630697891,P8,Epithelial cells,S10,Stage IVA,Endothelial cells,intra
+advanced,0.1412076553287982,P8,Fibroblasts,S10,Stage IVA,Endothelial cells,intra
+advanced,0.1237668057754728,P8,Macrophages,S10,Stage IVA,Endothelial cells,intra
+advanced,0.0827203953041545,P8,Mast cells,S10,Stage IVA,Endothelial cells,intra
+advanced,0.1482372768141163,P8,Myocytes,S10,Stage IVA,Endothelial cells,intra
+advanced,0.1029337380088668,P8,NK/T cells,S10,Stage IVA,Endothelial cells,intra
+advanced,0.0641874686653429,P8,B/Plasma cells,S10,Stage IVA,Epithelial cells,intra
+advanced,0.0760505603131715,P8,Dendritic cells,S10,Stage IVA,Epithelial cells,intra
+advanced,0.0589353139408891,P8,Endothelial cells,S10,Stage IVA,Epithelial cells,intra
+advanced,0.3278744470982556,P8,Fibroblasts,S10,Stage IVA,Epithelial cells,intra
+advanced,0.0710108348711219,P8,Macrophages,S10,Stage IVA,Epithelial cells,intra
+advanced,0.1060605828827524,P8,Mast cells,S10,Stage IVA,Epithelial cells,intra
+advanced,0.0545078490066992,P8,Myocytes,S10,Stage IVA,Epithelial cells,intra
+advanced,0.2413729432217671,P8,NK/T cells,S10,Stage IVA,Epithelial cells,intra
+advanced,0.0730605472537519,P8,B/Plasma cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.0905935223555429,P8,Dendritic cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.0437085582084116,P8,Endothelial cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.3863830440785453,P8,Epithelial cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.0477880279333063,P8,Macrophages,S10,Stage IVA,Fibroblasts,intra
+advanced,0.169213919647809,P8,Mast cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.0937180322234757,P8,Myocytes,S10,Stage IVA,Fibroblasts,intra
+advanced,0.0955343482991572,P8,NK/T cells,S10,Stage IVA,Fibroblasts,intra
+advanced,0.1559017413477911,P8,B/Plasma cells,S10,Stage IVA,Macrophages,intra
+advanced,0.0524042478792175,P8,Dendritic cells,S10,Stage IVA,Macrophages,intra
+advanced,0.1134543204391764,P8,Endothelial cells,S10,Stage IVA,Macrophages,intra
+advanced,0.1838713809569342,P8,Epithelial cells,S10,Stage IVA,Macrophages,intra
+advanced,0.0901701356044001,P8,Fibroblasts,S10,Stage IVA,Macrophages,intra
+advanced,0.0975459990165235,P8,Mast cells,S10,Stage IVA,Macrophages,intra
+advanced,0.2027464129395287,P8,Myocytes,S10,Stage IVA,Macrophages,intra
+advanced,0.1039057618164281,P8,NK/T cells,S10,Stage IVA,Macrophages,intra
+advanced,0.1454228971829484,P8,B/Plasma cells,S10,Stage IVA,Mast cells,intra
+advanced,0.0565429357511429,P8,Dendritic cells,S10,Stage IVA,Mast cells,intra
+advanced,0.0484572601786442,P8,Endothelial cells,S10,Stage IVA,Mast cells,intra
+advanced,0.2894582790570424,P8,Epithelial cells,S10,Stage IVA,Mast cells,intra
+advanced,0.1839515329705903,P8,Fibroblasts,S10,Stage IVA,Mast cells,intra
+advanced,0.0950885832632665,P8,Macrophages,S10,Stage IVA,Mast cells,intra
+advanced,0.0996686540220689,P8,Myocytes,S10,Stage IVA,Mast cells,intra
+advanced,0.0814098575742963,P8,NK/T cells,S10,Stage IVA,Mast cells,intra
+advanced,0.0874814926719868,P8,B/Plasma cells,S10,Stage IVA,Myocytes,intra
+advanced,0.056493796019763,P8,Dendritic cells,S10,Stage IVA,Myocytes,intra
+advanced,0.1558453063682171,P8,Endothelial cells,S10,Stage IVA,Myocytes,intra
+advanced,0.1547635797918392,P8,Epithelial cells,S10,Stage IVA,Myocytes,intra
+advanced,0.1914846346926036,P8,Fibroblasts,S10,Stage IVA,Myocytes,intra
+advanced,0.1487619212054674,P8,Macrophages,S10,Stage IVA,Myocytes,intra
+advanced,0.1306221222791651,P8,Mast cells,S10,Stage IVA,Myocytes,intra
+advanced,0.0745471469709573,P8,NK/T cells,S10,Stage IVA,Myocytes,intra
+advanced,0.0840595243046503,P8,B/Plasma cells,S10,Stage IVA,NK/T cells,intra
+advanced,0.1555644311247006,P8,Dendritic cells,S10,Stage IVA,NK/T cells,intra
+advanced,0.0607903808991076,P8,Endothelial cells,S10,Stage IVA,NK/T cells,intra
+advanced,0.3184104753672507,P8,Epithelial cells,S10,Stage IVA,NK/T cells,intra
+advanced,0.1268703659472206,P8,Fibroblasts,S10,Stage IVA,NK/T cells,intra
+advanced,0.0705999846404583,P8,Macrophages,S10,Stage IVA,NK/T cells,intra
+advanced,0.0835680432446822,P8,Mast cells,S10,Stage IVA,NK/T cells,intra
+advanced,0.1001367944719294,P8,Myocytes,S10,Stage IVA,NK/T cells,intra
+advanced,0.064157218950821,P10,Dendritic cells,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.0494612108522994,P10,Endothelial cells,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.3225503239190019,P10,Epithelial cells,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.1485342160363426,P10,Fibroblasts,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.0543004822122756,P10,Macrophages,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.0662463005803295,P10,Mast cells,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.2063150657366739,P10,Myocytes,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.0884351817122559,P10,NK/T cells,S12,Stage IVA,B/Plasma cells,intra
+advanced,0.1828036112995774,P10,B/Plasma cells,S12,Stage IVA,Dendritic cells,intra
+advanced,0.0547409011221617,P10,Endothelial cells,S12,Stage IVA,Dendritic cells,intra
+advanced,0.1072217228057531,P10,Epithelial cells,S12,Stage IVA,Dendritic cells,intra
+advanced,0.0689880424672985,P10,Fibroblasts,S12,Stage IVA,Dendritic cells,intra
+advanced,0.1665814764674,P10,Macrophages,S12,Stage IVA,Dendritic cells,intra
+advanced,0.0554838837725608,P10,Mast cells,S12,Stage IVA,Dendritic cells,intra
+advanced,0.1733098319817692,P10,Myocytes,S12,Stage IVA,Dendritic cells,intra
+advanced,0.190870530083479,P10,NK/T cells,S12,Stage IVA,Dendritic cells,intra
+advanced,0.1076011674558305,P10,B/Plasma cells,S12,Stage IVA,Endothelial cells,intra
+advanced,0.1071095250088755,P10,Dendritic cells,S12,Stage IVA,Endothelial cells,intra
+advanced,0.1818115491976529,P10,Epithelial cells,S12,Stage IVA,Endothelial cells,intra
+advanced,0.1801754709000076,P10,Fibroblasts,S12,Stage IVA,Endothelial cells,intra
+advanced,0.0744559090201933,P10,Macrophages,S12,Stage IVA,Endothelial cells,intra
+advanced,0.0852870601031925,P10,Mast cells,S12,Stage IVA,Endothelial cells,intra
+advanced,0.1307868973802526,P10,Myocytes,S12,Stage IVA,Endothelial cells,intra
+advanced,0.1327724209339948,P10,NK/T cells,S12,Stage IVA,Endothelial cells,intra
+advanced,0.2823080270487613,P10,B/Plasma cells,S12,Stage IVA,Epithelial cells,intra
+advanced,0.0530139841188965,P10,Dendritic cells,S12,Stage IVA,Epithelial cells,intra
+advanced,0.0518302329985177,P10,Endothelial cells,S12,Stage IVA,Epithelial cells,intra
+advanced,0.2490824126137568,P10,Fibroblasts,S12,Stage IVA,Epithelial cells,intra
+advanced,0.0708019571058617,P10,Macrophages,S12,Stage IVA,Epithelial cells,intra
+advanced,0.0271319241202928,P10,Mast cells,S12,Stage IVA,Epithelial cells,intra
+advanced,0.1123627298566526,P10,Myocytes,S12,Stage IVA,Epithelial cells,intra
+advanced,0.1534687321372604,P10,NK/T cells,S12,Stage IVA,Epithelial cells,intra
+advanced,0.1315707513284474,P10,B/Plasma cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.0590342322756922,P10,Dendritic cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.1051236784914494,P10,Endothelial cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.2742929441883674,P10,Epithelial cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.079207953894018,P10,Macrophages,S12,Stage IVA,Fibroblasts,intra
+advanced,0.1168799785004858,P10,Mast cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.1671107584527064,P10,Myocytes,S12,Stage IVA,Fibroblasts,intra
+advanced,0.0667797028688332,P10,NK/T cells,S12,Stage IVA,Fibroblasts,intra
+advanced,0.0654930621601238,P10,B/Plasma cells,S12,Stage IVA,Macrophages,intra
+advanced,0.1232321681359513,P10,Dendritic cells,S12,Stage IVA,Macrophages,intra
+advanced,0.0505408869572825,P10,Endothelial cells,S12,Stage IVA,Macrophages,intra
+advanced,0.1332412906894879,P10,Epithelial cells,S12,Stage IVA,Macrophages,intra
+advanced,0.1038925556677765,P10,Fibroblasts,S12,Stage IVA,Macrophages,intra
+advanced,0.060522159864081,P10,Mast cells,S12,Stage IVA,Macrophages,intra
+advanced,0.3132267751154516,P10,Myocytes,S12,Stage IVA,Macrophages,intra
+advanced,0.1498511014098451,P10,NK/T cells,S12,Stage IVA,Macrophages,intra
+advanced,0.1567299647783249,P10,B/Plasma cells,S12,Stage IVA,Mast cells,intra
+advanced,0.0852565880918796,P10,Dendritic cells,S12,Stage IVA,Mast cells,intra
+advanced,0.1042224407192662,P10,Endothelial cells,S12,Stage IVA,Mast cells,intra
+advanced,0.1405208626322142,P10,Epithelial cells,S12,Stage IVA,Mast cells,intra
+advanced,0.1516925653808344,P10,Fibroblasts,S12,Stage IVA,Mast cells,intra
+advanced,0.1224707744050662,P10,Macrophages,S12,Stage IVA,Mast cells,intra
+advanced,0.1490272675441215,P10,Myocytes,S12,Stage IVA,Mast cells,intra
+advanced,0.0900795364482927,P10,NK/T cells,S12,Stage IVA,Mast cells,intra
+advanced,0.1930772428497699,P10,B/Plasma cells,S12,Stage IVA,Myocytes,intra
+advanced,0.1097589572879356,P10,Dendritic cells,S12,Stage IVA,Myocytes,intra
+advanced,0.032116463612263,P10,Endothelial cells,S12,Stage IVA,Myocytes,intra
+advanced,0.2009631126642831,P10,Epithelial cells,S12,Stage IVA,Myocytes,intra
+advanced,0.104252695007157,P10,Fibroblasts,S12,Stage IVA,Myocytes,intra
+advanced,0.2764886002799748,P10,Macrophages,S12,Stage IVA,Myocytes,intra
+advanced,0.0355142462375099,P10,Mast cells,S12,Stage IVA,Myocytes,intra
+advanced,0.0478286820611065,P10,NK/T cells,S12,Stage IVA,Myocytes,intra
+advanced,0.2356011205018285,P10,B/Plasma cells,S12,Stage IVA,NK/T cells,intra
+advanced,0.1558660959435298,P10,Dendritic cells,S12,Stage IVA,NK/T cells,intra
+advanced,0.071261898091516,P10,Endothelial cells,S12,Stage IVA,NK/T cells,intra
+advanced,0.1977383812474479,P10,Epithelial cells,S12,Stage IVA,NK/T cells,intra
+advanced,0.0811178117710923,P10,Fibroblasts,S12,Stage IVA,NK/T cells,intra
+advanced,0.1353045120298196,P10,Macrophages,S12,Stage IVA,NK/T cells,intra
+advanced,0.0562381308684255,P10,Mast cells,S12,Stage IVA,NK/T cells,intra
+advanced,0.06687204954634,P10,Myocytes,S12,Stage IVA,NK/T cells,intra
+advanced,0.1143022484305984,P2,Dendritic cells,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.0666650595874085,P2,Endothelial cells,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.1732598376922973,P2,Epithelial cells,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.1488920843050523,P2,Fibroblasts,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.1507304014187552,P2,Macrophages,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.1522197052771187,P2,Mast cells,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.0752661385240115,P2,Myocytes,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.1186645247647577,P2,NK/T cells,S2,Stage IVA,B/Plasma cells,intra
+advanced,0.0732454113887211,P2,B/Plasma cells,S2,Stage IVA,Dendritic cells,intra
+advanced,0.1230888035328862,P2,Endothelial cells,S2,Stage IVA,Dendritic cells,intra
+advanced,0.113187632443739,P2,Epithelial cells,S2,Stage IVA,Dendritic cells,intra
+advanced,0.1610534777844752,P2,Fibroblasts,S2,Stage IVA,Dendritic cells,intra
+advanced,0.0782370336651941,P2,Macrophages,S2,Stage IVA,Dendritic cells,intra
+advanced,0.0872065010837083,P2,Mast cells,S2,Stage IVA,Dendritic cells,intra
+advanced,0.0819737120178186,P2,Myocytes,S2,Stage IVA,Dendritic cells,intra
+advanced,0.2820074280834572,P2,NK/T cells,S2,Stage IVA,Dendritic cells,intra
+advanced,0.0876602082421632,P2,B/Plasma cells,S2,Stage IVA,Endothelial cells,intra
+advanced,0.0966974956505973,P2,Dendritic cells,S2,Stage IVA,Endothelial cells,intra
+advanced,0.1976266794963063,P2,Epithelial cells,S2,Stage IVA,Endothelial cells,intra
+advanced,0.1411950341010129,P2,Fibroblasts,S2,Stage IVA,Endothelial cells,intra
+advanced,0.1667999659970227,P2,Macrophages,S2,Stage IVA,Endothelial cells,intra
+advanced,0.1328283013337491,P2,Mast cells,S2,Stage IVA,Endothelial cells,intra
+advanced,0.0917324944746464,P2,Myocytes,S2,Stage IVA,Endothelial cells,intra
+advanced,0.085459820704502,P2,NK/T cells,S2,Stage IVA,Endothelial cells,intra
+advanced,0.0787383670160306,P2,B/Plasma cells,S2,Stage IVA,Epithelial cells,intra
+advanced,0.0496068775359372,P2,Dendritic cells,S2,Stage IVA,Epithelial cells,intra
+advanced,0.0475227099693567,P2,Endothelial cells,S2,Stage IVA,Epithelial cells,intra
+advanced,0.3568951126087432,P2,Fibroblasts,S2,Stage IVA,Epithelial cells,intra
+advanced,0.1119612379929491,P2,Macrophages,S2,Stage IVA,Epithelial cells,intra
+advanced,0.1646228494391628,P2,Mast cells,S2,Stage IVA,Epithelial cells,intra
+advanced,0.0702286162871495,P2,Myocytes,S2,Stage IVA,Epithelial cells,intra
+advanced,0.1204242291506706,P2,NK/T cells,S2,Stage IVA,Epithelial cells,intra
+advanced,0.0670813523091525,P2,B/Plasma cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.1174581454573378,P2,Dendritic cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.0451036897008856,P2,Endothelial cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.3056510027332869,P2,Epithelial cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.1029852977125533,P2,Macrophages,S2,Stage IVA,Fibroblasts,intra
+advanced,0.1526396440428206,P2,Mast cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.0976731061548335,P2,Myocytes,S2,Stage IVA,Fibroblasts,intra
+advanced,0.1114077618891296,P2,NK/T cells,S2,Stage IVA,Fibroblasts,intra
+advanced,0.0842310025305384,P2,B/Plasma cells,S2,Stage IVA,Macrophages,intra
+advanced,0.0787405641972181,P2,Dendritic cells,S2,Stage IVA,Macrophages,intra
+advanced,0.0816347234708369,P2,Endothelial cells,S2,Stage IVA,Macrophages,intra
+advanced,0.1584407196995561,P2,Epithelial cells,S2,Stage IVA,Macrophages,intra
+advanced,0.1602913111304524,P2,Fibroblasts,S2,Stage IVA,Macrophages,intra
+advanced,0.1103108129151348,P2,Mast cells,S2,Stage IVA,Macrophages,intra
+advanced,0.2322260393518812,P2,Myocytes,S2,Stage IVA,Macrophages,intra
+advanced,0.0941248267043817,P2,NK/T cells,S2,Stage IVA,Macrophages,intra
+advanced,0.1311287668253774,P2,B/Plasma cells,S2,Stage IVA,Mast cells,intra
+advanced,0.0721169379015599,P2,Dendritic cells,S2,Stage IVA,Mast cells,intra
+advanced,0.0569687650525001,P2,Endothelial cells,S2,Stage IVA,Mast cells,intra
+advanced,0.2471132806496482,P2,Epithelial cells,S2,Stage IVA,Mast cells,intra
+advanced,0.1815976861980706,P2,Fibroblasts,S2,Stage IVA,Mast cells,intra
+advanced,0.1072291195294362,P2,Macrophages,S2,Stage IVA,Mast cells,intra
+advanced,0.106165583678004,P2,Myocytes,S2,Stage IVA,Mast cells,intra
+advanced,0.0976798601654033,P2,NK/T cells,S2,Stage IVA,Mast cells,intra
+advanced,0.0686156086772793,P2,B/Plasma cells,S2,Stage IVA,Myocytes,intra
+advanced,0.087143685739274,P2,Dendritic cells,S2,Stage IVA,Myocytes,intra
+advanced,0.0731986948090647,P2,Endothelial cells,S2,Stage IVA,Myocytes,intra
+advanced,0.1765992395630882,P2,Epithelial cells,S2,Stage IVA,Myocytes,intra
+advanced,0.1311853425925257,P2,Fibroblasts,S2,Stage IVA,Myocytes,intra
+advanced,0.2703202502231498,P2,Macrophages,S2,Stage IVA,Myocytes,intra
+advanced,0.1300557542920456,P2,Mast cells,S2,Stage IVA,Myocytes,intra
+advanced,0.0628814241035723,P2,NK/T cells,S2,Stage IVA,Myocytes,intra
+advanced,0.0948098690868468,P2,B/Plasma cells,S2,Stage IVA,NK/T cells,intra
+advanced,0.2442812071020794,P2,Dendritic cells,S2,Stage IVA,NK/T cells,intra
+advanced,0.0818867767168069,P2,Endothelial cells,S2,Stage IVA,NK/T cells,intra
+advanced,0.2114605562164688,P2,Epithelial cells,S2,Stage IVA,NK/T cells,intra
+advanced,0.1162150145603555,P2,Fibroblasts,S2,Stage IVA,NK/T cells,intra
+advanced,0.0947013858530274,P2,Macrophages,S2,Stage IVA,NK/T cells,intra
+advanced,0.0966207659145103,P2,Mast cells,S2,Stage IVA,NK/T cells,intra
+advanced,0.0600244245499045,P2,Myocytes,S2,Stage IVA,NK/T cells,intra
+advanced,0.0637506455634078,P4,Dendritic cells,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.0858906366584084,P4,Endothelial cells,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.2976606304445745,P4,Epithelial cells,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.0991519026354474,P4,Fibroblasts,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.0559786329576066,P4,Macrophages,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.1697778110356956,P4,Mast cells,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.1587752067510598,P4,Myocytes,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.0690145339537996,P4,NK/T cells,S4,Stage IVA,B/Plasma cells,intra
+advanced,0.043067277313872,P4,B/Plasma cells,S4,Stage IVA,Dendritic cells,intra
+advanced,0.0233978113856251,P4,Endothelial cells,S4,Stage IVA,Dendritic cells,intra
+advanced,0.0868902401213924,P4,Epithelial cells,S4,Stage IVA,Dendritic cells,intra
+advanced,0.070670038156723,P4,Fibroblasts,S4,Stage IVA,Dendritic cells,intra
+advanced,0.1235292243335773,P4,Macrophages,S4,Stage IVA,Dendritic cells,intra
+advanced,0.1172856113108737,P4,Mast cells,S4,Stage IVA,Dendritic cells,intra
+advanced,0.1313931983933494,P4,Myocytes,S4,Stage IVA,Dendritic cells,intra
+advanced,0.4037665989845869,P4,NK/T cells,S4,Stage IVA,Dendritic cells,intra
+advanced,0.1445888848238458,P4,B/Plasma cells,S4,Stage IVA,Endothelial cells,intra
+advanced,0.0862437682416763,P4,Dendritic cells,S4,Stage IVA,Endothelial cells,intra
+advanced,0.1333439885093569,P4,Epithelial cells,S4,Stage IVA,Endothelial cells,intra
+advanced,0.1810535966639626,P4,Fibroblasts,S4,Stage IVA,Endothelial cells,intra
+advanced,0.0997449354643481,P4,Macrophages,S4,Stage IVA,Endothelial cells,intra
+advanced,0.0889416681036162,P4,Mast cells,S4,Stage IVA,Endothelial cells,intra
+advanced,0.1689115975762133,P4,Myocytes,S4,Stage IVA,Endothelial cells,intra
+advanced,0.0971715606169804,P4,NK/T cells,S4,Stage IVA,Endothelial cells,intra
+advanced,0.2569395180345525,P4,B/Plasma cells,S4,Stage IVA,Epithelial cells,intra
+advanced,0.0540123255080647,P4,Dendritic cells,S4,Stage IVA,Epithelial cells,intra
+advanced,0.0579275618015441,P4,Endothelial cells,S4,Stage IVA,Epithelial cells,intra
+advanced,0.2245238048722933,P4,Fibroblasts,S4,Stage IVA,Epithelial cells,intra
+advanced,0.0382545653098773,P4,Macrophages,S4,Stage IVA,Epithelial cells,intra
+advanced,0.2185424822073434,P4,Mast cells,S4,Stage IVA,Epithelial cells,intra
+advanced,0.0933836819401954,P4,Myocytes,S4,Stage IVA,Epithelial cells,intra
+advanced,0.0564160603261288,P4,NK/T cells,S4,Stage IVA,Epithelial cells,intra
+advanced,0.1273824842766792,P4,B/Plasma cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.1236656365850998,P4,Dendritic cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.0834625013607388,P4,Endothelial cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.1697686154901908,P4,Epithelial cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.0649335048373854,P4,Macrophages,S4,Stage IVA,Fibroblasts,intra
+advanced,0.0971470516016853,P4,Mast cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.2221083398464171,P4,Myocytes,S4,Stage IVA,Fibroblasts,intra
+advanced,0.1115318660018035,P4,NK/T cells,S4,Stage IVA,Fibroblasts,intra
+advanced,0.0889472350310984,P4,B/Plasma cells,S4,Stage IVA,Macrophages,intra
+advanced,0.2881593638386377,P4,Dendritic cells,S4,Stage IVA,Macrophages,intra
+advanced,0.0620798681479451,P4,Endothelial cells,S4,Stage IVA,Macrophages,intra
+advanced,0.1391218571755846,P4,Epithelial cells,S4,Stage IVA,Macrophages,intra
+advanced,0.1036407090102149,P4,Fibroblasts,S4,Stage IVA,Macrophages,intra
+advanced,0.0908191512824511,P4,Mast cells,S4,Stage IVA,Macrophages,intra
+advanced,0.0844595038848106,P4,Myocytes,S4,Stage IVA,Macrophages,intra
+advanced,0.1427723116292573,P4,NK/T cells,S4,Stage IVA,Macrophages,intra
+advanced,0.18192737490971,P4,B/Plasma cells,S4,Stage IVA,Mast cells,intra
+advanced,0.0701684172036697,P4,Dendritic cells,S4,Stage IVA,Mast cells,intra
+advanced,0.0366021440990876,P4,Endothelial cells,S4,Stage IVA,Mast cells,intra
+advanced,0.2471613219250628,P4,Epithelial cells,S4,Stage IVA,Mast cells,intra
+advanced,0.1523381182942946,P4,Fibroblasts,S4,Stage IVA,Mast cells,intra
+advanced,0.026482044299838,P4,Macrophages,S4,Stage IVA,Mast cells,intra
+advanced,0.1876081278170088,P4,Myocytes,S4,Stage IVA,Mast cells,intra
+advanced,0.0977124514513282,P4,NK/T cells,S4,Stage IVA,Mast cells,intra
+advanced,0.1494883907993337,P4,B/Plasma cells,S4,Stage IVA,Myocytes,intra
+advanced,0.1501280921221037,P4,Dendritic cells,S4,Stage IVA,Myocytes,intra
+advanced,0.0727035221372282,P4,Endothelial cells,S4,Stage IVA,Myocytes,intra
+advanced,0.1121309023138515,P4,Epithelial cells,S4,Stage IVA,Myocytes,intra
+advanced,0.1206720974808234,P4,Fibroblasts,S4,Stage IVA,Myocytes,intra
+advanced,0.0353656695037615,P4,Macrophages,S4,Stage IVA,Myocytes,intra
+advanced,0.2465330634996808,P4,Mast cells,S4,Stage IVA,Myocytes,intra
+advanced,0.1129782621432168,P4,NK/T cells,S4,Stage IVA,Myocytes,intra
+advanced,0.052198169876933,P4,B/Plasma cells,S4,Stage IVA,NK/T cells,intra
+advanced,0.3969764842037763,P4,Dendritic cells,S4,Stage IVA,NK/T cells,intra
+advanced,0.0254496218928809,P4,Endothelial cells,S4,Stage IVA,NK/T cells,intra
+advanced,0.1270984843407366,P4,Epithelial cells,S4,Stage IVA,NK/T cells,intra
+advanced,0.0910712111025191,P4,Fibroblasts,S4,Stage IVA,NK/T cells,intra
+advanced,0.0481813911761981,P4,Macrophages,S4,Stage IVA,NK/T cells,intra
+advanced,0.1341127027108752,P4,Mast cells,S4,Stage IVA,NK/T cells,intra
+advanced,0.1249119346960804,P4,Myocytes,S4,Stage IVA,NK/T cells,intra
+advanced,0.053208194981493,P7,Dendritic cells,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.1012556536358934,P7,Endothelial cells,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.2362424351445145,P7,Epithelial cells,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.1149468690238059,P7,Fibroblasts,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.2127110374331338,P7,Macrophages,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.054088792326695,P7,Mast cells,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.1605492380542135,P7,Myocytes,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.0669977794002507,P7,NK/T cells,S7,Stage IVA,B/Plasma cells,intra
+advanced,0.1079722104942905,P7,B/Plasma cells,S7,Stage IVA,Dendritic cells,intra
+advanced,0.126325426062722,P7,Endothelial cells,S7,Stage IVA,Dendritic cells,intra
+advanced,0.0790867786124047,P7,Epithelial cells,S7,Stage IVA,Dendritic cells,intra
+advanced,0.1168369724543265,P7,Fibroblasts,S7,Stage IVA,Dendritic cells,intra
+advanced,0.2405684726223141,P7,Macrophages,S7,Stage IVA,Dendritic cells,intra
+advanced,0.1037580739425585,P7,Mast cells,S7,Stage IVA,Dendritic cells,intra
+advanced,0.121505232262897,P7,Myocytes,S7,Stage IVA,Dendritic cells,intra
+advanced,0.1039468335484863,P7,NK/T cells,S7,Stage IVA,Dendritic cells,intra
+advanced,0.1699038711712587,P7,B/Plasma cells,S7,Stage IVA,Endothelial cells,intra
+advanced,0.1279727445081957,P7,Dendritic cells,S7,Stage IVA,Endothelial cells,intra
+advanced,0.1288855311382709,P7,Epithelial cells,S7,Stage IVA,Endothelial cells,intra
+advanced,0.1044971375780313,P7,Fibroblasts,S7,Stage IVA,Endothelial cells,intra
+advanced,0.1407400682007342,P7,Macrophages,S7,Stage IVA,Endothelial cells,intra
+advanced,0.1594200041236209,P7,Mast cells,S7,Stage IVA,Endothelial cells,intra
+advanced,0.0935436947803845,P7,Myocytes,S7,Stage IVA,Endothelial cells,intra
+advanced,0.0750369484995036,P7,NK/T cells,S7,Stage IVA,Endothelial cells,intra
+advanced,0.2243638276687565,P7,B/Plasma cells,S7,Stage IVA,Epithelial cells,intra
+advanced,0.0408608399734307,P7,Dendritic cells,S7,Stage IVA,Epithelial cells,intra
+advanced,0.105316146423671,P7,Endothelial cells,S7,Stage IVA,Epithelial cells,intra
+advanced,0.2649906054502533,P7,Fibroblasts,S7,Stage IVA,Epithelial cells,intra
+advanced,0.1113896511329262,P7,Macrophages,S7,Stage IVA,Epithelial cells,intra
+advanced,0.0430755841896424,P7,Mast cells,S7,Stage IVA,Epithelial cells,intra
+advanced,0.0656940666350182,P7,Myocytes,S7,Stage IVA,Epithelial cells,intra
+advanced,0.1443092785263013,P7,NK/T cells,S7,Stage IVA,Epithelial cells,intra
+advanced,0.1613091892588496,P7,B/Plasma cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.0707390175129311,P7,Dendritic cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.0776064779049131,P7,Endothelial cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.2887305225213975,P7,Epithelial cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.1822620741981545,P7,Macrophages,S7,Stage IVA,Fibroblasts,intra
+advanced,0.0486489853389052,P7,Mast cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.0922921603616728,P7,Myocytes,S7,Stage IVA,Fibroblasts,intra
+advanced,0.0784115729031758,P7,NK/T cells,S7,Stage IVA,Fibroblasts,intra
+advanced,0.2009910871187547,P7,B/Plasma cells,S7,Stage IVA,Macrophages,intra
+advanced,0.1203896648130099,P7,Dendritic cells,S7,Stage IVA,Macrophages,intra
+advanced,0.0633397251512914,P7,Endothelial cells,S7,Stage IVA,Macrophages,intra
+advanced,0.056581101778674,P7,Epithelial cells,S7,Stage IVA,Macrophages,intra
+advanced,0.1337717466085206,P7,Fibroblasts,S7,Stage IVA,Macrophages,intra
+advanced,0.0744061628519382,P7,Mast cells,S7,Stage IVA,Macrophages,intra
+advanced,0.2503273198688992,P7,Myocytes,S7,Stage IVA,Macrophages,intra
+advanced,0.1001931918089118,P7,NK/T cells,S7,Stage IVA,Macrophages,intra
+advanced,0.1129836769051893,P7,B/Plasma cells,S7,Stage IVA,Mast cells,intra
+advanced,0.1112428536869976,P7,Dendritic cells,S7,Stage IVA,Mast cells,intra
+advanced,0.1630457398592794,P7,Endothelial cells,S7,Stage IVA,Mast cells,intra
+advanced,0.0895905368175624,P7,Epithelial cells,S7,Stage IVA,Mast cells,intra
+advanced,0.0945773510999295,P7,Fibroblasts,S7,Stage IVA,Mast cells,intra
+advanced,0.1997269693757758,P7,Macrophages,S7,Stage IVA,Mast cells,intra
+advanced,0.0928137567343766,P7,Myocytes,S7,Stage IVA,Mast cells,intra
+advanced,0.1360191155208891,P7,NK/T cells,S7,Stage IVA,Mast cells,intra
+advanced,0.2211993897975325,P7,B/Plasma cells,S7,Stage IVA,Myocytes,intra
+advanced,0.0804324750629571,P7,Dendritic cells,S7,Stage IVA,Myocytes,intra
+advanced,0.0672628016873216,P7,Endothelial cells,S7,Stage IVA,Myocytes,intra
+advanced,0.0776422244317751,P7,Epithelial cells,S7,Stage IVA,Myocytes,intra
+advanced,0.1093041194858768,P7,Fibroblasts,S7,Stage IVA,Myocytes,intra
+advanced,0.332346971961842,P7,Macrophages,S7,Stage IVA,Myocytes,intra
+advanced,0.0604785698650096,P7,Mast cells,S7,Stage IVA,Myocytes,intra
+advanced,0.0513334477076849,P7,NK/T cells,S7,Stage IVA,Myocytes,intra
+advanced,0.1193297716436957,P7,B/Plasma cells,S7,Stage IVA,NK/T cells,intra
+advanced,0.0839836201092108,P7,Dendritic cells,S7,Stage IVA,NK/T cells,intra
+advanced,0.0852160455502551,P7,Endothelial cells,S7,Stage IVA,NK/T cells,intra
+advanced,0.1715356433988037,P7,Epithelial cells,S7,Stage IVA,NK/T cells,intra
+advanced,0.1094980158907131,P7,Fibroblasts,S7,Stage IVA,NK/T cells,intra
+advanced,0.218765013982268,P7,Macrophages,S7,Stage IVA,NK/T cells,intra
+advanced,0.1210704784570778,P7,Mast cells,S7,Stage IVA,NK/T cells,intra
+advanced,0.0906014109679753,P7,Myocytes,S7,Stage IVA,NK/T cells,intra
+advanced,0.0601391993839126,P7,Dendritic cells,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.0571891759666994,P7,Endothelial cells,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.1415596713309548,P7,Epithelial cells,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.161696303028722,P7,Fibroblasts,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.247637463463677,P7,Macrophages,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.0979106894698767,P7,Mast cells,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.139865131537015,P7,Myocytes,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.0940023658191425,P7,NK/T cells,S8,Stage IVA,B/Plasma cells,intra
+advanced,0.0897267840954512,P7,B/Plasma cells,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1189278101904912,P7,Endothelial cells,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1442362906142464,P7,Epithelial cells,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1187829560036941,P7,Fibroblasts,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1809357699561997,P7,Macrophages,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1114186809172889,P7,Mast cells,S8,Stage IVA,Dendritic cells,intra
+advanced,0.123989121063921,P7,Myocytes,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1119825871587072,P7,NK/T cells,S8,Stage IVA,Dendritic cells,intra
+advanced,0.1137717579502715,P7,B/Plasma cells,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1046026731819485,P7,Dendritic cells,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1985588699354621,P7,Epithelial cells,S8,Stage IVA,Endothelial cells,intra
+advanced,0.100978807338877,P7,Fibroblasts,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1296634410657998,P7,Macrophages,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1220396932134038,P7,Mast cells,S8,Stage IVA,Endothelial cells,intra
+advanced,0.0781936541703033,P7,Myocytes,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1521911031439337,P7,NK/T cells,S8,Stage IVA,Endothelial cells,intra
+advanced,0.1025558347307522,P7,B/Plasma cells,S8,Stage IVA,Epithelial cells,intra
+advanced,0.0472854679129062,P7,Dendritic cells,S8,Stage IVA,Epithelial cells,intra
+advanced,0.0620823267083217,P7,Endothelial cells,S8,Stage IVA,Epithelial cells,intra
+advanced,0.3270263905648218,P7,Fibroblasts,S8,Stage IVA,Epithelial cells,intra
+advanced,0.0801570029875082,P7,Macrophages,S8,Stage IVA,Epithelial cells,intra
+advanced,0.0332256179540583,P7,Mast cells,S8,Stage IVA,Epithelial cells,intra
+advanced,0.2135221901467785,P7,Myocytes,S8,Stage IVA,Epithelial cells,intra
+advanced,0.1341451689948526,P7,NK/T cells,S8,Stage IVA,Epithelial cells,intra
+advanced,0.1525710101789755,P7,B/Plasma cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.0679682999921074,P7,Dendritic cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.0587828714770244,P7,Endothelial cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.3809863967518739,P7,Epithelial cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.0590848332294577,P7,Macrophages,S8,Stage IVA,Fibroblasts,intra
+advanced,0.0414841990097978,P7,Mast cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.1159122432127783,P7,Myocytes,S8,Stage IVA,Fibroblasts,intra
+advanced,0.1232101461479848,P7,NK/T cells,S8,Stage IVA,Fibroblasts,intra
+advanced,0.2382872334940867,P7,B/Plasma cells,S8,Stage IVA,Macrophages,intra
+advanced,0.1123032032759935,P7,Dendritic cells,S8,Stage IVA,Macrophages,intra
+advanced,0.0748703945028819,P7,Endothelial cells,S8,Stage IVA,Macrophages,intra
+advanced,0.1158144411571479,P7,Epithelial cells,S8,Stage IVA,Macrophages,intra
+advanced,0.0567078569823761,P7,Fibroblasts,S8,Stage IVA,Macrophages,intra
+advanced,0.1746128408173256,P7,Mast cells,S8,Stage IVA,Macrophages,intra
+advanced,0.1258836030813973,P7,Myocytes,S8,Stage IVA,Macrophages,intra
+advanced,0.1015204266887907,P7,NK/T cells,S8,Stage IVA,Macrophages,intra
+advanced,0.1497413577327227,P7,B/Plasma cells,S8,Stage IVA,Mast cells,intra
+advanced,0.0891995350457637,P7,Dendritic cells,S8,Stage IVA,Mast cells,intra
+advanced,0.1038269827539709,P7,Endothelial cells,S8,Stage IVA,Mast cells,intra
+advanced,0.1054620032974834,P7,Epithelial cells,S8,Stage IVA,Mast cells,intra
+advanced,0.0712229352365629,P7,Fibroblasts,S8,Stage IVA,Mast cells,intra
+advanced,0.2503099652036412,P7,Macrophages,S8,Stage IVA,Mast cells,intra
+advanced,0.0908385190442963,P7,Myocytes,S8,Stage IVA,Mast cells,intra
+advanced,0.1393987016855588,P7,NK/T cells,S8,Stage IVA,Mast cells,intra
+advanced,0.1293139253559261,P7,B/Plasma cells,S8,Stage IVA,Myocytes,intra
+advanced,0.08499232403183,P7,Dendritic cells,S8,Stage IVA,Myocytes,intra
+advanced,0.0529716362826567,P7,Endothelial cells,S8,Stage IVA,Myocytes,intra
+advanced,0.320940673936268,P7,Epithelial cells,S8,Stage IVA,Myocytes,intra
+advanced,0.1460833971099336,P7,Fibroblasts,S8,Stage IVA,Myocytes,intra
+advanced,0.1086184470824263,P7,Macrophages,S8,Stage IVA,Myocytes,intra
+advanced,0.053219793602613,P7,Mast cells,S8,Stage IVA,Myocytes,intra
+advanced,0.1038598025983461,P7,NK/T cells,S8,Stage IVA,Myocytes,intra
+advanced,0.1240016896478058,P7,B/Plasma cells,S8,Stage IVA,NK/T cells,intra
+advanced,0.0643273833104794,P7,Dendritic cells,S8,Stage IVA,NK/T cells,intra
+advanced,0.0797106360862116,P7,Endothelial cells,S8,Stage IVA,NK/T cells,intra
+advanced,0.2364932577783313,P7,Epithelial cells,S8,Stage IVA,NK/T cells,intra
+advanced,0.142326442657695,P7,Fibroblasts,S8,Stage IVA,NK/T cells,intra
+advanced,0.1353007693096848,P7,Macrophages,S8,Stage IVA,NK/T cells,intra
+advanced,0.1108734379714162,P7,Mast cells,S8,Stage IVA,NK/T cells,intra
+advanced,0.1069663832383756,P7,Myocytes,S8,Stage IVA,NK/T cells,intra
+advanced,0.0844569405480247,P8,Dendritic cells,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1189308043819969,P8,Endothelial cells,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.2111561815139764,P8,Epithelial cells,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1000320761425002,P8,Fibroblasts,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1392713622854056,P8,Macrophages,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1434461815211734,P8,Mast cells,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1206414825650539,P8,Myocytes,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.0820649710418684,P8,NK/T cells,S9,Stage IVA,B/Plasma cells,intra
+advanced,0.1202735872666813,P8,B/Plasma cells,S9,Stage IVA,Dendritic cells,intra
+advanced,0.0827073329252267,P8,Endothelial cells,S9,Stage IVA,Dendritic cells,intra
+advanced,0.1993990916627472,P8,Epithelial cells,S9,Stage IVA,Dendritic cells,intra
+advanced,0.1540970592705028,P8,Fibroblasts,S9,Stage IVA,Dendritic cells,intra
+advanced,0.0726353403778028,P8,Macrophages,S9,Stage IVA,Dendritic cells,intra
+advanced,0.0807028670729279,P8,Mast cells,S9,Stage IVA,Dendritic cells,intra
+advanced,0.0921335997849897,P8,Myocytes,S9,Stage IVA,Dendritic cells,intra
+advanced,0.1980511216391214,P8,NK/T cells,S9,Stage IVA,Dendritic cells,intra
+advanced,0.129511220566612,P8,B/Plasma cells,S9,Stage IVA,Endothelial cells,intra
+advanced,0.0893302464920797,P8,Dendritic cells,S9,Stage IVA,Endothelial cells,intra
+advanced,0.2297508427932606,P8,Epithelial cells,S9,Stage IVA,Endothelial cells,intra
+advanced,0.1120713210809068,P8,Fibroblasts,S9,Stage IVA,Endothelial cells,intra
+advanced,0.1084445972705615,P8,Macrophages,S9,Stage IVA,Endothelial cells,intra
+advanced,0.0842752941349972,P8,Mast cells,S9,Stage IVA,Endothelial cells,intra
+advanced,0.1347062409782105,P8,Myocytes,S9,Stage IVA,Endothelial cells,intra
+advanced,0.1119102366833715,P8,NK/T cells,S9,Stage IVA,Endothelial cells,intra
+advanced,0.1681036297219438,P8,B/Plasma cells,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0561440484274299,P8,Dendritic cells,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0814319357096271,P8,Endothelial cells,S9,Stage IVA,Epithelial cells,intra
+advanced,0.2975778188363717,P8,Fibroblasts,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0904330159546737,P8,Macrophages,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0404865976488444,P8,Mast cells,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0815345355740673,P8,Myocytes,S9,Stage IVA,Epithelial cells,intra
+advanced,0.1842884181270418,P8,NK/T cells,S9,Stage IVA,Epithelial cells,intra
+advanced,0.0747034239909994,P8,B/Plasma cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.093907016268013,P8,Dendritic cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.0407893535719229,P8,Endothelial cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.3598947498098139,P8,Epithelial cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.068196283005761,P8,Macrophages,S9,Stage IVA,Fibroblasts,intra
+advanced,0.1560131178254283,P8,Mast cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.0842643804293681,P8,Myocytes,S9,Stage IVA,Fibroblasts,intra
+advanced,0.1222316750986934,P8,NK/T cells,S9,Stage IVA,Fibroblasts,intra
+advanced,0.1729036044997735,P8,B/Plasma cells,S9,Stage IVA,Macrophages,intra
+advanced,0.0634473242968262,P8,Dendritic cells,S9,Stage IVA,Macrophages,intra
+advanced,0.0845556431058466,P8,Endothelial cells,S9,Stage IVA,Macrophages,intra
+advanced,0.2191554085191392,P8,Epithelial cells,S9,Stage IVA,Macrophages,intra
+advanced,0.1153089344689617,P8,Fibroblasts,S9,Stage IVA,Macrophages,intra
+advanced,0.0833652255662751,P8,Mast cells,S9,Stage IVA,Macrophages,intra
+advanced,0.1746395375061882,P8,Myocytes,S9,Stage IVA,Macrophages,intra
+advanced,0.0866243220369891,P8,NK/T cells,S9,Stage IVA,Macrophages,intra
+advanced,0.2120104804992247,P8,B/Plasma cells,S9,Stage IVA,Mast cells,intra
+advanced,0.079469614887474,P8,Dendritic cells,S9,Stage IVA,Mast cells,intra
+advanced,0.0809914422266518,P8,Endothelial cells,S9,Stage IVA,Mast cells,intra
+advanced,0.151108687312271,P8,Epithelial cells,S9,Stage IVA,Mast cells,intra
+advanced,0.1928343110419589,P8,Fibroblasts,S9,Stage IVA,Mast cells,intra
+advanced,0.0895459288373514,P8,Macrophages,S9,Stage IVA,Mast cells,intra
+advanced,0.0826197893592245,P8,Myocytes,S9,Stage IVA,Mast cells,intra
+advanced,0.1114197458358434,P8,NK/T cells,S9,Stage IVA,Mast cells,intra
+advanced,0.1391063230203666,P8,B/Plasma cells,S9,Stage IVA,Myocytes,intra
+advanced,0.0736983240459862,P8,Dendritic cells,S9,Stage IVA,Myocytes,intra
+advanced,0.1282234193505491,P8,Endothelial cells,S9,Stage IVA,Myocytes,intra
+advanced,0.1940000255427827,P8,Epithelial cells,S9,Stage IVA,Myocytes,intra
+advanced,0.1419487437316546,P8,Fibroblasts,S9,Stage IVA,Myocytes,intra
+advanced,0.1460254452718465,P8,Macrophages,S9,Stage IVA,Myocytes,intra
+advanced,0.0739129736088684,P8,Mast cells,S9,Stage IVA,Myocytes,intra
+advanced,0.1030847454279456,P8,NK/T cells,S9,Stage IVA,Myocytes,intra
+advanced,0.0884021179856191,P8,B/Plasma cells,S9,Stage IVA,NK/T cells,intra
+advanced,0.1346449344951108,P8,Dendritic cells,S9,Stage IVA,NK/T cells,intra
+advanced,0.0709329222259109,P8,Endothelial cells,S9,Stage IVA,NK/T cells,intra
+advanced,0.371682158157717,P8,Epithelial cells,S9,Stage IVA,NK/T cells,intra
+advanced,0.1165011962130371,P8,Fibroblasts,S9,Stage IVA,NK/T cells,intra
+advanced,0.0709004245425638,P8,Macrophages,S9,Stage IVA,NK/T cells,intra
+advanced,0.0720684623852736,P8,Mast cells,S9,Stage IVA,NK/T cells,intra
+advanced,0.0748677839947671,P8,Myocytes,S9,Stage IVA,NK/T cells,intra

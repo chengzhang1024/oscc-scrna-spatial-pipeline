@@ -1,0 +1,10 @@
+signature,n_defined,n_available,missing
+C1_score,27,27,
+C1_check,29,29,
+C1_full,60,60,
+Basal_control,5,5,
+Cycle_control,6,6,
+M1_full,295,295,
+M1,255,255,
+M5_full,217,217,
+M5,209,209,

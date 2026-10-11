@@ -1,0 +1,36 @@
+{
+  "source_object": "D:\\生信\\results\\integrated_3ds_annotated_paper9.h5ad",
+  "dataset": "A4_GSE181919",
+  "cell_type": "Epithelial cells",
+  "included_stages": [
+    "Normal",
+    "OLK",
+    "OSCC"
+  ],
+  "n_cells": 5609,
+  "n_genes_input": 3000,
+  "n_hvg": 3000,
+  "pca_components_for_graph": 15,
+  "batch_control": "single GSE181919 cohort; patient-aware HVG selection; cross-dataset integration avoided",
+  "clustering": "Louvain multi-resolution clustering on a 20-neighbor SNN graph",
+  "chosen_resolution": 0.2,
+  "cluster_mapping_by_descending_size": {
+    "2": "C0",
+    "0": "C1",
+    "5": "C2",
+    "3": "C3",
+    "4": "C4",
+    "7": "C5",
+    "8": "C6",
+    "6": "C7",
+    "1": "C8"
+  },
+  "random_seed": 20260830,
+  "stage_cell_counts": {
+    "Normal": 799,
+    "OLK": 173,
+    "OSCC": 4637
+  },
+  "visual_reference": "s41746-025-02297-4 Figure 3A",
+  "interpretation_boundary": "Clusters are unsupervised transcriptional states and are not yet malignant subtypes; OLK has limited epithelial cell representation."
+}
