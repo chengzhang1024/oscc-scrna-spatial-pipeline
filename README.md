@@ -11,7 +11,7 @@ Code and source-data companion for Zhang Cheng's manuscript on a basal-adhesion 
 | GSE310797 | single-cell RNA sequencing | external cohort; 94,562 retained cells, including 24,000 epithelial cells |
 | GSE208253 | Visium spatial transcriptomics | 23,029 spots in 12 sections from 10 patients |
 
-GEO: https://www.ncbi.nlm.nih.gov/geo/ . The exact derived objects, fixed annotations, network results and plot inputs used in the manuscript are supplied as a separate archival dataset. The dataset DOI and code DOI are added when the author publishes the release; local preparation is not public availability.
+GEO: https://www.ncbi.nlm.nih.gov/geo/ . The exact derived objects, fixed annotations, network results and plot inputs used in the manuscript accompany the code archive under the reserved Zenodo identifier https://doi.org/10.5281/zenodo.23297304 . The DOI becomes publicly accessible when the Zenodo record is published.
 
 This release supports two distinct workflows: numerical verification from frozen source tables, and rerunning downstream analysis from the archived annotated objects. It does not present historical preprocessing as a newly verified raw-read-to-figure pipeline. Annotated objects preserve the actual analysis inputs. GSE310797 was previously inspected; replication is external exploratory support.
 
