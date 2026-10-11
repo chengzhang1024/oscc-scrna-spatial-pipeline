@@ -892,16 +892,6 @@
       "sha256": "da9550656d77cbbe7e75c9d94f58c2681ec7571dc7a920825efbbd40c6686ab0"
     },
     {
-      "path": "figures/paper9/visual_revision_20260906/panels/Fig5A_displayed_configuration_ids.csv",
-      "bytes": 3332,
-      "sha256": "f2e4be2201c0087892c670eb6811c69764316cf17a8627c8ab168640d4510f9a"
-    },
-    {
-      "path": "figures/paper9/visual_revision_20260906/panels/Fig5_risk_table_values.csv",
-      "bytes": 783,
-      "sha256": "219dc750e5a8279406b181045a423432a54fdc8efd4662685eff5dbff191b2ef"
-    },
-    {
       "path": "results/paper9/composition_literature_v3_GSE181919_per_sample.csv",
       "bytes": 6409,
       "sha256": "a010d2ae59b07dd2c4cf1ba0f545bfa603d03f66724bd21cafb9bbb203840b5d"
@@ -920,51 +910,6 @@
       "path": "results/paper9/coverage_literature_v3_GSE310797_Early_Late.csv",
       "bytes": 197,
       "sha256": "5b842975a9f461cbcb89bf8d374378ae67196554debbe48dc1814905f7b17a2f"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_annotation_literature_v3.csv",
-      "bytes": 8851,
-      "sha256": "2ef430543d903560b801d2dfd84f87948391365f768f705804ab4aeba592ce94"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_cells_literature_v3.csv.gz",
-      "bytes": 1705812,
-      "sha256": "1a7d7c1402694ca790df5db63497431892a71a808b92b5a2d148c76042282b37"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_display_embedding_literature_v3.csv.gz",
-      "bytes": 249088,
-      "sha256": "5b4f8c4aea3bfc83c007da8b88579d7cfd667f39411cd8622b26dff11f6fa4d5"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_hvgs_literature_v3.csv",
-      "bytes": 110952,
-      "sha256": "b9c3ed0e5a6cd0718fd64e254eb4da24b66b8bd6261f50cf94c76d6e3ac867af"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_markers_literature_v3.csv.gz",
-      "bytes": 140032,
-      "sha256": "cef5b5495852e0d97d4fa65ad61d40f3f9a0049bad5dbcdc47cd6859c29dd073"
-    },
-    {
-      "path": "results/paper9/fibroblast_subcluster_program_scores_literature_v3.csv",
-      "bytes": 11365,
-      "sha256": "b61c50e0398030fdf62edf11054557bad3ec66ce5b6c3df622338fdd6b7d910d"
-    },
-    {
-      "path": "results/paper9/fibroblast_subtype_marker_audit_literature_v3.csv",
-      "bytes": 18858,
-      "sha256": "050f4535c74be00ca28fb881ca537bd231c0b320894db1dde0b69c4a82916259"
-    },
-    {
-      "path": "results/paper9/fibroblast_subtype_sample_composition_literature_v3.csv",
-      "bytes": 91586,
-      "sha256": "4779587cfa62fcf6b7631d468d80d4fd488679e44454e6c7d9204db5ac5912b2"
-    },
-    {
-      "path": "results/paper9/fibroblast_subtype_stage_tests_literature_v3.csv",
-      "bytes": 5159,
-      "sha256": "953af8dc944ec4dda95eeb654abfd00c8ac6488fa2eac04ea853119e4bc1a897"
     },
     {
       "path": "results/paper9/Fig1G_epithelial_celllevel_OLK_vs_Normal_display.csv.gz",
@@ -1027,259 +972,9 @@
       "sha256": "953f4c851facc020059901d6e6a10c91c2089d625346a6a24339e90ce79c0f94"
     },
     {
-      "path": "results/paper9/fig2h_literature_v3_de_summary.csv",
-      "bytes": 534,
-      "sha256": "98cba1bc8b1f19ec94cf678e1b3757bc3acc7c7c8c4d76fc8b79b115e5cf33c2"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_Hallmark_enrichment.csv",
-      "bytes": 144864,
-      "sha256": "d72cd57488e253d3a337ddae2996e6515b0816d66424b876ea8e98fa4d8fc741"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_Hallmark_matrix.csv",
-      "bytes": 4442,
-      "sha256": "3d458bb75117935e9e04710dc253861beaa126ae11d93b68d26a25c463355f30"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_KEGG_metabolic_enrichment.csv",
-      "bytes": 92202,
-      "sha256": "383c6022ebec411d908fb603a40560065039fb9cc0633b92cf0a5f8a9bdfc84e"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_KEGG_metabolic_matrix.csv",
-      "bytes": 4719,
-      "sha256": "5ad1e2f7e749e3cafdca44032d5fd47c5b5781094c352fb4ddcaf28583eb9ff3"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_pseudobulk_de.csv.gz",
-      "bytes": 1621036,
-      "sha256": "b112b7450e58898c76923f661c3b502af31bb651ed49495a7de4614b03378468"
-    },
-    {
-      "path": "results/paper9/fig2h_literature_v3_pseudobulk_samples.csv",
-      "bytes": 8610,
-      "sha256": "864f72adbc53c70206a1851db544e6e293f358904ea4b5903cee0716181fe744"
-    },
-    {
-      "path": "results/paper9/Fig3A_endothelial_qc_exclusions.csv.gz",
-      "bytes": 39433,
-      "sha256": "f4274919e2d69506f98acc62f783ddd134ba0786629f60dbdd22d7c41d9619d1"
-    },
-    {
-      "path": "results/paper9/Fig3A_endothelial_subtypes_metadata.json",
-      "bytes": 870,
-      "sha256": "e35edcc4104c99071df13c7c7f83fabe1e290617e33184ed74ce68b65b3ad5ba"
-    },
-    {
-      "path": "results/paper9/Fig3A_endothelial_subtype_assignments.csv.gz",
-      "bytes": 109508,
-      "sha256": "037208d2c87701f755adc87aef4698c3918cc14cd964a159cac05c27eb3f6a7f"
-    },
-    {
-      "path": "results/paper9/Fig3A_endothelial_subtype_counts.csv",
-      "bytes": 555,
-      "sha256": "d7d8e9767ee55a33c1ad11f6620fc600a1e7a0f9b666fc0ead95a02c8cb349b9"
-    },
-    {
-      "path": "results/paper9/Fig3A_GSE181919_endothelial_cluster_audit.csv",
-      "bytes": 13931,
-      "sha256": "f0c95365c2841adf58794b9b9f78927383708cfcd241b69216b3e16e64cb13eb"
-    },
-    {
-      "path": "results/paper9/Fig3A_GSE181919_endothelial_cluster_markers.csv.gz",
-      "bytes": 14517,
-      "sha256": "ec56d9d3675b4083108ad1f3b5d1af86b6201c65868a53572eeb55fd1dc0b5a5"
-    },
-    {
-      "path": "results/paper9/Fig3A_GSE310797_endothelial_cluster_audit.csv",
-      "bytes": 16004,
-      "sha256": "b633c5225cd69d93df8fa4a4d5c7c11780f6d3772c6b313e404503a7fb342607"
-    },
-    {
-      "path": "results/paper9/Fig3A_GSE310797_endothelial_cluster_markers.csv.gz",
-      "bytes": 17153,
-      "sha256": "cda850c6d8c79c53b4deff7e665968770f0fc1880e980d2a247b68d357c4272a"
-    },
-    {
-      "path": "results/paper9/Fig3B_endothelial_marker_dotplot_metadata.json",
-      "bytes": 1686,
-      "sha256": "26271759d6136e768a8b5cf484e26c3d3fe7808d7969dbd3c7e121d9734d88a2"
-    },
-    {
-      "path": "results/paper9/Fig3B_endothelial_marker_dotplot_stats.csv",
-      "bytes": 68198,
-      "sha256": "02a4c8db91aeff9d4f17032e8744a175e2e32e5f689f9f35f1c426ebd0cf3df5"
-    },
-    {
-      "path": "results/paper9/Fig3C_endothelial_patient_fractions.csv",
-      "bytes": 9326,
-      "sha256": "530cc2156e9e53740dd1f541a420d2126f300eca503b8def60f3cba6c409b8c0"
-    },
-    {
-      "path": "results/paper9/Fig3C_endothelial_patient_metadata.json",
-      "bytes": 3365,
-      "sha256": "85d793fa68d833ede73edbe65bc423d5495f884f4c04361c05dee76f0782cc34"
-    },
-    {
-      "path": "results/paper9/Fig3C_endothelial_patient_stats.csv",
-      "bytes": 6247,
-      "sha256": "39dc17242d24690a90b8dfb8e62d3e52a5acaf8a78bafdd204ea2ab6d6972fcd"
-    },
-    {
-      "path": "results/paper9/Fig3C_endothelial_stage_summary.csv",
-      "bytes": 1980,
-      "sha256": "d4256f08cca2fae7f58ebace190f5fb38d953956aa7462e9f4710dcc55bc083f"
-    },
-    {
-      "path": "results/paper9/Fig3D_endothelial_validation_metadata.json",
-      "bytes": 2446,
-      "sha256": "3d14cd9c25a710a0790b704c31cfd9e9539ed01ba9299f47c4037a847fd1b0f4"
-    },
-    {
-      "path": "results/paper9/Fig3D_endothelial_validation_patient_fractions.csv",
-      "bytes": 7059,
-      "sha256": "d14255de26050a5c086568d092a4c9b8b2ffb2084635cb96cd811ad4222f2190"
-    },
-    {
-      "path": "results/paper9/Fig3D_endothelial_validation_stage_summary.csv",
-      "bytes": 1421,
-      "sha256": "7064f0b4db22f9850cbc2e775936f9a5ac9dca51ee6b2f7f5114135f30b3538f"
-    },
-    {
-      "path": "results/paper9/Fig3D_endothelial_validation_stats.csv",
-      "bytes": 1722,
-      "sha256": "9f08990ebdbd6e1c001ec51497034bfdac8842549275b006b6e42c748d0f46eb"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_correlations_by_patient.csv",
-      "bytes": 1576,
-      "sha256": "7b6723292fd8fc1925f5b7d6ae4adac568382176c206ff79cdbe6c705a3c861d"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_correlations_by_section.csv",
-      "bytes": 2999,
-      "sha256": "ed6462a969ddf9115650de6bceb0a9e597a68ba49240d396057f726ec881ca78"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_gene_audit.csv",
-      "bytes": 945,
-      "sha256": "e8e8c3921b762c91fe2f1643b991e0785a8b7e26d07f99b8d4e65910dfff39d7"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_metadata.json",
-      "bytes": 2736,
-      "sha256": "1e447f4590d7c87d463e5e624e2f5ab95f59f708453f943a0ab6c52d0dc121bb"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_program_scores.csv.gz",
-      "bytes": 766760,
-      "sha256": "3176e5fcee9f445bd4602d6d2704244e83947e4f13ad36b0b3b5e18174d8497d"
-    },
-    {
-      "path": "results/paper9/Fig3E_endothelial_spatial_stats.csv",
-      "bytes": 419,
-      "sha256": "cb050e5f2fdcd1d38d6bf5297b36182a3369a663a5860c8a5ab773e4d2d35994"
-    },
-    {
-      "path": "results/paper9/Fig3F_fibroblast_subtype_umap_metadata.json",
-      "bytes": 467,
-      "sha256": "a929f4a8a9851b4ac2750d51c6ab636e5db133312e243c00562b6d720aa678d9"
-    },
-    {
-      "path": "results/paper9/Fig3F_fibroblast_umap_coordinates.csv.gz",
-      "bytes": 687530,
-      "sha256": "f9eef6c0cbe74ec79fa4a22cd58244dfbee74fd332d3eb5e14d9f2f71bbb7707"
-    },
-    {
-      "path": "results/paper9/Fig3G_fibroblast_marker_dotplot_metadata.json",
-      "bytes": 938,
-      "sha256": "3d66b4dc7dbc8bd53358279be2249b8ca55074ff54a0fc884e90a5d07a66e87f"
-    },
-    {
-      "path": "results/paper9/Fig3G_fibroblast_marker_dotplot_stats.csv",
-      "bytes": 59404,
-      "sha256": "3fa59af461564a0190e0c01046d7f71c9407d49e48cac05efde37cf6dd133fdd"
-    },
-    {
-      "path": "results/paper9/Fig3H_fibroblast_stage_heatmap_summary.csv",
-      "bytes": 2108,
-      "sha256": "2c9308604a44f54b3a2762b2475babe469ab52974b4467c9d908e65b148feee6"
-    },
-    {
-      "path": "results/paper9/Fig3I_cthrc1_caf_patient_fractions.csv",
-      "bytes": 2050,
-      "sha256": "c4d93df094cd8d1118ce9422275b9b2780f153d91a74df0b92c6f77f37733a15"
-    },
-    {
-      "path": "results/paper9/Fig3I_cthrc1_caf_patient_stats.csv",
-      "bytes": 1493,
-      "sha256": "ca719685a4129a9ec80581607cc45cf3204476ddee3358a5a4a434f3323f4cf1"
-    },
-    {
-      "path": "results/paper9/Fig3J_fibroblast_reproducibility_gate.csv",
-      "bytes": 1541,
-      "sha256": "c42f928ef687f1771d3a875a130870cbde807264d697a24cc1d8c24261752812"
-    },
-    {
-      "path": "results/paper9/Fig3J_stromal_effect_forest_metadata.json",
-      "bytes": 833,
-      "sha256": "179f5874ba54bc4cd4eab6821b2268d2c42150e12cad78a33d35f7ed21f566e2"
-    },
-    {
-      "path": "results/paper9/Fig3J_stromal_effect_forest_stats.csv",
-      "bytes": 11487,
-      "sha256": "f8e9557ef42bdc66395fc49f16f8285674b6b048965f478fe085a6243c1a52bd"
-    },
-    {
       "path": "results/paper9/literature_v3_GSE310797_confirmed_stage_mapping.csv",
       "bytes": 541,
       "sha256": "e60ce04733a3a9b948428644a7ebaae256bcd4f3d242ee9360689d94dbff96ab"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_annotation_literature_v3.csv",
-      "bytes": 9098,
-      "sha256": "7efdf6ab235aa847005e0ef3b52acecdda18046160ee0cdf1abeaa1636c5b94c"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_cells_literature_v3.csv.gz",
-      "bytes": 641598,
-      "sha256": "cdbc1e6a572f8e6bd1c29c154b5d5a483c5dc563cc95c2c1e897f66e84e97632"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_display_embedding_literature_v3.csv.gz",
-      "bytes": 226422,
-      "sha256": "ee99f8c348a252299dde97eb7d416449dd52f66cdfd95087261486041b976a3a"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_hvgs_literature_v3.csv",
-      "bytes": 110765,
-      "sha256": "58b339ef89ff54fd604a803eca363073e37baf8f0d3d6a726da3de03d53d5d15"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_markers_literature_v3.csv.gz",
-      "bytes": 146911,
-      "sha256": "a57372ccb57ffcf957892a749aaadb39114775eac09509d1cf5ff6c18d3c3c5a"
-    },
-    {
-      "path": "results/paper9/myeloid_subcluster_program_scores_literature_v3.csv",
-      "bytes": 10621,
-      "sha256": "9a3cc1dea203a338c63c2cb86070b17e03ab1d4116a4dcf935910d0ae8aa11cc"
-    },
-    {
-      "path": "results/paper9/myeloid_subtype_marker_audit_literature_v3.csv",
-      "bytes": 13735,
-      "sha256": "3070d144c2811c9e2235ddb19ea2c957a2ce02e55c7aa49b102c01480d980af9"
-    },
-    {
-      "path": "results/paper9/myeloid_subtype_sample_composition_literature_v3.csv",
-      "bytes": 80450,
-      "sha256": "34f4836d16fa719d985c43a221b8261ee8022cfb968524ac2caee615532cf5d7"
-    },
-    {
-      "path": "results/paper9/myeloid_subtype_stage_tests_literature_v3.csv",
-      "bytes": 4717,
-      "sha256": "7ba99d177387311805061257ac38c00e8834d7c26a9745467eb5d08b3bbc3d27"
     },
     {
       "path": "results/paper9/roe_literature_v3_GSE181919_Normal_OLK_OSCC.csv",
@@ -1290,26 +985,6 @@
       "path": "results/paper9/roe_literature_v3_GSE310797_Early_Late.csv",
       "bytes": 455,
       "sha256": "a62726d07b8123975f09627328369a9030a160d76121b249c1f3bd05ca420d8d"
-    },
-    {
-      "path": "results/paper9/tam_caf_candidate_niche_sample_scores_literature_v3.csv",
-      "bytes": 12822,
-      "sha256": "d30a71066075cea3eb77add8778d5809b74766a8852e1142641e2c16db357487"
-    },
-    {
-      "path": "results/paper9/tam_caf_candidate_niche_tests_literature_v3.csv",
-      "bytes": 672,
-      "sha256": "388fe047972bdc1feb39a2b3992058c5bedf4dc72087cc1c031fd91d6893e787"
-    },
-    {
-      "path": "results/paper9/tam_caf_subclustering_decision_literature_v3.json",
-      "bytes": 1143,
-      "sha256": "59a5b55d800169c37fbe7240351c056e97d9eb765ac0128c287350f44890ea0b"
-    },
-    {
-      "path": "results/paper9/tam_caf_subtype_stage_tests_literature_v3.csv",
-      "bytes": 9659,
-      "sha256": "344acbccde4d66d241cda4c21804ec4533c9409f26cc4a8a8492e4f4f3a732ed"
     },
     {
       "path": "results/paper9/gene_sets/Enrichr.GO_Biological_Process_2023.gmt",
@@ -1630,11 +1305,6 @@
       "path": "figures/paper9/Fig1G_epithelial_stage_transitions.pdf",
       "bytes": 888069,
       "sha256": "bd35b6b6de83082bad2dd250502bedd086aafb705afc15f77abb764f8fde46a0"
-    },
-    {
-      "path": "figures/paper9/Fig1H_epithelial_GO_radar.pdf",
-      "bytes": 42555,
-      "sha256": "ea14892e02c22f0315d31e623702ee09d9010f4e61c99612da66c45463645884"
     },
     {
       "path": "figures/paper9/Normal_OLK_OSCC_celltypes_reference_style.pdf",

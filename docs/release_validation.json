@@ -35,5 +35,7 @@
   "git_archive_independent_table_verification": "passed",
   "git_archive_343_input_checksum_restore": "passed",
   "git_archive_original_frozen_input_validation": "passed",
-  "tested_platform": "Windows, Python 3.13.5"
+  "tested_platform": "Windows, Python 3.13.5",
+  "current_archive_input_file_count": 277,
+  "current_archive_checksum_restore_and_core_validation": "passed"
 }
