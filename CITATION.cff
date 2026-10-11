@@ -8,4 +8,5 @@ authors:
 version: v1.1.0
 date-released: "2026-10-11"
 license: MIT
+repository-code: "https://github.com/chengzhang1024/oscc-scrna-spatial-pipeline"
 abstract: "Deterministic single-cell and spatial transcriptomics pipeline with within-patient replication and matched random-set baselines for an oral squamous cell carcinoma study."
