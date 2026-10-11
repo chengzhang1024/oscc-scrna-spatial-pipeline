@@ -15,3 +15,5 @@ For spatial training: create `envs/spatial.yml`. Install the appropriate PyTorch
 The R package version record is `figure4_R_packages.csv`. Install Seurat 5.5.1, WGCNA 1.74 and hdWGCNA 0.4.12 with their dependencies in a separate R library. These scripts do not automatically install R packages or modify a system library. R version and session details are provided with the archived source tables. Exact retraining of metacells and networks can depend on R/package versions; the original network outputs are archived.
 
 Pins record the analysis environment, not a claim that every platform has binary wheels. Core and figure verification results are in docs/release_validation.json. Historical upstream training is documented separately from verified postprocessing.
+
+The exact clean Windows Python 3.13 environment used for verification and all five-figure redrawing is recorded in requirements-tested.lock.txt. Install that lock file to reproduce the tested dependency set. GitHub Actions provides an additional Linux table-verification job when the repository is published.

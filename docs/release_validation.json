@@ -31,5 +31,9 @@
   "spatial_max_absolute_difference": 1.2626244494384764e-07,
   "manuscript_pages_visually_checked": 16,
   "figure_format": "Five Letter vector PDFs and 1950x2700 300 dpi PNGs; 43-page enlarged source-panel supplement",
-  "scope": "Verified downstream analysis from archived derived inputs and frozen-panel redrawing. Historical raw preprocessing, GPU training and R network refitting are documented but not newly rerun."
+  "scope": "Verified downstream analysis from archived derived inputs and frozen-panel redrawing. Historical raw preprocessing, GPU training and R network refitting are documented but not newly rerun.",
+  "git_archive_independent_table_verification": "passed",
+  "git_archive_343_input_checksum_restore": "passed",
+  "git_archive_original_frozen_input_validation": "passed",
+  "tested_platform": "Windows, Python 3.13.5"
 }
