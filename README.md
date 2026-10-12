@@ -11,7 +11,7 @@ Code and source-data companion for Zhang Cheng's manuscript on a basal-adhesion 
 | GSE310797 | single-cell RNA sequencing | external cohort; 94,562 retained cells, including 24,000 epithelial cells |
 | GSE208253 | Visium spatial transcriptomics | 23,029 spots in 12 sections from 10 patients |
 
-GEO: https://www.ncbi.nlm.nih.gov/geo/ . The exact derived objects, fixed annotations, network results and plot inputs used in the manuscript accompany the code archive under the reserved Zenodo identifier https://doi.org/10.5281/zenodo.23297304 . The DOI becomes publicly accessible when the Zenodo record is published.
+GEO: https://www.ncbi.nlm.nih.gov/geo/ . The exact derived objects, fixed annotations, network results and plot inputs used in the manuscript are distributed as attachments to the versioned GitHub release: https://github.com/chengzhang1024/oscc-scrna-spatial-pipeline/releases/tag/v1.1.0 . See docs/DATA_ARCHIVE.md for downloading and checksum verification.
 
 This release supports two distinct workflows: numerical verification from frozen source tables, and rerunning downstream analysis from the archived annotated objects. It does not present historical preprocessing as a newly verified raw-read-to-figure pipeline. Annotated objects preserve the actual analysis inputs. GSE310797 was previously inspected; replication is external exploratory support.
 
@@ -39,7 +39,7 @@ This checks the disjoint fixed signatures; 24,000 cells / 16 patients; rank-resi
 
 ## Rerun from archived inputs
 
-Download the four data files listed in docs/DATA_ARCHIVE.md into a separate directory, then:
+Download the data attachments listed in docs/DATA_ARCHIVE.md into a separate directory. First extract integrated_3ds_annotated_paper9.h5ad.zip there; leave analysis_inputs_and_source_tables.zip compressed. Then:
 ```
 python scripts/restore_inputs.py /path/to/downloaded/files
 python scripts/56_figure5_program_replication.py all

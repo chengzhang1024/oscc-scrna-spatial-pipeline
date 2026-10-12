@@ -6,8 +6,8 @@ authors:
     given-names: Zhang
     orcid: "https://orcid.org/0009-0007-7907-6655"
 version: v1.1.0
-date-released: "2026-10-11"
 license: MIT
 repository-code: "https://github.com/chengzhang1024/oscc-scrna-spatial-pipeline"
-doi: "10.5281/zenodo.23297304"
 abstract: "Deterministic single-cell and spatial transcriptomics pipeline with within-patient replication and matched random-set baselines for an oral squamous cell carcinoma study."
+date-released: "2026-10-12"
+url: "https://github.com/chengzhang1024/oscc-scrna-spatial-pipeline/releases/tag/v1.1.0"

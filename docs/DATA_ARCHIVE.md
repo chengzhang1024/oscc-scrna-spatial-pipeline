@@ -1,13 +1,24 @@
-# Archival dataset files
+# Derived inputs distributed with the GitHub release
 
-Publish the following files together in a Zenodo dataset record:
+Release: https://github.com/chengzhang1024/oscc-scrna-spatial-pipeline/releases/tag/v1.1.0
 
-1. integrated_3ds_annotated_paper9.h5ad: exact annotated single-cell atlas used downstream.
+Download these attachments into one directory:
+
+1. integrated_3ds_annotated_paper9.h5ad.zip: losslessly compressed annotated single-cell atlas. Extract it in the download directory to obtain integrated_3ds_annotated_paper9.h5ad.
 2. GSE208253_cleaned_deconvolved.h5ad: exact cleaned and deconvolved spatial object.
-3. analysis_inputs_and_source_tables.zip: fixed network inputs/outputs, gene sets, niche assignments, source tables, display coordinates and original vector panels.
-4. data_manifest.json: project-relative destination, byte count and SHA-256 of each archived file.
-5. README.md: dataset description and source citations.
+3. analysis_inputs_and_source_tables.zip: fixed network inputs/outputs, gene sets, niche assignments, source tables, display coordinates and original vector panels. Leave this ZIP compressed.
+4. data_manifest.json: original project-relative paths, byte counts and SHA-256 checksums of all 277 archived inputs.
+5. DATA_README.md: dataset description, source citations and restoration instructions.
+6. release_asset_checksums.json: size and SHA-256 of the distributed attachments, including the ZIP wrapper.
 
-The h5ad objects are derived data, not the original GEO raw reads. They contain public study cell/spot identifiers and pseudonymous patient/sample labels. No clinical identifiers should be added to them. Verify source reuse/redistribution terms when publishing this dataset. Cite GEO accessions and original investigators; do not claim ownership of their data.
+Extract the code ZIP separately or clone the repository. From its root, run:
 
-The archive is separate from the GitHub release to avoid large binary files in Git. Add the published data DOI to this README and the manuscript's data statement before submission. `restore_inputs.py` checks all listed hashes before analyses run.
+```text
+python scripts/restore_inputs.py /path/to/downloaded/files
+```
+
+The command verifies every original input against data_manifest.json. The single-cell ZIP wrapper preserves the original H5AD byte-for-byte; its extraction was checked against the original SHA-256.
+
+These H5AD objects are derived inputs, not original GEO raw reads. They contain public study cell/spot identifiers and pseudonymous sample labels. Source datasets, software and gene sets retain their original rights, attribution and licensing terms. Cite the original GEO studies. The MIT code license does not change original source-data rights.
+
+Large binary objects are release attachments, not Git-tracked files. A Zenodo DOI is not assigned to this release.
